@@ -1,0 +1,970 @@
+{
+  "29d6b745-97be-4f38-88f7-9408302aae74": {
+    "id": "00325992-ec1c-469a-8df0-ffb9a197d221",
+    "n": "Goblin Bowling Team",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/0/00325992-ec1c-469a-8df0-ffb9a197d221.jpg?1562799056",
+    "cn": "44"
+  },
+  "d0180a42-b7eb-4ea2-9f13-e6cf573f8004": {
+    "id": "05213eec-322f-4bc7-b607-217290447f40",
+    "n": "Organ Harvest",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/05213eec-322f-4bc7-b607-217290447f40.jpg?1562799057",
+    "cn": "35"
+  },
+  "044c3f16-f27d-4f36-a996-eb0aca1cff6c": {
+    "id": "059fc73f-7a00-4014-9e92-75765798cf2d",
+    "n": "Cardboard Carapace",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/059fc73f-7a00-4014-9e92-75765798cf2d.jpg?1562799059",
+    "cn": "54"
+  },
+  "53a78dde-dfd9-4d36-bb69-0dd6eedd1250": {
+    "id": "08ae92f5-4219-4194-b152-c2b2653aef3f",
+    "n": "Handcuffs",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/8/08ae92f5-4219-4194-b152-c2b2653aef3f.jpg?1562799060",
+    "cn": "32"
+  },
+  "4c39b74c-db93-4dba-8ce3-3683b8cfaac5": {
+    "id": "1285c125-e145-4565-a029-352ac6adf688",
+    "n": "Denied!",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/2/1285c125-e145-4565-a029-352ac6adf688.jpg?1562799062",
+    "cn": "22"
+  },
+  "91758c4c-5f8c-41c9-84bf-dbac6b6bc8da": {
+    "id": "14606012-d57b-4fe7-908b-b5cfc272994b",
+    "n": "Sorry",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/4/14606012-d57b-4fe7-908b-b5cfc272994b.jpg?1704848295",
+    "cn": "27"
+  },
+  "4f2a420c-6ba6-4611-aa71-1b61e877da61": {
+    "id": "14fb0d87-b086-4546-8f7f-786cb0b7b2f5",
+    "n": "Look at Me, I'm the DCI",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/4/14fb0d87-b086-4546-8f7f-786cb0b7b2f5.jpg?1562799065",
+    "cn": "8"
+  },
+  "6eb03f6c-9293-4403-8bd1-5e32629fc791": {
+    "id": "17c18690-cf8c-4006-a981-6258d18ba538",
+    "n": "Ghazbán Ogress",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/7/17c18690-cf8c-4006-a981-6258d18ba538.jpg?1562799066",
+    "cn": "60"
+  },
+  "9716976e-1b52-4351-932e-b99fe206afbd": {
+    "id": "17ed4800-dc0f-4681-9ae6-74bd0018e8dc",
+    "n": "Burning Cinder Fury of Crimson Chaos Fire",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/7/17ed4800-dc0f-4681-9ae6-74bd0018e8dc.jpg?1739793022",
+    "cn": "40"
+  },
+  "86c3c5b5-fdc0-4562-ba7b-be84f6b027b6": {
+    "id": "1834ac92-8b4e-4442-a834-acd580e1ef99",
+    "n": "Jack-in-the-Mox",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/8/1834ac92-8b4e-4442-a834-acd580e1ef99.jpg?1562799070",
+    "cn": "75"
+  },
+  "d0db0ada-b81f-4a34-814f-165ec6e57f5b": {
+    "id": "1c2953cd-1b7e-41aa-959f-fb7ba2964bfb",
+    "n": "Clam Session",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/c/1c2953cd-1b7e-41aa-959f-fb7ba2964bfb.jpg?1562799071",
+    "cn": "20"
+  },
+  "5e91120b-3375-44bb-8e6b-6dc05082eb41": {
+    "id": "1cdb8678-3c0c-4ee3-aeff-52a4db4e09c4",
+    "n": "Giant Fan",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/c/1cdb8678-3c0c-4ee3-aeff-52a4db4e09c4.jpg?1585994350",
+    "cn": "74"
+  },
+  "d3bb9cfe-08ec-4c32-846a-2c16b9675e97": {
+    "id": "1ce65cbd-e2cf-4fbf-8424-287cd87c97f1",
+    "n": "Flock of Rabid Sheep",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/c/1ce65cbd-e2cf-4fbf-8424-287cd87c97f1.jpg?1562799074",
+    "cn": "57"
+  },
+  "b201b2ce-f939-4a2d-ad59-181c64f5a562": {
+    "id": "21943fe2-3eeb-441a-a3ae-99866c6e76bd",
+    "n": "Bronze Calendar",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075",
+    "cn": "71"
+  },
+  "2ef4dfcf-7a53-49bc-aa19-f2796ebac3ae": {
+    "id": "2303a4e0-b8eb-4e8b-bc62-507eee52e7bc",
+    "n": "Fowl Play",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/2303a4e0-b8eb-4e8b-bc62-507eee52e7bc.jpg?1582980605",
+    "cn": "24"
+  },
+  "b026a2da-59e9-4b26-9094-a1cc2a5b95ff": {
+    "id": "23bc822d-a028-4162-bf23-6ff4b9f43688",
+    "n": "Goblin Tutor",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/23bc822d-a028-4162-bf23-6ff4b9f43688.jpg?1562799078",
+    "cn": "45"
+  },
+  "2698465c-5171-4710-acb0-4aaceccfcc18": {
+    "id": "2757b582-d995-45f9-9482-0792b0f0784d",
+    "n": "Get a Life",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/7/2757b582-d995-45f9-9482-0792b0f0784d.jpg?1562799080",
+    "cn": "4"
+  },
+  "3ed835f6-fb5c-45b6-906b-a5d36bcc3742": {
+    "id": "2905accf-ea94-48fa-8dbe-b4a7dd57a277",
+    "n": "Growth Spurt",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/9/2905accf-ea94-48fa-8dbe-b4a7dd57a277.jpg?1562799082",
+    "cn": "61"
+  },
+  "f0ba392b-fd12-441c-a68b-a53dffe27f7f": {
+    "id": "2abf208d-5fe6-4030-a19d-7505832dab3b",
+    "n": "Mirror Mirror",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/a/2abf208d-5fe6-4030-a19d-7505832dab3b.jpg?1562799083",
+    "cn": "77"
+  },
+  "0b1fc8da-5fff-40a1-924e-5875c7b948a1": {
+    "id": "349ba052-10f7-4612-91b7-a1528c188ec3",
+    "n": "Clambassadors",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/4/349ba052-10f7-4612-91b7-a1528c188ec3.jpg?1562799085",
+    "cn": "18"
+  },
+  "7ccaf9cc-84c3-4617-ae8a-236c5fe5d2dc": {
+    "id": "3a17ecb8-cf64-420a-9038-609bfdb4c669",
+    "n": "Hungry Hungry Heifer",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/a/3a17ecb8-cf64-420a-9038-609bfdb4c669.jpg?1562799086",
+    "cn": "63"
+  },
+  "c5905f06-49cb-4be2-a3c6-a3c3e49031ae": {
+    "id": "3ef5452d-b5cb-4772-a5ac-1b4c976e03a5",
+    "n": "Landfill",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/e/3ef5452d-b5cb-4772-a5ac-1b4c976e03a5.jpg?1562799088",
+    "cn": "49"
+  },
+  "e4424b0a-3174-495a-8d0a-da1285d21996": {
+    "id": "3fcefcab-8988-47e8-89bb-9b76f14c9d8b",
+    "n": "Chicken à la King",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/f/3fcefcab-8988-47e8-89bb-9b76f14c9d8b.jpg?1562799089",
+    "cn": "17"
+  },
+  "22826477-c096-4b28-aa58-8368525209eb": {
+    "id": "43417d07-725e-4c3d-99d2-bbbfbdeee770",
+    "n": "Bureaucracy",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/3/43417d07-725e-4c3d-99d2-bbbfbdeee770.jpg?1562799091",
+    "cn": "14"
+  },
+  "41dd29b9-f08d-4ccc-8dc0-da11d2d456e9": {
+    "id": "4c85d097-e87b-41ee-93c6-0e54ec41b174",
+    "n": "Blacker Lotus",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/c/4c85d097-e87b-41ee-93c6-0e54ec41b174.jpg?1562799094",
+    "cn": "70"
+  },
+  "f6c81c1f-b07e-4be0-ac3c-100ce6cabe28": {
+    "id": "4dfacc30-0acc-4b2d-bc7b-6ff72afc1077",
+    "n": "Clay Pigeon",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/d/4dfacc30-0acc-4b2d-bc7b-6ff72afc1077.jpg?1562799095",
+    "cn": "73"
+  },
+  "b2c6aa39-2d2a-459c-a555-fb48ba993373": {
+    "id": "547f89f2-30a0-493a-914e-6251d2574099",
+    "n": "Island",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/4/547f89f2-30a0-493a-914e-6251d2574099.jpg?1562799096",
+    "cn": "85"
+  },
+  "35caa378-440d-41a1-8ce4-174bfb7c16ac": {
+    "id": "573cf5e6-35ee-4eb6-990a-524ba7335797",
+    "n": "Incoming!",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/7/573cf5e6-35ee-4eb6-990a-524ba7335797.jpg?1562799098",
+    "cn": "64"
+  },
+  "78abf265-7448-4896-b3b5-5654263e5686": {
+    "id": "5979237f-ff41-4e87-b2e4-d09b81eca2dc",
+    "n": "I'm Rubber, You're Glue",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/5979237f-ff41-4e87-b2e4-d09b81eca2dc.jpg?1562799099",
+    "cn": "5"
+  },
+  "ebed673b-c332-4afa-b9ad-31ff9da5839b": {
+    "id": "5ba96c2a-9ccf-4b28-8af5-f8c221fc6823",
+    "n": "Rock Lobster",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/b/5ba96c2a-9ccf-4b28-8af5-f8c221fc6823.jpg?1562799102",
+    "cn": "79"
+  },
+  "c07da3e3-8a24-442a-bae0-f128531ff305": {
+    "id": "60dfba09-9e75-4fb9-a163-40e3149f7785",
+    "n": "Psychic Network",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/0/60dfba09-9e75-4fb9-a163-40e3149f7785.jpg?1562799103",
+    "cn": "26"
+  },
+  "9adc9df1-bab0-4458-9453-7028f23693b8": {
+    "id": "616abc97-4276-4e96-bbe8-e47ba7cac075",
+    "n": "The Ultimate Nightmare of Wizards of the Coast® Customer Service",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/1/616abc97-4276-4e96-bbe8-e47ba7cac075.jpg?1761127786",
+    "cn": "53"
+  },
+  "ee0f8b3d-5c40-43e0-9ed7-9963831a1013": {
+    "id": "630efac8-3033-4c2d-9127-b3b2f78bb136",
+    "n": "Free-for-All",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/3/630efac8-3033-4c2d-9127-b3b2f78bb136.jpg?1562799106",
+    "cn": "25"
+  },
+  "3593754d-df62-4ee0-80df-0c3fb057816a": {
+    "id": "640ac565-331b-47e2-b2af-a8a94a96488a",
+    "n": "Chicken Egg",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/4/640ac565-331b-47e2-b2af-a8a94a96488a.jpg?1582935068",
+    "cn": "41"
+  },
+  "56719f6a-1a6c-4c0a-8d21-18f7d7350b68": {
+    "id": "69384f97-3333-4aa7-bc4f-928ba49a2c80",
+    "n": "Swamp",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109",
+    "cn": "86"
+  },
+  "8e409d83-b63d-48e8-b55a-2a2d364a7a0f": {
+    "id": "6d1cb9ab-512e-4bb1-8d77-37a0b2d3e7f8",
+    "n": "Paper Tiger",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/d/6d1cb9ab-512e-4bb1-8d77-37a0b2d3e7f8.jpg?1562799110",
+    "cn": "78"
+  },
+  "9d4a60f8-cb0d-4423-a666-219c33c0a450": {
+    "id": "6e68f012-307f-4ffb-909e-1284fb39e64f",
+    "n": "Jester's Sombrero",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/e/6e68f012-307f-4ffb-909e-1284fb39e64f.jpg?1562799112",
+    "cn": "76"
+  },
+  "8f3a2b00-9f63-4178-ade4-8eb0c808bec3": {
+    "id": "71941f1f-b41e-4ec9-a7c6-61eccaa47b0e",
+    "n": "Double Take",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/1/71941f1f-b41e-4ec9-a7c6-61eccaa47b0e.jpg?1720467981",
+    "cn": "23"
+  },
+  "5c0a33bd-119d-40d1-99c0-02701b5ba9e8": {
+    "id": "747ff5d4-69cd-447e-a18d-edcf583d0539",
+    "n": "Miss Demeanor",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/4/747ff5d4-69cd-447e-a18d-edcf583d0539.jpg?1562799115",
+    "cn": "10"
+  },
+  "6cb8a17e-3707-48ec-ae0c-d66cf912b9cd": {
+    "id": "777d1435-bde3-46f7-a35d-2a663e05fb97",
+    "n": "Spatula of the Ages",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/7/777d1435-bde3-46f7-a35d-2a663e05fb97.jpg?1691495635",
+    "cn": "81"
+  },
+  "8eb737d7-0be2-4e80-801f-0562d41e8b67": {
+    "id": "79624ebe-7110-486d-82ff-b64c662dc6de",
+    "n": "Prismatic Wardrobe",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/9/79624ebe-7110-486d-82ff-b64c662dc6de.jpg?1593865843",
+    "cn": "12"
+  },
+  "d071d5ca-64a4-47bc-aeb1-dd2dbc46a6a3": {
+    "id": "8bfe56d0-c15f-4a68-a0b8-911e13b1bc9a",
+    "n": "Urza's Science Fair Project",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/b/8bfe56d0-c15f-4a68-a0b8-911e13b1bc9a.jpg?1562799119",
+    "cn": "83"
+  },
+  "a3fb7228-e76b-4e96-a40e-20b5fed75685": {
+    "id": "8e3c2e1a-181e-4275-ad09-51c9de039d32",
+    "n": "Mountain",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121",
+    "cn": "87"
+  },
+  "ed416b99-681a-4c83-8c4c-335766766d16": {
+    "id": "922663f0-f444-4364-a706-eb6b91ac36ef",
+    "n": "Elvish Impersonators",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/2/922663f0-f444-4364-a706-eb6b91ac36ef.jpg?1562799122",
+    "cn": "56"
+  },
+  "8d2f2b5b-2e71-425e-a049-34a81d416c66": {
+    "id": "93b690ef-9fcb-42be-bbee-6aad516534a5",
+    "n": "Charm School",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/3/93b690ef-9fcb-42be-bbee-6aad516534a5.jpg?1562799124",
+    "cn": "1"
+  },
+  "36cc06c3-d295-46e1-851b-f8f099f44dd0": {
+    "id": "97cfc18c-ed01-4016-86a2-162d7bc1bf33",
+    "n": "Sex Appeal",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/7/97cfc18c-ed01-4016-86a2-162d7bc1bf33.jpg?1562799126",
+    "cn": "13"
+  },
+  "8673cc01-7d5d-41ee-aede-f21efc74216c": {
+    "id": "987ddd67-305a-4c95-9f1a-17eeeb058aaa",
+    "n": "Squirrel Farm",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/8/987ddd67-305a-4c95-9f1a-17eeeb058aaa.jpg?1562799127",
+    "cn": "66"
+  },
+  "e88f6b45-0cde-4fd4-80f0-f252f6fd59fa": {
+    "id": "99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9",
+    "n": "Infernal Spawn of Evil",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128",
+    "cn": "33"
+  },
+  "a8f0974a-8706-476f-82ee-72485b6b558e": {
+    "id": "9ad6b646-a2b2-4817-856c-580a5953d87e",
+    "n": "Common Courtesy",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/a/9ad6b646-a2b2-4817-856c-580a5953d87e.jpg?1562799130",
+    "cn": "21"
+  },
+  "fc127648-0f52-4219-990e-39abd7004bf2": {
+    "id": "9b5d0ead-7798-49a2-8106-418db1d4fd69",
+    "n": "Jalum Grifter",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/b/9b5d0ead-7798-49a2-8106-418db1d4fd69.jpg?1562799131",
+    "cn": "47"
+  },
+  "d27845b2-8bd3-4d29-bbe2-f2b2091d1b61": {
+    "id": "a135b61b-eb8c-44d7-8227-bd268c3ca463",
+    "n": "Jumbo Imp",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/1/a135b61b-eb8c-44d7-8227-bd268c3ca463.jpg?1562799133",
+    "cn": "34"
+  },
+  "9b02fc38-d155-4bde-b8c3-e3b92975cfc5": {
+    "id": "a2996a63-9fb6-4455-906d-13f917a8bb29",
+    "n": "Strategy, Schmategy",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134",
+    "cn": "52"
+  },
+  "5a4142df-7e24-43a2-a1e5-7a2d2bf70408": {
+    "id": "a5cee00a-5ab5-43c3-8017-db20d37e69c4",
+    "n": "Chaos Confetti",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/5/a5cee00a-5ab5-43c3-8017-db20d37e69c4.jpg?1562799136",
+    "cn": "72"
+  },
+  "dc9da00f-7624-4926-8d75-fd945f1b8a29": {
+    "id": "a91f28e0-867a-4713-955d-582201af63ae",
+    "n": "Mine, Mine, Mine!",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901",
+    "cn": "65"
+  },
+  "8fd7503b-e722-49a7-a8ac-786e7354bc95": {
+    "id": "a9f9c279-e382-4feb-9575-196e7cf5d7dc",
+    "n": "B.F.M. (Big Furry Monster)",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/9/a9f9c279-e382-4feb-9575-196e7cf5d7dc.jpg?1562799139",
+    "cn": "28"
+  },
+  "15232fee-094f-4a6b-9511-c8e2e7a8c520": {
+    "id": "aea8ab0f-6898-4312-9989-915d6357515f",
+    "n": "Gerrymandering",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/e/aea8ab0f-6898-4312-9989-915d6357515f.jpg?1562799140",
+    "cn": "59"
+  },
+  "1759f6c0-3ad5-4d15-b841-14ef00114994": {
+    "id": "b2b915b6-4436-4007-a014-415694117c7e",
+    "n": "Volrath's Motion Sensor",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/2/b2b915b6-4436-4007-a014-415694117c7e.jpg?1562799142",
+    "cn": "39"
+  },
+  "1ffd1f01-bec4-48a7-b2ef-c53af0efb450": {
+    "id": "b39db7a3-028e-4c01-8ff9-64d2a1397379",
+    "n": "Lexivore",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/3/b39db7a3-028e-4c01-8ff9-64d2a1397379.jpg?1562799143",
+    "cn": "7"
+  },
+  "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6": {
+    "id": "b3ed8a17-ce32-4100-8ffc-fb8af1c35142",
+    "n": "Forest",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/3/b3ed8a17-ce32-4100-8ffc-fb8af1c35142.jpg?1562799145",
+    "cn": "88"
+  },
+  "cd60e1c7-7fb0-4331-ad59-1fa4a0ebb786": {
+    "id": "b57e1b62-df2b-48dc-9cb1-d86c9d3ab986",
+    "n": "Clam-I-Am",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/5/b57e1b62-df2b-48dc-9cb1-d86c9d3ab986.jpg?1595053626",
+    "cn": "19"
+  },
+  "f7461c8f-eec1-4335-813e-1a6d25976137": {
+    "id": "b7105d13-798e-472b-bb00-d419886e9cc7",
+    "n": "Temp of the Damned",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/7/b7105d13-798e-472b-bb00-d419886e9cc7.jpg?1562799148",
+    "cn": "38"
+  },
+  "28a2976b-11ba-4e7d-9411-8ba968125203": {
+    "id": "b8369211-e7e1-45e1-a142-274f4236e230",
+    "n": "Team Spirit",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/8/b8369211-e7e1-45e1-a142-274f4236e230.jpg?1562799149",
+    "cn": "67"
+  },
+  "da286f5d-6fc9-498f-9629-b4dcb02d1a01": {
+    "id": "ba42881b-9275-4b54-a17f-dec87d21a270",
+    "n": "Once More with Feeling",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/a/ba42881b-9275-4b54-a17f-dec87d21a270.jpg?1720467991",
+    "cn": "11"
+  },
+  "93a1513d-f9d1-41cf-9b44-0c103fd9c22c": {
+    "id": "bd53daa7-9130-4187-9e53-1075c6ab67d0",
+    "n": "Knight of the Hokey Pokey",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/d/bd53daa7-9130-4187-9e53-1075c6ab67d0.jpg?1562799152",
+    "cn": "6"
+  },
+  "76407853-7103-4010-b198-33a04ece7b23": {
+    "id": "c6bec883-a2e0-49a5-8cdd-2755c0963a2d",
+    "n": "Poultrygeist",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/6/c6bec883-a2e0-49a5-8cdd-2755c0963a2d.jpg?1562799154",
+    "cn": "37"
+  },
+  "c0bb1f84-41b6-4465-93aa-089fc1645527": {
+    "id": "c7b3502d-5519-4254-b946-226edc3bd7e4",
+    "n": "Scissors Lizard",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/7/c7b3502d-5519-4254-b946-226edc3bd7e4.jpg?1562799155",
+    "cn": "80"
+  },
+  "bc71ebf6-2056-41f7-be35-b2e5c34afa99": {
+    "id": "cb382733-ff3d-43e2-9b1e-efa2f7c28173",
+    "n": "Plains",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/b/cb382733-ff3d-43e2-9b1e-efa2f7c28173.jpg?1562799157",
+    "cn": "84"
+  },
+  "7b1aadc2-58fc-4a21-a294-b7a64236d75b": {
+    "id": "cc70457a-34dc-48a1-8643-4a78c1e6f2d3",
+    "n": "Checks and Balances",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/c/cc70457a-34dc-48a1-8643-4a78c1e6f2d3.jpg?1562799158",
+    "cn": "16"
+  },
+  "d824ed83-af76-4e67-8e9d-0969e5534072": {
+    "id": "cdb3998e-b4a1-4dd1-8e12-24579ec8938b",
+    "n": "Deadhead",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/d/cdb3998e-b4a1-4dd1-8e12-24579ec8938b.jpg?1562799160",
+    "cn": "30"
+  },
+  "afe04e75-ebfd-448a-96de-699b3f5a4ed8": {
+    "id": "cfd1edbc-ea37-42c4-8fb9-deac011372b5",
+    "n": "Mesa Chicken",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/f/cfd1edbc-ea37-42c4-8fb9-deac011372b5.jpg?1691495588",
+    "cn": "9"
+  },
+  "f38b9fbc-1cb9-450a-93e8-a6b8139956ae": {
+    "id": "d01a114f-3349-4a62-bfad-0dc33b78a53f",
+    "n": "The Cheese Stands Alone",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/0/d01a114f-3349-4a62-bfad-0dc33b78a53f.jpg?1562799163",
+    "cn": "2"
+  },
+  "d0bd00f2-91bb-4c9c-a8e7-f8aeadc0bbb9": {
+    "id": "d15c6375-2e4e-47f7-88e1-d90794e7f724",
+    "n": "B.F.M. (Big Furry Monster)",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/1/d15c6375-2e4e-47f7-88e1-d90794e7f724.jpg?1664469567",
+    "cn": "29"
+  },
+  "4d4b7108-5287-4d52-94a1-a0f99c14c969": {
+    "id": "d420010f-5389-4aa2-a5f8-d9631249679a",
+    "n": "Ashnod's Coupon",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/4/d420010f-5389-4aa2-a5f8-d9631249679a.jpg?1720469165",
+    "cn": "69"
+  },
+  "93b1efd1-5297-4c47-995a-b6912a8fdba7": {
+    "id": "d957abcb-ba56-42b4-9316-f30ac821ecf9",
+    "n": "Hurloon Wrangler",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/9/d957abcb-ba56-42b4-9316-f30ac821ecf9.jpg?1562799167",
+    "cn": "46"
+  },
+  "e5629564-fc52-4723-bf65-262f30354288": {
+    "id": "d9b05428-d9f3-42ec-bef4-286f1ad06901",
+    "n": "Gus",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/9/d9b05428-d9f3-42ec-bef4-286f1ad06901.jpg?1562799169",
+    "cn": "62"
+  },
+  "5160e929-48ea-4620-be54-20ea7b6fc964": {
+    "id": "dc880e76-1e92-4af1-b89f-b5a2b60b86f0",
+    "n": "Goblin Bookie",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/c/dc880e76-1e92-4af1-b89f-b5a2b60b86f0.jpg?1593352486",
+    "cn": "43"
+  },
+  "4c716cff-1f9c-4e34-8e56-e6de61b3f645": {
+    "id": "dd26c2a6-7b08-4de6-afbf-e34d321995ab",
+    "n": "Ow",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/d/dd26c2a6-7b08-4de6-afbf-e34d321995ab.jpg?1562799172",
+    "cn": "36"
+  },
+  "53d0720d-a2dc-418f-94cc-f150fa47d23f": {
+    "id": "e24d4fba-cf12-4ad3-bca3-6824dbc639af",
+    "n": "Censorship",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/2/e24d4fba-cf12-4ad3-bca3-6824dbc639af.jpg?1562799173",
+    "cn": "15"
+  },
+  "2cf90fda-c273-40cc-abeb-1502781ee3e1": {
+    "id": "e35c66e0-0ca8-447f-b8d9-b03ce7ffaf7f",
+    "n": "Double Play",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/3/e35c66e0-0ca8-447f-b8d9-b03ce7ffaf7f.jpg?1720467979",
+    "cn": "55"
+  },
+  "c32f282f-c9c6-48f2-b226-f0f9e851c69c": {
+    "id": "e43ce658-12be-4eb2-b679-0aefea348de2",
+    "n": "Timmy, Power Gamer",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/4/e43ce658-12be-4eb2-b679-0aefea348de2.jpg?1562799176",
+    "cn": "68"
+  },
+  "e2177cdd-da89-4f7d-a161-788fa33451f9": {
+    "id": "e59e6414-62ac-427e-8e37-690ed401b4dd",
+    "n": "Free-Range Chicken",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/5/e59e6414-62ac-427e-8e37-690ed401b4dd.jpg?1582935164",
+    "cn": "58"
+  },
+  "34b44f16-f17d-47f5-aeaa-56bc7f13250e": {
+    "id": "e8f90e34-3736-42ed-aade-e31247b3472d",
+    "n": "Double Cross",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/8/e8f90e34-3736-42ed-aade-e31247b3472d.jpg?1720467974",
+    "cn": "31"
+  },
+  "8b0ae835-df89-4b02-9fe6-0ae2f66405bd": {
+    "id": "e978fdf7-2243-49d0-b265-a3287f19b17d",
+    "n": "Krazy Kow",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/9/e978fdf7-2243-49d0-b265-a3287f19b17d.jpg?1562799181",
+    "cn": "48"
+  },
+  "97e2f8a3-dec4-4a45-a463-78d23fc03f0d": {
+    "id": "ea73a7ef-e9da-4d5b-aa4d-a953cbacd6c2",
+    "n": "Spark Fiend",
+    "s": "ugl",
+    "r": "rare",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/a/ea73a7ef-e9da-4d5b-aa4d-a953cbacd6c2.jpg?1739793011",
+    "cn": "51"
+  },
+  "6fef4204-8fa8-4225-96c7-2394ed3a9ed5": {
+    "id": "ea993e57-b72f-48f8-9132-0693f2e78ce4",
+    "n": "Ricochet",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/a/ea993e57-b72f-48f8-9132-0693f2e78ce4.jpg?1562799184",
+    "cn": "50"
+  },
+  "479edfad-7147-495b-8167-783d928c5be4": {
+    "id": "ebbdbd92-ec36-4fe9-b75d-13f55574db5e",
+    "n": "Double Dip",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/b/ebbdbd92-ec36-4fe9-b75d-13f55574db5e.jpg?1720467978",
+    "cn": "3"
+  },
+  "55bc3a55-1458-46fa-8623-29317e4a0ecd": {
+    "id": "ed8b3def-30ee-4dd2-9a25-ecf7d5663f96",
+    "n": "Double Deal",
+    "s": "ugl",
+    "r": "common",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/d/ed8b3def-30ee-4dd2-9a25-ecf7d5663f96.jpg?1720467976",
+    "cn": "42"
+  },
+  "696cce0c-677c-41f3-aa84-fa6c105462b2": {
+    "id": "f386c088-fa37-4134-96bb-9fb784719101",
+    "n": "Urza's Contact Lenses",
+    "s": "ugl",
+    "r": "uncommon",
+    "f": [
+      "nonfoil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/3/f386c088-fa37-4134-96bb-9fb784719101.jpg?1562799188",
+    "cn": "82"
+  }
+}

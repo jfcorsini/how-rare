@@ -1,0 +1,3242 @@
+{
+  "0d2cdcc6-da65-4f66-ba38-111efad44919": {
+    "id": "007a5c8c-ed0b-4844-9393-a3d25d4ffa1d",
+    "n": "Deadly Alliance",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/0/007a5c8c-ed0b-4844-9393-a3d25d4ffa1d.jpg?1604195436",
+    "cn": "96"
+  },
+  "da9e3910-9a1c-43a9-9138-ca971b2bccae": {
+    "id": "014027c4-7f9d-4096-b308-ea4be574c0d4",
+    "n": "Skyclave Cleric // Skyclave Basilica",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887",
+    "cn": "40"
+  },
+  "75ae9b87-7137-47a0-b3e1-8915ccd0edf1": {
+    "id": "02d73eb7-4e76-48d4-90fa-fa972dc0fccb",
+    "n": "Fearless Fledgling",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/2/02d73eb7-4e76-48d4-90fa-fa972dc0fccb.jpg?1604195796",
+    "cn": "15"
+  },
+  "48dab180-4ffd-4b39-9f5a-6bdc017a1eae": {
+    "id": "02eedf9d-e26c-405c-aee5-1b3493dc5e9b",
+    "n": "Tuktuk Rubblefort",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284",
+    "cn": "173"
+  },
+  "ccaeabe1-42fa-4f29-bf80-d9b73498eec6": {
+    "id": "043926fe-d25f-40b4-b556-181503434e68",
+    "n": "Scion of the Swarm",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/4/043926fe-d25f-40b4-b556-181503434e68.jpg?1604196403",
+    "cn": "121"
+  },
+  "e6108735-8370-4611-ad59-d7da7fd0323f": {
+    "id": "0505053c-8a9c-43ed-b44a-b52c56ba4f77",
+    "n": "Sure-Footed Infiltrator",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/0505053c-8a9c-43ed-b44a-b52c56ba4f77.jpg?1604195009",
+    "cn": "83"
+  },
+  "7c304547-a4b1-46c9-baed-16d2bfbe16eb": {
+    "id": "0511e232-2a72-40f5-a400-4f7ebc442d17",
+    "n": "Branchloft Pathway // Boulderloft Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1669839380",
+    "cn": "258"
+  },
+  "623e261c-d4b9-4dea-930d-e0573a1deaee": {
+    "id": "0568341b-f972-407f-92ce-1b7c9ef742f6",
+    "n": "Grotag Night-Runner",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/0568341b-f972-407f-92ce-1b7c9ef742f6.jpg?1604197135",
+    "cn": "143"
+  },
+  "4236851b-5366-43a1-bde4-f525b4fbcbce": {
+    "id": "059e8447-6b1c-4651-a734-a8fea2cbf7b2",
+    "n": "Bloodchief's Thirst",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/5/059e8447-6b1c-4651-a734-a8fea2cbf7b2.jpg?1604195360",
+    "cn": "94"
+  },
+  "0a88d1b1-ac3c-41da-b3f5-b689af0e45d7": {
+    "id": "0683d586-a54b-425a-a24d-2efb2342f150",
+    "n": "Mind Drain",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/6/0683d586-a54b-425a-a24d-2efb2342f150.jpg?1604231429",
+    "cn": "114"
+  },
+  "888e711a-1251-4704-8ef1-b4b98ec54b5a": {
+    "id": "06bb4bc1-6ef9-4015-9f5f-36f51dbac87e",
+    "n": "Nahiri's Lithoforming",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/6/06bb4bc1-6ef9-4015-9f5f-36f51dbac87e.jpg?1604197501",
+    "cn": "151"
+  },
+  "c1111228-ef88-4b64-91e0-66ee32a1f5e4": {
+    "id": "086fc7fb-efcf-4676-8455-39b63edaec6a",
+    "n": "Nullpriest of Oblivion",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/8/086fc7fb-efcf-4676-8455-39b63edaec6a.jpg?1604196265",
+    "cn": "118"
+  },
+  "045bf1fd-f375-47a0-9983-7e2ebfed7854": {
+    "id": "0885acdc-9b4c-4e28-8785-9e721a27e81e",
+    "n": "Kargan Intimidator",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/8/0885acdc-9b4c-4e28-8785-9e721a27e81e.jpg?1604197242",
+    "cn": "145"
+  },
+  "f903b76f-d405-427a-b115-5066eb311e10": {
+    "id": "090b3da4-c942-480e-9997-bb9c20e8d62d",
+    "n": "Strength of Solidarity",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/9/090b3da4-c942-480e-9997-bb9c20e8d62d.jpg?1604199496",
+    "cn": "206"
+  },
+  "bd6bc87d-fc75-43bc-a7d7-49d89dabcd3a": {
+    "id": "090f6e94-fb5f-4861-a465-f11766303676",
+    "n": "Expedition Diviner",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/9/090f6e94-fb5f-4861-a465-f11766303676.jpg?1604194021",
+    "cn": "57"
+  },
+  "214562b1-fdf0-4d5d-93f0-594b31b80bb3": {
+    "id": "093e0b1e-2cd9-4743-9c0e-b8f3fbc41798",
+    "n": "Shadow Stinger",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/9/093e0b1e-2cd9-4743-9c0e-b8f3fbc41798.jpg?1604196460",
+    "cn": "123"
+  },
+  "b3998d9c-56b1-486c-818c-a6882e999d54": {
+    "id": "0ab97a84-fe8c-4986-afd8-3abdcc029f7f",
+    "n": "Relic Amulet",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.jpg?1604200828",
+    "cn": "247"
+  },
+  "34f83b7a-45a7-40a8-abcb-31d7aae4cea1": {
+    "id": "0b057eb7-8439-4d26-89df-c345ab2773e1",
+    "n": "Roiling Vortex",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/b/0b057eb7-8439-4d26-89df-c345ab2773e1.jpg?1604197684",
+    "cn": "156"
+  },
+  "e8237d12-2860-4cc8-85a4-458e4c68e69a": {
+    "id": "0b4c7268-60c6-4038-8ce9-d9d51bed4577",
+    "n": "Zulaport Duelist",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/b/0b4c7268-60c6-4038-8ce9-d9d51bed4577.jpg?1604195154",
+    "cn": "88"
+  },
+  "14d9bb24-df7b-4f41-aeca-aad639b280db": {
+    "id": "0b59c75b-d8f8-4f95-9030-ed73c67d988e",
+    "n": "Relic Golem",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/b/0b59c75b-d8f8-4f95-9030-ed73c67d988e.jpg?1604200875",
+    "cn": "249"
+  },
+  "7accdc91-3140-4096-a71f-0cee38d29e96": {
+    "id": "0caaf92a-3d9d-4c52-acff-cf960ec55e47",
+    "n": "Master of Winds",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/c/0caaf92a-3d9d-4c52-acff-cf960ec55e47.jpg?1604194468",
+    "cn": "68"
+  },
+  "67a48e3f-2388-42a9-a8b1-97c08761f807": {
+    "id": "0cb88075-14f8-4ac9-b947-5ca1d30938f1",
+    "n": "Blood Beckoning",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/c/0cb88075-14f8-4ac9-b947-5ca1d30938f1.jpg?1604195307",
+    "cn": "92"
+  },
+  "08122109-6287-4d78-9242-2da8a25022b0": {
+    "id": "0d3f531a-ce45-4cba-be24-6db749e38abd",
+    "n": "Subtle Strike",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/d/0d3f531a-ce45-4cba-be24-6db749e38abd.jpg?1604196642",
+    "cn": "128"
+  },
+  "5ed445c1-8a04-4fab-91ef-4d52db95c3b5": {
+    "id": "0d73c9c4-8955-499f-8f87-6500b35b4977",
+    "n": "Soaring Thought-Thief",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/d/0d73c9c4-8955-499f-8f87-6500b35b4977.jpg?1604200453",
+    "cn": "236"
+  },
+  "65d6eae4-4318-4dbe-af7a-9f57bb587605": {
+    "id": "105b6e18-bcd8-43b7-870d-6c7e5c06f99b",
+    "n": "Mind Carver",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/0/105b6e18-bcd8-43b7-870d-6c7e5c06f99b.jpg?1604196057",
+    "cn": "113"
+  },
+  "e0f0f290-c83f-4d97-9f5d-786c7136b0d1": {
+    "id": "10a79733-702c-4611-b073-71db7f1158b2",
+    "n": "Maddening Cacophony",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/0/10a79733-702c-4611-b073-71db7f1158b2.jpg?1604194415",
+    "cn": "67"
+  },
+  "be8b9bef-a98d-40a8-bedd-d78f1f08f93b": {
+    "id": "112077b8-1514-4320-a70f-b23f3c7ce18a",
+    "n": "Merfolk Windrobber",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/1/112077b8-1514-4320-a70f-b23f3c7ce18a.jpg?1604194520",
+    "cn": "70"
+  },
+  "b0182ca0-f353-4012-9121-6f4ac9f7a046": {
+    "id": "11568cdf-6148-494c-8b98-f5ca5797d775",
+    "n": "Silundi Vision // Silundi Isle",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg?1604194924",
+    "cn": "80"
+  },
+  "e8fbdf4b-ef64-4b82-b67f-ae5568772256": {
+    "id": "11a00a88-de0e-4012-9ad8-ccb187dff7df",
+    "n": "Expedition Healer",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/1/11a00a88-de0e-4012-9ad8-ccb187dff7df.jpg?1604195734",
+    "cn": "13"
+  },
+  "6dc23410-4d8f-4c8a-92b4-a8b3fae1af4e": {
+    "id": "12878fbd-dbe5-44bc-9f34-38fd374ec10a",
+    "n": "Yasharn, Implacable Earth",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/2/12878fbd-dbe5-44bc-9f34-38fd374ec10a.jpg?1604200584",
+    "cn": "240"
+  },
+  "08992e72-49b5-4d40-8b44-cb5abfe5ce0d": {
+    "id": "13105c88-2926-40ad-bc7a-09d515aa36c6",
+    "n": "Cascade Seer",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/3/13105c88-2926-40ad-bc7a-09d515aa36c6.jpg?1604193685",
+    "cn": "48"
+  },
+  "0b9bb0d7-4139-46b6-a058-2f79be64aef2": {
+    "id": "16626f84-00d3-4ec9-b62c-19fff380cd3a",
+    "n": "Kitesail Cleric",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/6/16626f84-00d3-4ec9-b62c-19fff380cd3a.jpg?1604195997",
+    "cn": "20"
+  },
+  "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6": {
+    "id": "184a9654-ce17-4378-b52b-fb6efbbf042f",
+    "n": "Forest",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/8/184a9654-ce17-4378-b52b-fb6efbbf042f.jpg?1681845911",
+    "cn": "279"
+  },
+  "d6861319-ae16-4e6c-af87-a264f667d694": {
+    "id": "18cb7bf6-9c7c-4e62-a678-7b75862e2f64",
+    "n": "Valakut Exploration",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/8/18cb7bf6-9c7c-4e62-a678-7b75862e2f64.jpg?1604263135",
+    "cn": "175"
+  },
+  "4a8d41fe-e04d-484b-a7d1-19be311e6ca7": {
+    "id": "193071fe-180b-4d35-ba78-9c16675c29fc",
+    "n": "Sea Gate Restoration // Sea Gate, Reborn",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg?1604250788",
+    "cn": "76"
+  },
+  "56719f6a-1a6c-4c0a-8d21-18f7d7350b68": {
+    "id": "1967d4a8-6cc4-4a4d-9d24-93257de35e6d",
+    "n": "Swamp",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/9/1967d4a8-6cc4-4a4d-9d24-93257de35e6d.jpg?1604203076",
+    "cn": "382"
+  },
+  "b2c6aa39-2d2a-459c-a555-fb48ba993373": {
+    "id": "1ba4b3ad-1aef-44d3-889a-aedd9e070975",
+    "n": "Island",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/b/1ba4b3ad-1aef-44d3-889a-aedd9e070975.jpg?1681845954",
+    "cn": "271"
+  },
+  "26a55f91-91a1-4a1e-86fe-6551fd64ea87": {
+    "id": "1bf5843a-a01f-4d1c-b8fe-c586d5160f6e",
+    "n": "Sizzling Barrage",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/b/1bf5843a-a01f-4d1c-b8fe-c586d5160f6e.jpg?1604197870",
+    "cn": "162"
+  },
+  "be315fa6-afb5-4ab6-a143-7bbf37046d15": {
+    "id": "1bfba7a0-d5ca-4197-9e58-21f28345f1a6",
+    "n": "Bubble Snare",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/b/1bfba7a0-d5ca-4197-9e58-21f28345f1a6.jpg?1604193650",
+    "cn": "47"
+  },
+  "675de007-a71e-4036-8204-140c67871b7f": {
+    "id": "1e14e677-9bfa-4bcc-9772-8e7758d7538a",
+    "n": "Sea Gate Stormcaller",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/e/1e14e677-9bfa-4bcc-9772-8e7758d7538a.jpg?1604194815",
+    "cn": "77"
+  },
+  "b546c78c-5180-46c3-8594-b9d5ad9c3988": {
+    "id": "1e5c781d-cd89-4671-8fbe-fae82c33357b",
+    "n": "Utility Knife",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/e/1e5c781d-cd89-4671-8fbe-fae82c33357b.jpg?1604201108",
+    "cn": "256"
+  },
+  "e95a9488-3f86-4598-9c6e-6b1b959f8570": {
+    "id": "1ee1a550-b7e7-48e0-bd96-a41986dbd879",
+    "n": "Nimble Trapfinder",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/e/1ee1a550-b7e7-48e0-bd96-a41986dbd879.jpg?1604194598",
+    "cn": "72"
+  },
+  "6a732900-6529-4d5c-ab94-52bd0048d483": {
+    "id": "1f70baa3-5232-4e10-80b4-a9ead6ed6ec3",
+    "n": "Shepherd of Heroes",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/f/1f70baa3-5232-4e10-80b4-a9ead6ed6ec3.jpg?1604235790",
+    "cn": "38"
+  },
+  "eb44b65d-6b56-4f20-a4fb-c5dd147a54c4": {
+    "id": "20259dff-4984-4d0b-aa49-34f3aaf31e3a",
+    "n": "Skyclave Relic",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/0/20259dff-4984-4d0b-aa49-34f3aaf31e3a.jpg?1604200970",
+    "cn": "252"
+  },
+  "3270265f-fa9f-4ef0-a1a3-a68fc2349bf1": {
+    "id": "214ef641-b08c-42d0-94a5-3054fa7fcebc",
+    "n": "Iridescent Hornbeetle",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662",
+    "cn": "187"
+  },
+  "746768bc-9abc-495f-ad00-4b58497dce0d": {
+    "id": "2217f0a9-5af5-45cc-8cf7-8878d4f66dd8",
+    "n": "Cunning Geysermage",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/2/2217f0a9-5af5-45cc-8cf7-8878d4f66dd8.jpg?1604193977",
+    "cn": "55"
+  },
+  "ceef2d5a-77ea-4e56-9806-fd1a2d5be400": {
+    "id": "228c1650-da3c-4099-91b6-18e3873c9cdb",
+    "n": "Archon of Emeria",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/2/228c1650-da3c-4099-91b6-18e3873c9cdb.jpg?1604195419",
+    "cn": "4"
+  },
+  "ff0ab867-b710-4b1a-baed-95fc3cf68f79": {
+    "id": "228e551e-023a-4c9a-8f32-58dae6ffdf7f",
+    "n": "Valakut Awakening // Valakut Stoneforge",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/2/228e551e-023a-4c9a-8f32-58dae6ffdf7f.jpg?1604198379",
+    "cn": "174"
+  },
+  "fe348f31-4530-4c59-9ee2-6839eab973da": {
+    "id": "2336c8bf-fcad-41f9-9041-80b8aa3cd79a",
+    "n": "Orah, Skyclave Hierophant",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/2336c8bf-fcad-41f9-9041-80b8aa3cd79a.jpg?1604200370",
+    "cn": "233"
+  },
+  "77f02ae6-2411-4378-b5e0-cc1cf5964458": {
+    "id": "235c108d-3902-4c2e-919c-a5449cd2dc3c",
+    "n": "Concerted Defense",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/235c108d-3902-4c2e-919c-a5449cd2dc3c.jpg?1604193820",
+    "cn": "52"
+  },
+  "53542c79-a62a-4d6a-97db-5296e9c68302": {
+    "id": "235d1ffc-72aa-40a2-95dc-3f6a8d495061",
+    "n": "Tangled Florahedron // Tangled Vale",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/235d1ffc-72aa-40a2-95dc-3f6a8d495061.jpg?1604199647",
+    "cn": "211"
+  },
+  "1adcf587-9035-4299-a2bd-62f805fdd897": {
+    "id": "24c40082-516e-4381-a4cc-e61c5a9a6cac",
+    "n": "Highborn Vampire",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/4/24c40082-516e-4381-a4cc-e61c5a9a6cac.jpg?1604231440",
+    "cn": "107"
+  },
+  "4924b3a4-a218-4783-8a4d-82361fdecc78": {
+    "id": "2668ac91-6cda-4f81-a08d-4fc5f9cb35b2",
+    "n": "Riverglide Pathway // Lavaglide Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1669839416",
+    "cn": "264"
+  },
+  "254d4918-de40-4ac4-b542-f5c67a5e21eb": {
+    "id": "26b3938e-ebd7-4668-be3a-422c02ff5b08",
+    "n": "Canyon Jerboa",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/6/26b3938e-ebd7-4668-be3a-422c02ff5b08.jpg?1604195520",
+    "cn": "7"
+  },
+  "07e5f59e-3a98-4e01-a368-0be60e0463ba": {
+    "id": "281336c7-ca7c-4c91-bdfb-d253a965cb7c",
+    "n": "Acquisitions Expert",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/8/281336c7-ca7c-4c91-bdfb-d253a965cb7c.jpg?1604195180",
+    "cn": "89"
+  },
+  "1551fe97-437e-4e89-a0d2-c398cb2155e4": {
+    "id": "281cdb1c-21ae-4430-8e0f-c993f52ba891",
+    "n": "Inscription of Insight",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/8/281cdb1c-21ae-4430-8e0f-c993f52ba891.jpg?1604194137",
+    "cn": "61"
+  },
+  "1b6e0d65-202e-4fd3-861e-8d2eaffe3269": {
+    "id": "2966b1f0-3d30-4d92-87e5-f39ceacefbd2",
+    "n": "Expedition Skulker",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/9/2966b1f0-3d30-4d92-87e5-f39ceacefbd2.jpg?1604195598",
+    "cn": "101"
+  },
+  "3111f8b7-36af-4390-af99-5b8976b2f241": {
+    "id": "299d60b9-0ba7-40ee-b9d0-ee8f1ea288c9",
+    "n": "Tazeem Raptor",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/9/299d60b9-0ba7-40ee-b9d0-ee8f1ea288c9.jpg?1604589296",
+    "cn": "43"
+  },
+  "615927c2-3fb0-4e64-a1a7-55fb56de1423": {
+    "id": "2c2fb07b-0f70-403b-be8b-b5217f12e671",
+    "n": "Soul Shatter",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/c/2c2fb07b-0f70-403b-be8b-b5217f12e671.jpg?1604196615",
+    "cn": "127"
+  },
+  "2ac1c95c-2a9d-40bc-9cad-9cadfa3f19f7": {
+    "id": "2f632537-63bf-4490-86e6-e6067b9c1a3b",
+    "n": "Kazandu Mammoth // Kazandu Valley",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/f/2f632537-63bf-4490-86e6-e6067b9c1a3b.jpg?1604198971",
+    "cn": "189"
+  },
+  "d4bbdd0c-e578-49ed-b2f7-b1decb04ee87": {
+    "id": "2fe82bbf-9b92-4684-a42d-fbc50c4c5903",
+    "n": "Pressure Point",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/f/2fe82bbf-9b92-4684-a42d-fbc50c4c5903.jpg?1604192958",
+    "cn": "33"
+  },
+  "d432857f-cff6-421e-949b-ce2f65854e1d": {
+    "id": "30084dc1-f501-4b7c-972d-1a3b9137083a",
+    "n": "Expedition Champion",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/0/30084dc1-f501-4b7c-972d-1a3b9137083a.jpg?1604196963",
+    "cn": "138"
+  },
+  "941a4b14-ea2a-4bd0-8cc2-d609f80df32c": {
+    "id": "301750a7-d1fd-435e-bfa8-9d2fb22ad627",
+    "n": "Jwari Disruption // Jwari Ruins",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757",
+    "cn": "64"
+  },
+  "34320ebf-da97-44a4-bbeb-a9da06548289": {
+    "id": "32779721-b021-4bd4-95d1-4a19b78d9faa",
+    "n": "Blackbloom Rogue // Blackbloom Bog",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/2/32779721-b021-4bd4-95d1-4a19b78d9faa.jpg?1765629627",
+    "cn": "91"
+  },
+  "2e7b4df3-7c36-469f-8db8-b3081a2c5691": {
+    "id": "3280f0d0-de0d-4f87-a6ef-c941cb7c9784",
+    "n": "Scavenged Blade",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/2/3280f0d0-de0d-4f87-a6ef-c941cb7c9784.jpg?1604197699",
+    "cn": "157"
+  },
+  "955abada-aba2-41c2-96ff-58e3679ad7e5": {
+    "id": "331bf97d-f447-4c68-bfc7-2bb593106d66",
+    "n": "Taborax, Hope's Demise",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/3/331bf97d-f447-4c68-bfc7-2bb593106d66.jpg?1604196668",
+    "cn": "129"
+  },
+  "7777fab1-df3f-467f-b9e2-46dd2bd2166e": {
+    "id": "33568871-dab0-4c09-b9f0-0ae78a46a06d",
+    "n": "Forsaken Monument",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/3/33568871-dab0-4c09-b9f0-0ae78a46a06d.jpg?1604200741",
+    "cn": "244"
+  },
+  "9feb7600-f844-4573-bcb7-d6b34473517b": {
+    "id": "339736a8-a00f-4e21-8d92-38486f73dba9",
+    "n": "Dreadwurm",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/3/339736a8-a00f-4e21-8d92-38486f73dba9.jpg?1604195570",
+    "cn": "100"
+  },
+  "31d8c2c4-3309-4eee-a704-f760f381f080": {
+    "id": "340df0d4-9848-4372-9f45-a73a8e94058a",
+    "n": "Allied Assault",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1649921548",
+    "cn": "1"
+  },
+  "0bb73c07-0220-4ba9-8d85-3c357c223833": {
+    "id": "366e9845-019d-47cc-adb8-8fbbaad35b6d",
+    "n": "Kabira Takedown // Kabira Plateau",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/6/366e9845-019d-47cc-adb8-8fbbaad35b6d.jpg?1604195985",
+    "cn": "19"
+  },
+  "c3006be3-a796-4238-95dd-1e8e47c063b5": {
+    "id": "381d84d6-7b34-44cb-a697-54b835ba1281",
+    "n": "Glacial Grasp",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/8/381d84d6-7b34-44cb-a697-54b835ba1281.jpg?1604194085",
+    "cn": "59"
+  },
+  "05074b68-6b31-4f9f-b3ec-bffe3e7eab47": {
+    "id": "3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a",
+    "n": "Akoum Hellhound",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/a/3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a.jpg?1604196803",
+    "cn": "133"
+  },
+  "ce148a0c-6c63-49d5-a156-99efae4e367a": {
+    "id": "3a7fd24e-84d8-405d-86e4-0571a9e23cc2",
+    "n": "Vastwood Fortification // Vastwood Thicket",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/a/3a7fd24e-84d8-405d-86e4-0571a9e23cc2.jpg?1604199835",
+    "cn": "216"
+  },
+  "a3fb7228-e76b-4e96-a40e-20b5fed75685": {
+    "id": "3c6a38dd-e8f5-420f-9576-66937c71286b",
+    "n": "Mountain",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/c/3c6a38dd-e8f5-420f-9576-66937c71286b.jpg?1604203097",
+    "cn": "383"
+  },
+  "3a3cb6fe-24ef-4c09-8ff8-f303fc472a8b": {
+    "id": "3d14ea81-d303-47db-90b4-7d10588f7ea6",
+    "n": "Malakir Blood-Priest",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/d/3d14ea81-d303-47db-90b4-7d10588f7ea6.jpg?1604195930",
+    "cn": "110"
+  },
+  "73535033-2875-4a82-98d5-84548e349f13": {
+    "id": "3daede39-8eef-4272-a483-312dbd2dd30f",
+    "n": "Shell Shield",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/d/3daede39-8eef-4272-a483-312dbd2dd30f.jpg?1604194867",
+    "cn": "79"
+  },
+  "d2d5f9b8-7caf-42c8-934b-3f4b81468914": {
+    "id": "3ff05312-787e-4e5e-a0d5-8f3fb576fc49",
+    "n": "Skyclave Plunder",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/f/3ff05312-787e-4e5e-a0d5-8f3fb576fc49.jpg?1604194953",
+    "cn": "81"
+  },
+  "39bbc4cf-53fe-47dd-8ba3-1a59b1fa7dd1": {
+    "id": "408be425-b8a6-4c03-b2a6-7ff7bd6555e0",
+    "n": "Nahiri, Heir of the Ancients",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/0/408be425-b8a6-4c03-b2a6-7ff7bd6555e0.jpg?1604200270",
+    "cn": "230"
+  },
+  "8f674382-78b5-462c-9a7f-c5f613c317d4": {
+    "id": "421eac28-d6f2-44f2-b7ca-eb73fbf23887",
+    "n": "Nahiri's Binding",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/2/421eac28-d6f2-44f2-b7ca-eb73fbf23887.jpg?1604192763",
+    "cn": "29"
+  },
+  "902eb71f-62b3-40cb-816b-f6b7e92e91e7": {
+    "id": "42914fd9-e56e-4c3e-a445-fdfa45a45178",
+    "n": "Might of Murasa",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/2/42914fd9-e56e-4c3e-a445-fdfa45a45178.jpg?1604199153",
+    "cn": "194"
+  },
+  "16629f59-bae8-4c19-bf50-443eb0ed6856": {
+    "id": "45340647-4d3e-4be1-b0e6-e40cc56a438b",
+    "n": "Felidar Retreat",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/5/45340647-4d3e-4be1-b0e6-e40cc56a438b.jpg?1604195832",
+    "cn": "16"
+  },
+  "85eafa00-51df-4070-9b2d-247457ba3364": {
+    "id": "4540205c-eee8-4db3-8757-710de874b313",
+    "n": "Relic Robber",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/5/4540205c-eee8-4db3-8757-710de874b313.jpg?1604197560",
+    "cn": "153"
+  },
+  "31e8c1e1-520a-4e64-a221-203afc819fcf": {
+    "id": "47120e3c-73aa-468d-96b7-47aead342e31",
+    "n": "Journey to Oblivion",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/7/47120e3c-73aa-468d-96b7-47aead342e31.jpg?1604195865",
+    "cn": "17"
+  },
+  "7215ca87-bbff-4c14-a1f5-de5ddd97c875": {
+    "id": "47f26493-812f-4c14-91c4-d2ab549a7b8a",
+    "n": "Spitfire Lagac",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/7/47f26493-812f-4c14-91c4-d2ab549a7b8a.jpg?1604198100",
+    "cn": "167"
+  },
+  "993b92f4-4160-4171-9e67-90dc935030fe": {
+    "id": "492d77e5-acc6-41b8-8930-f39d69234919",
+    "n": "Cleansing Wildfire",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/9/492d77e5-acc6-41b8-8930-f39d69234919.jpg?1604196948",
+    "cn": "137"
+  },
+  "afd8ff3e-1d57-4fc5-91dc-1a8400c98787": {
+    "id": "49b66956-82e1-402f-9088-2201bdc0d4b8",
+    "n": "Linvala, Shield of Sea Gate",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/9/49b66956-82e1-402f-9088-2201bdc0d4b8.jpg?1604200172",
+    "cn": "226"
+  },
+  "7e86d4a6-e4cd-418a-8bbc-72cdad753e3a": {
+    "id": "4b9ae607-e0bc-4415-ad58-65944848bbe9",
+    "n": "Relic Vial",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/b/4b9ae607-e0bc-4415-ad58-65944848bbe9.jpg?1604200900",
+    "cn": "250"
+  },
+  "c6dfc91f-bfac-40c2-99e5-0cec981f7f1f": {
+    "id": "4dea7bcc-3ff8-40b0-8264-0cd678d6ff31",
+    "n": "Scourge of the Skyclaves",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/d/4dea7bcc-3ff8-40b0-8264-0cd678d6ff31.jpg?1604196425",
+    "cn": "122"
+  },
+  "cd133d30-51ff-4114-a7d7-029345f0f0d7": {
+    "id": "4e4fb50c-a81f-44d3-93c5-fa9a0b37f617",
+    "n": "Omnath, Locus of Creation",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752",
+    "cn": "232"
+  },
+  "621fc513-b16a-4c09-93f8-424e688471e2": {
+    "id": "50b54524-8345-4b47-913f-d883a1cbe3a1",
+    "n": "Coralhelm Chronicler",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/0/50b54524-8345-4b47-913f-d883a1cbe3a1.jpg?1604193917",
+    "cn": "54"
+  },
+  "2345b243-ed0d-4556-8017-d533db1fbc74": {
+    "id": "50bbc0e7-48ce-41e2-a014-1f2eb0427550",
+    "n": "Skyclave Shade",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/0/50bbc0e7-48ce-41e2-a014-1f2eb0427550.jpg?1604196541",
+    "cn": "125"
+  },
+  "83e99691-bc25-4b3e-b828-670ef2027592": {
+    "id": "52470883-b44d-415b-9324-8074e66f79ae",
+    "n": "Shadows' Verdict",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/2/52470883-b44d-415b-9324-8074e66f79ae.jpg?1604196514",
+    "cn": "124"
+  },
+  "8371dee1-5f4a-410a-8b7c-e4110cdbe9bd": {
+    "id": "52b1b4a2-52a7-4fcd-aa96-f7d9e459657b",
+    "n": "Dauntless Survivor",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/2/52b1b4a2-52a7-4fcd-aa96-f7d9e459657b.jpg?1604198710",
+    "cn": "184"
+  },
+  "69f9a2fc-4873-4d7f-8405-3fb9a2091de5": {
+    "id": "53c81719-f820-4674-9cfb-cd5eaf0c1f0d",
+    "n": "Kabira Outrider",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/3/53c81719-f820-4674-9cfb-cd5eaf0c1f0d.jpg?1604195914",
+    "cn": "18"
+  },
+  "d7b49bee-2cb0-48e1-91c1-1e150a0da6ed": {
+    "id": "5516cf97-805f-4a21-a4c6-2d6e55865336",
+    "n": "Cinderclasm",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/5/5516cf97-805f-4a21-a4c6-2d6e55865336.jpg?1604196918",
+    "cn": "136"
+  },
+  "bc71ebf6-2056-41f7-be35-b2e5c34afa99": {
+    "id": "5665190e-ea2a-498e-9c4f-f0bc514bd80c",
+    "n": "Plains",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982",
+    "cn": "267"
+  },
+  "3eabd27c-bd65-479a-9743-e90e4273c016": {
+    "id": "569c9e8c-7808-49d0-82c1-72d5b835f51c",
+    "n": "Sneaking Guide",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/6/569c9e8c-7808-49d0-82c1-72d5b835f51c.jpg?1604263538",
+    "cn": "164"
+  },
+  "301d36e7-06ff-48ed-a7e8-c7d3c72e1e2f": {
+    "id": "581ed049-7b5b-47d9-96af-f737631a221f",
+    "n": "Skyclave Squid",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/8/581ed049-7b5b-47d9-96af-f737631a221f.jpg?1604194987",
+    "cn": "82"
+  },
+  "8e993c7a-606d-47f0-bdea-6ad197a59426": {
+    "id": "59224f9a-deb2-4dd4-b2d4-967232c14254",
+    "n": "Drana's Silencer",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/59224f9a-deb2-4dd4-b2d4-967232c14254.jpg?1604195538",
+    "cn": "99"
+  },
+  "b2151d51-39f6-49cc-a5cc-8202dd028336": {
+    "id": "5929c89b-8c61-47f5-a8ec-b64bf41e9d5b",
+    "n": "Pyroclastic Hellion",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/5929c89b-8c61-47f5-a8ec-b64bf41e9d5b.jpg?1604263001",
+    "cn": "152"
+  },
+  "72b10cba-0f46-4b99-9634-e7173ac4c259": {
+    "id": "5949bb9a-b4e8-4992-a12d-8e31953aff0d",
+    "n": "Farsight Adept",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.jpg?1604195753",
+    "cn": "14"
+  },
+  "c178953c-3888-4edd-9d0c-265bd82b1d24": {
+    "id": "5adcb500-8c77-4925-8e2c-1243502827d1",
+    "n": "Glasspool Mimic // Glasspool Shore",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976",
+    "cn": "60"
+  },
+  "56204530-7ab5-4610-9570-fba2673725ad": {
+    "id": "5afbc5d3-318f-4545-88d6-fc81e5466238",
+    "n": "Coveted Prize",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/a/5afbc5d3-318f-4545-88d6-fc81e5466238.jpg?1604195385",
+    "cn": "95"
+  },
+  "1b6bfd22-2964-4274-a566-81964348b003": {
+    "id": "5b310b01-f9cb-48ce-8af3-5957d3abf098",
+    "n": "Grotag Bug-Catcher",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/b/5b310b01-f9cb-48ce-8af3-5957d3abf098.jpg?1604197094",
+    "cn": "142"
+  },
+  "b256c311-e37d-4b3c-889c-85443e3d5e7e": {
+    "id": "5b36d12e-9a68-4d3d-92e8-9840cd5320bc",
+    "n": "Lithoform Blight",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/b/5b36d12e-9a68-4d3d-92e8-9840cd5320bc.jpg?1604195880",
+    "cn": "109"
+  },
+  "a7e97fa9-4b72-4548-b854-5be5f18a6f1a": {
+    "id": "5c37ba56-e22c-4b10-821a-2827c5cd81ad",
+    "n": "Disenchant",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/c/5c37ba56-e22c-4b10-821a-2827c5cd81ad.jpg?1604195611",
+    "cn": "10"
+  },
+  "3ae3b901-4d36-40e2-b861-26209fa1e823": {
+    "id": "5cd4154e-7681-444b-a0f2-33e887791ba7",
+    "n": "Drana, the Last Bloodchief",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/c/5cd4154e-7681-444b-a0f2-33e887791ba7.jpg?1612316219",
+    "cn": "98"
+  },
+  "75d38954-6148-4d95-bf4b-cb82efcbe8df": {
+    "id": "5e0f725c-8d1f-47ff-ad81-a5007199a5e2",
+    "n": "Territorial Scythecat",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/e/5e0f725c-8d1f-47ff-ad81-a5007199a5e2.jpg?1604199693",
+    "cn": "213"
+  },
+  "b03de49d-246f-44e2-9487-9e4e43ec7be4": {
+    "id": "5f411f08-45dd-4d73-8894-daf51c175150",
+    "n": "Beyeen Veil // Beyeen Coast",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg?1604193600",
+    "cn": "46"
+  },
+  "a731e87b-8d99-4b64-8ee3-8e540d652366": {
+    "id": "609d3ecf-f88d-4268-a8d3-4bf2bcf5df60",
+    "n": "Malakir Rebirth // Malakir Mire",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1604195984",
+    "cn": "111"
+  },
+  "7ac49129-7da2-4729-b48c-b6da279c212e": {
+    "id": "60f9adfd-a940-4d62-894b-84f17c693a10",
+    "n": "Chilling Trap",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.jpg?1604193730",
+    "cn": "50"
+  },
+  "403b59f3-7ade-4bc2-a3e6-de0c3c700f18": {
+    "id": "61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6",
+    "n": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791",
+    "cn": "215"
+  },
+  "aa854d50-444c-49d9-bfb1-5476b33c1c0b": {
+    "id": "61f42823-8a48-4b81-a037-664ba1c69f29",
+    "n": "Scute Swarm",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/1/61f42823-8a48-4b81-a037-664ba1c69f29.jpg?1604199402",
+    "cn": "203"
+  },
+  "151cafcb-a589-4681-a914-7313246a7626": {
+    "id": "6490370e-fff5-4f17-b715-74ff8df5bc7c",
+    "n": "Emeria Captain",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/4/6490370e-fff5-4f17-b715-74ff8df5bc7c.jpg?1604195642",
+    "cn": "11"
+  },
+  "a9b8d020-4d72-4934-8942-df29ef19fc1d": {
+    "id": "6559047e-6ede-4815-a3a0-389062094f9d",
+    "n": "Needleverge Pathway // Pillarverge Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1669839412",
+    "cn": "263"
+  },
+  "0bf299da-1854-4153-baea-3cee2eb01ee8": {
+    "id": "6683416a-5820-4cd0-b28a-60a53239e9ef",
+    "n": "Lithoform Engine",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/6/6683416a-5820-4cd0-b28a-60a53239e9ef.jpg?1604200767",
+    "cn": "245"
+  },
+  "99262e50-94c1-4796-a7bf-11d7b6164839": {
+    "id": "67930e10-4de8-4d40-af27-4a38d35ab16f",
+    "n": "Paired Tactician",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/7/67930e10-4de8-4d40-af27-4a38d35ab16f.jpg?1604192873",
+    "cn": "31"
+  },
+  "562d71b9-1646-474e-9293-55da6947a758": {
+    "id": "67f4c93b-080c-4196-b095-6a120a221988",
+    "n": "Agadeem's Awakening // Agadeem, the Undercrypt",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226",
+    "cn": "90"
+  },
+  "8ba2a7ad-a09b-4f52-9c76-c70510dc4feb": {
+    "id": "6974363c-0d0d-4270-a25e-ab84b0c03f4e",
+    "n": "Vastwood Surge",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/9/6974363c-0d0d-4270-a25e-ab84b0c03f4e.jpg?1604199881",
+    "cn": "217"
+  },
+  "c03ae426-2536-4c20-a73a-a24e816f76b0": {
+    "id": "69e42511-f653-4a6f-a5d4-50e21dfc8077",
+    "n": "Akiri, Fearless Voyager",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/9/69e42511-f653-4a6f-a5d4-50e21dfc8077.jpg?1604199975",
+    "cn": "220"
+  },
+  "ddf12758-b356-4ff8-b0ce-547083498335": {
+    "id": "6ae4634e-1487-4b66-8f70-bcb4b1fa6e77",
+    "n": "Sea Gate Banneret",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/a/6ae4634e-1487-4b66-8f70-bcb4b1fa6e77.jpg?1604193084",
+    "cn": "36"
+  },
+  "4493828f-144f-49cf-9fd2-61de86e632ec": {
+    "id": "6b04160c-89a7-4dcd-b05d-5dc846824d64",
+    "n": "Canopy Baloth",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/b/6b04160c-89a7-4dcd-b05d-5dc846824d64.jpg?1604198638",
+    "cn": "182"
+  },
+  "571f9d80-9c37-474e-9524-400e7a238e2c": {
+    "id": "6c6d6bc3-2162-4c2b-a5de-25103e706e37",
+    "n": "Shatterskull Charger",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/c/6c6d6bc3-2162-4c2b-a5de-25103e706e37.jpg?1604197751",
+    "cn": "159"
+  },
+  "9442a18b-9093-4a10-ab61-6962f5af3bb6": {
+    "id": "6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8",
+    "n": "Attended Healer",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/c/6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8.jpg?1604195482",
+    "cn": "6"
+  },
+  "15e3e226-0dd1-4c9b-a7ec-af67509cbfc5": {
+    "id": "6d69f943-d474-47c0-bc6b-1b247a5dd6f3",
+    "n": "Nissa of Shadowed Boughs",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/d/6d69f943-d474-47c0-bc6b-1b247a5dd6f3.jpg?1604200305",
+    "cn": "231"
+  },
+  "f307b5b4-e949-4f69-8dc7-856e33a45a16": {
+    "id": "6da46103-a14c-4aa2-92fc-fd758335caf4",
+    "n": "Tormenting Voice",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268",
+    "cn": "172"
+  },
+  "55a277b4-575f-463b-913c-7857acad20be": {
+    "id": "6f222fb7-375d-4ee2-9ff6-bd71f63ab31a",
+    "n": "Tazeem Roilmage",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/f/6f222fb7-375d-4ee2-9ff6-bd71f63ab31a.jpg?1604195025",
+    "cn": "84"
+  },
+  "63324e72-e580-456a-91be-766c9f07b7b3": {
+    "id": "6f921dca-ce93-42d1-87b1-149973558467",
+    "n": "Kargan Warleader",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/f/6f921dca-ce93-42d1-87b1-149973558467.jpg?1604200083",
+    "cn": "224"
+  },
+  "814b87fe-2a75-4ff2-8637-7e69e3fb285b": {
+    "id": "730ddbcd-0814-4e22-85e9-78b0878324b6",
+    "n": "Marauding Blight-Priest",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/3/730ddbcd-0814-4e22-85e9-78b0878324b6.jpg?1604195999",
+    "cn": "112"
+  },
+  "e5481431-c952-4ad9-94fe-355076ef632b": {
+    "id": "7327289d-eed8-44b1-8495-7172e2b49d5f",
+    "n": "Gnarlid Colony",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/3/7327289d-eed8-44b1-8495-7172e2b49d5f.jpg?1604198764",
+    "cn": "185"
+  },
+  "8afc00d4-a1c6-4329-af2c-a7f58a0c33e7": {
+    "id": "738ce273-c938-42d2-83b2-c4f5f4000b0b",
+    "n": "Ruin Crab",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/3/738ce273-c938-42d2-83b2-c4f5f4000b0b.jpg?1604194671",
+    "cn": "75"
+  },
+  "162572f2-1757-42e9-bd97-e6bd9a762c0e": {
+    "id": "74943390-d25f-47cb-90bb-cbf70c87f4a2",
+    "n": "Ashaya, Soul of the Wild",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/4/74943390-d25f-47cb-90bb-cbf70c87f4a2.jpg?1604198513",
+    "cn": "179"
+  },
+  "f8410804-632b-4f18-9a73-6dccc7e4582d": {
+    "id": "75240bbc-adc7-48ff-9523-c79776d710d3",
+    "n": "Kazuul's Fury // Kazuul's Cliffs",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1636491308",
+    "cn": "146"
+  },
+  "d85e5398-fa97-4bcd-8b93-008f3f435e22": {
+    "id": "752a2aa9-40ed-4c64-b945-bc6fec606b7b",
+    "n": "Verazol, the Split Current",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/5/752a2aa9-40ed-4c64-b945-bc6fec606b7b.jpg?1604200567",
+    "cn": "239"
+  },
+  "81b61770-2ed5-4a50-84d0-97790002fc5a": {
+    "id": "782ca27f-9f18-476c-b582-89c06fb2e322",
+    "n": "Song-Mad Treachery // Song-Mad Ruins",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg?1604198011",
+    "cn": "165"
+  },
+  "563e9574-3f60-4558-88cb-aaf97caa7515": {
+    "id": "78b82476-4320-4719-9785-af8d68503234",
+    "n": "Resolute Strike",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/8/78b82476-4320-4719-9785-af8d68503234.jpg?1619795129",
+    "cn": "35"
+  },
+  "a9596b05-e0bb-4e70-82fe-5db60f87bf3d": {
+    "id": "7a6f9984-dec7-4a1f-91d6-1e85b5df5e4c",
+    "n": "Vine Gecko",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/a/7a6f9984-dec7-4a1f-91d6-1e85b5df5e4c.jpg?1604199944",
+    "cn": "219"
+  },
+  "f46c72b8-e2e8-42e6-a2e7-ffa5810a9bf3": {
+    "id": "7a7e4f99-ece4-473e-b712-40e4c53558e8",
+    "n": "Swarm Shambler",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/a/7a7e4f99-ece4-473e-b712-40e4c53558e8.jpg?1604199508",
+    "cn": "207"
+  },
+  "dfe1a112-97aa-4e81-8431-81552ba2cdcf": {
+    "id": "7bd0e025-7a75-4641-a51a-27df9dcde05f",
+    "n": "Crawling Barrens",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/b/7bd0e025-7a75-4641-a51a-27df9dcde05f.jpg?1604264359",
+    "cn": "262"
+  },
+  "37783ce6-af58-4ef6-8ab4-587079970307": {
+    "id": "7c04c734-354d-4925-8161-7052110951df",
+    "n": "Hagra Mauling // Hagra Broodpit",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798",
+    "cn": "106"
+  },
+  "263b526c-8b81-44ee-a7c4-5c24bf9b42a4": {
+    "id": "7c9d3f4a-ef83-454e-b8a1-1fc5d5f44be8",
+    "n": "Kazandu Nectarpot",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/c/7c9d3f4a-ef83-454e-b8a1-1fc5d5f44be8.jpg?1604198994",
+    "cn": "190"
+  },
+  "5f0c8c60-96f1-4b26-a9f6-386e1cec517d": {
+    "id": "7f334767-4353-4379-a934-fa67075db439",
+    "n": "Cliffhaven Sell-Sword",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/f/7f334767-4353-4379-a934-fa67075db439.jpg?1604195546",
+    "cn": "8"
+  },
+  "debbbdd8-c8e2-4384-bcac-dbdfb18b54fa": {
+    "id": "7f3d6020-6767-406c-bf28-6b3e9ae72f50",
+    "n": "Tajuru Blightblade",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/f/7f3d6020-6767-406c-bf28-6b3e9ae72f50.jpg?1604199530",
+    "cn": "208"
+  },
+  "ce6f3c67-8806-416d-9156-6f5bb63d5f4c": {
+    "id": "805faf2e-97dc-4b77-bc02-a4cae980f041",
+    "n": "Reclaim the Wastes",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/0/805faf2e-97dc-4b77-bc02-a4cae980f041.jpg?1604199307",
+    "cn": "200"
+  },
+  "d5a33091-a348-4b13-8dbd-79ab0ad99afe": {
+    "id": "836f5197-e42b-45e0-8170-1b0a8a5beebd",
+    "n": "Demon's Disciple",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/3/836f5197-e42b-45e0-8170-1b0a8a5beebd.jpg?1604231452",
+    "cn": "97"
+  },
+  "f92aaa00-6ece-4033-b3df-b2fc2c4718d9": {
+    "id": "847ae75b-1c0f-4d0a-9933-9a302c88dc27",
+    "n": "Leyline Tyrant",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1604197374",
+    "cn": "147"
+  },
+  "6798163a-864f-4844-96b1-77585a7e7ab4": {
+    "id": "86572747-8faa-4242-b059-07d11e6be1cd",
+    "n": "Roil Eruption",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/6/86572747-8faa-4242-b059-07d11e6be1cd.jpg?1604197631",
+    "cn": "155"
+  },
+  "3f8f0ce9-d2ce-45cc-9fbf-0e2819b07a3e": {
+    "id": "87c37e46-a961-4739-8893-f783013e2be6",
+    "n": "Kor Celebrant",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/7/87c37e46-a961-4739-8893-f783013e2be6.jpg?1604192472",
+    "cn": "22"
+  },
+  "6bc668f4-8fc7-4aaf-891b-277d8328b376": {
+    "id": "890eee8d-a339-4143-adfa-1b17ec10c099",
+    "n": "Umara Wizard // Umara Skyfalls",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112",
+    "cn": "86"
+  },
+  "c2898bbd-82a4-4d26-b6ee-169b0ebe71b4": {
+    "id": "899540b0-c17a-4a73-912c-9b8925203de1",
+    "n": "Into the Roil",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/9/899540b0-c17a-4a73-912c-9b8925203de1.jpg?1604194172",
+    "cn": "62"
+  },
+  "83865eee-709a-4a34-94f1-9b818f31323f": {
+    "id": "8d822730-6d81-4dbc-a3c3-ce96d29a1078",
+    "n": "Springmantle Cleric",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/d/8d822730-6d81-4dbc-a3c3-ce96d29a1078.jpg?1604199462",
+    "cn": "205"
+  },
+  "b33a7ec6-b22b-41cf-9312-65add1529b51": {
+    "id": "8fc448f6-a7fe-47c4-ac7c-385a77326469",
+    "n": "Brushfire Elemental",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/f/8fc448f6-a7fe-47c4-ac7c-385a77326469.jpg?1604199996",
+    "cn": "221"
+  },
+  "612c9079-adae-4fe5-9a72-8efc09ddfe5c": {
+    "id": "91b448f4-aa0c-42c7-a771-e8dd20e0520c",
+    "n": "Practiced Tactics",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/1/91b448f4-aa0c-42c7-a771-e8dd20e0520c.jpg?1604192922",
+    "cn": "32"
+  },
+  "760e8561-4ec6-4594-ba5d-f79cb9f25fd0": {
+    "id": "93612079-0b8d-489d-9ae1-3593414a8cee",
+    "n": "Inscription of Ruin",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/3/93612079-0b8d-489d-9ae1-3593414a8cee.jpg?1604195857",
+    "cn": "108"
+  },
+  "d7721c5e-b3c5-45c8-b757-935603dfe44b": {
+    "id": "953db280-6999-4b91-bc40-c6e7f7dd13ef",
+    "n": "Cleric of Life's Bond",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/5/953db280-6999-4b91-bc40-c6e7f7dd13ef.jpg?1604200022",
+    "cn": "222"
+  },
+  "edf0e7c0-d9a1-4d29-9cee-5267d3a3978f": {
+    "id": "95a445dc-3aea-4281-a145-0ab3a28ec6c6",
+    "n": "Moss-Pit Skeleton",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/5/95a445dc-3aea-4281-a145-0ab3a28ec6c6.jpg?1604200221",
+    "cn": "228"
+  },
+  "f86b9a01-62fc-4120-8914-5054ed48d37e": {
+    "id": "95e37936-913e-4b16-a5a8-8aed733d702d",
+    "n": "Confounding Conundrum",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/5/95e37936-913e-4b16-a5a8-8aed733d702d.jpg?1604193855",
+    "cn": "53"
+  },
+  "d9f11985-e460-425d-b083-9cb0edf1983a": {
+    "id": "98496d5b-1519-4f0c-8b46-0a43be643dfb",
+    "n": "Zof Consumption // Zof Bloodbog",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/8/98496d5b-1519-4f0c-8b46-0a43be643dfb.jpg?1604196785",
+    "cn": "132"
+  },
+  "d3ee7f5d-56b4-4d87-9642-dcd8449dfb45": {
+    "id": "985e9696-6c76-4241-97fc-f166fe2420ce",
+    "n": "Seafloor Stalker",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466",
+    "cn": "78"
+  },
+  "02f46271-c90d-4318-9004-74e7bee64a89": {
+    "id": "9897074a-0ac4-4d1a-9aac-e77830cc5c78",
+    "n": "Angel of Destiny",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/8/9897074a-0ac4-4d1a-9aac-e77830cc5c78.jpg?1604195368",
+    "cn": "2"
+  },
+  "37a55560-6e32-4f54-b9a8-fd157aea6eb5": {
+    "id": "99535539-aa73-41ed-86ab-21c97b92620d",
+    "n": "Khalni Ambush // Khalni Territory",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/9/99535539-aa73-41ed-86ab-21c97b92620d.jpg?1604337759",
+    "cn": "192"
+  },
+  "6d2cf8b4-1468-4e00-94ca-65ef0c564b09": {
+    "id": "9965a54b-8b22-418c-9a0d-bf154932f2e2",
+    "n": "Skyclave Pick-Axe",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/9/9965a54b-8b22-418c-9a0d-bf154932f2e2.jpg?1604199440",
+    "cn": "204"
+  },
+  "c4f3a6c6-a123-43ad-9513-d65fbff10d02": {
+    "id": "9b3b1ef0-a653-4adb-8112-82d4822446b4",
+    "n": "Spoils of Adventure",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/b/9b3b1ef0-a653-4adb-8112-82d4822446b4.jpg?1604200493",
+    "cn": "237"
+  },
+  "649512ed-4908-450a-9652-b2c80df5e24d": {
+    "id": "9c103163-31b7-4d25-aa2c-02ca082ee1bf",
+    "n": "Smite the Monstrous",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/c/9c103163-31b7-4d25-aa2c-02ca082ee1bf.jpg?1604193448",
+    "cn": "42"
+  },
+  "a316b0ce-1f63-4a8e-9a6e-bfbe03ca4e9e": {
+    "id": "9cfe4fbe-277f-410c-9eee-f7617f4cb850",
+    "n": "Zareth San, the Trickster",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/c/9cfe4fbe-277f-410c-9eee-f7617f4cb850.jpg?1604200662",
+    "cn": "242"
+  },
+  "2019004c-ebcf-4665-8736-f01ce7d8fcd2": {
+    "id": "9d311f5f-ad68-48d4-aa5d-66916034ddb9",
+    "n": "Shatterskull Minotaur",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/d/9d311f5f-ad68-48d4-aa5d-66916034ddb9.jpg?1604197791",
+    "cn": "160"
+  },
+  "8165acd4-ac62-47f1-97dd-01860aee29ee": {
+    "id": "9ec9d3eb-4729-49a9-8146-7388ff2629df",
+    "n": "Scorch Rider",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/e/9ec9d3eb-4729-49a9-8146-7388ff2629df.jpg?1604197733",
+    "cn": "158"
+  },
+  "e3474632-6d81-43a8-9329-4c7e0c631755": {
+    "id": "9fa10a18-5059-46ab-9983-0ea78b507331",
+    "n": "Fissure Wizard",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/f/9fa10a18-5059-46ab-9983-0ea78b507331.jpg?1604197025",
+    "cn": "140"
+  },
+  "b03a9d03-4853-4856-8cfa-ad4085e0e3e3": {
+    "id": "a045dd0f-953a-4022-8f29-0758f2b6ccaa",
+    "n": "Tajuru Paragon",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/0/a045dd0f-953a-4022-8f29-0758f2b6ccaa.jpg?1604199581",
+    "cn": "209"
+  },
+  "d684553a-f225-49af-90eb-399f55ef65df": {
+    "id": "a05ed233-9b53-4c67-ab1c-0217386c9fe4",
+    "n": "Living Tempest",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/0/a05ed233-9b53-4c67-ab1c-0217386c9fe4.jpg?1604194351",
+    "cn": "65"
+  },
+  "7854f475-5470-4f2b-99df-af9026895595": {
+    "id": "a1ea2c17-382a-45e4-ac34-88bf8ba47169",
+    "n": "Joraga Visionary",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/1/a1ea2c17-382a-45e4-ac34-88bf8ba47169.jpg?1604198895",
+    "cn": "188"
+  },
+  "782c47c5-b108-415c-9b70-a033ac52956f": {
+    "id": "a29e17ba-d584-4296-9f43-17467edaa25f",
+    "n": "Stonework Packbeast",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/2/a29e17ba-d584-4296-9f43-17467edaa25f.jpg?1604201060",
+    "cn": "255"
+  },
+  "bb377cf8-29ee-489e-86a9-93f4dc2ae02e": {
+    "id": "a48c3a2f-678b-4e70-a53f-258457d88d29",
+    "n": "Field Research",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/4/a48c3a2f-678b-4e70-a53f-258457d88d29.jpg?1604194056",
+    "cn": "58"
+  },
+  "8ad91f64-ccab-4edc-bd54-b2ee9267d614": {
+    "id": "a4b759f0-901f-4be3-93fa-224609b08d48",
+    "n": "Lotus Cobra",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/4/a4b759f0-901f-4be3-93fa-224609b08d48.jpg?1604199124",
+    "cn": "193"
+  },
+  "088fb5dc-65eb-42bf-8a32-76fa6b79b79f": {
+    "id": "a53baf25-1782-427b-a9dd-fc9b8dc6444f",
+    "n": "Spare Supplies",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/5/a53baf25-1782-427b-a9dd-fc9b8dc6444f.jpg?1604201030",
+    "cn": "254"
+  },
+  "81036c9f-fe0a-45a7-bcd5-0d344f31055a": {
+    "id": "a69541db-3f4e-412f-aa8e-dec1e74f74dc",
+    "n": "Spikefield Hazard // Spikefield Cave",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg?1604198070",
+    "cn": "166"
+  },
+  "a786e495-ae3a-4e15-ab32-661d524e2b2d": {
+    "id": "a9e6de80-3516-426b-8a1b-bda45f8c0cac",
+    "n": "Thundering Sparkmage",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/9/a9e6de80-3516-426b-8a1b-bda45f8c0cac.jpg?1604198226",
+    "cn": "171"
+  },
+  "3f599e15-cbc5-4170-b6b4-efd16aa222ac": {
+    "id": "ab62382d-2dc9-4a60-b031-c845ebad0357",
+    "n": "Cragplate Baloth",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/b/ab62382d-2dc9-4a60-b031-c845ebad0357.jpg?1604198667",
+    "cn": "183"
+  },
+  "a2375a23-a1f0-4514-87a0-e699f91acd7d": {
+    "id": "ac81448c-f87b-4ca1-b951-b359216ab1d0",
+    "n": "Zagras, Thief of Heartbeats",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/c/ac81448c-f87b-4ca1-b951-b359216ab1d0.jpg?1604200613",
+    "cn": "241"
+  },
+  "77d5d435-d794-46c0-b630-a460973cf75a": {
+    "id": "acb0d55a-9d6a-443d-aa82-5cea93188fd2",
+    "n": "Merfolk Falconer",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/c/acb0d55a-9d6a-443d-aa82-5cea93188fd2.jpg?1604194490",
+    "cn": "69"
+  },
+  "fe769071-3f99-411b-878a-57a2200649a0": {
+    "id": "ad57c2f3-d9cb-4165-bb39-897b5b12689e",
+    "n": "Teeterpeak Ambusher",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/d/ad57c2f3-d9cb-4165-bb39-897b5b12689e.jpg?1604198176",
+    "cn": "169"
+  },
+  "342e08f9-d4d0-4408-8621-66e087058616": {
+    "id": "ada9a974-8f1f-4148-bd61-200fc14714b2",
+    "n": "Makindi Stampede // Makindi Mesas",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/d/ada9a974-8f1f-4148-bd61-200fc14714b2.jpg?1604192616",
+    "cn": "26"
+  },
+  "f3e0aaa1-f624-4dc7-a425-7dbf27cba1ce": {
+    "id": "af484140-57d6-4505-9960-5e7b0306cc9b",
+    "n": "Ravager's Mace",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/f/af484140-57d6-4505-9960-5e7b0306cc9b.jpg?1604200419",
+    "cn": "235"
+  },
+  "0b8517c0-0441-4fd9-99ec-2274e57c3cb6": {
+    "id": "af6bc333-79c0-4de8-9874-80f2254f9ad2",
+    "n": "Kaza, Roil Chaser",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/f/af6bc333-79c0-4de8-9874-80f2254f9ad2.jpg?1604200147",
+    "cn": "225"
+  },
+  "121f6c96-2911-4ee3-b14e-d3b143eb14c3": {
+    "id": "afdfe5aa-8b15-4a89-a22a-03baf6afa4e7",
+    "n": "Kazandu Stomper",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/f/afdfe5aa-8b15-4a89-a22a-03baf6afa4e7.jpg?1604199049",
+    "cn": "191"
+  },
+  "ef7f6766-e878-40c6-aa9a-da7415cc757a": {
+    "id": "b04fd8e8-ee8d-4cb7-87ab-955303c46ece",
+    "n": "Sea Gate Colossus",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/0/b04fd8e8-ee8d-4cb7-87ab-955303c46ece.jpg?1604346390",
+    "cn": "251"
+  },
+  "dc665ddc-4326-4860-94ba-c40ced8b0af6": {
+    "id": "b12a4d17-68e6-4133-99fd-e501e24e6c6b",
+    "n": "Dauntless Unity",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/1/b12a4d17-68e6-4133-99fd-e501e24e6c6b.jpg?1604195576",
+    "cn": "9"
+  },
+  "043ded41-2506-4dab-91c4-142d9287e7d7": {
+    "id": "b27fcfc5-a1a9-4b21-8240-2ed6346c64e1",
+    "n": "Skyclave Shadowcat",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/2/b27fcfc5-a1a9-4b21-8240-2ed6346c64e1.jpg?1604196571",
+    "cn": "126"
+  },
+  "2a56fe0b-f8a9-499c-bce1-cec6cb3b66f0": {
+    "id": "b31a81e8-df0e-4540-93c1-c30c31ea9be9",
+    "n": "Lullmage's Familiar",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/3/b31a81e8-df0e-4540-93c1-c30c31ea9be9.jpg?1604200204",
+    "cn": "227"
+  },
+  "90b16d52-4cf4-4788-a0d7-264d1bcd17f0": {
+    "id": "b33b6922-2584-43e1-98d4-e722e7c9393c",
+    "n": "Turntimber Ascetic",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/3/b33b6922-2584-43e1-98d4-e722e7c9393c.jpg?1604199713",
+    "cn": "214"
+  },
+  "144119bc-7fd1-45c5-9e29-f742e7c255ac": {
+    "id": "b4b99ebb-0d54-4fe5-a495-979aaa564aa8",
+    "n": "Clearwater Pathway // Murkwater Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1669839436",
+    "cn": "260"
+  },
+  "99c13f8d-7f18-48ce-86da-c74ddb6c1205": {
+    "id": "b4ea262c-ea32-4aca-b96b-58f556a8dffc",
+    "n": "Cleric of Chill Depths",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/4/b4ea262c-ea32-4aca-b96b-58f556a8dffc.jpg?1604193763",
+    "cn": "51"
+  },
+  "15fc4e74-300e-4c2d-8ed7-004553b2f7c2": {
+    "id": "b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4",
+    "n": "Ondu Inversion // Ondu Skyruins",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/6/b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4.jpg?1604243286",
+    "cn": "30"
+  },
+  "d90af00a-d322-4265-9954-7b1e80702e18": {
+    "id": "b83cfbaa-7890-4f6f-878b-4edb45677371",
+    "n": "Skyclave Apparition",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1604193295",
+    "cn": "39"
+  },
+  "ad62cd58-fe6f-4844-b3dc-5ba21327fc43": {
+    "id": "b996743e-7f48-49d8-948b-ceb75bddf215",
+    "n": "Guul Draz Mucklord",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/9/b996743e-7f48-49d8-948b-ceb75bddf215.jpg?1604195708",
+    "cn": "104"
+  },
+  "ed26f6bf-fcd6-4cf4-9b65-a492cb79f2df": {
+    "id": "b9d1c11a-a32c-449c-95c6-450dce6c26d2",
+    "n": "Prowling Felidar",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/9/b9d1c11a-a32c-449c-95c6-450dce6c26d2.jpg?1604193011",
+    "cn": "34"
+  },
+  "05e73886-8311-4a0d-9c8d-4a03c7f20ea2": {
+    "id": "ba1240d4-dbd0-483b-934a-5f7c505fad42",
+    "n": "Roost of Drakes",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/a/ba1240d4-dbd0-483b-934a-5f7c505fad42.jpg?1604194640",
+    "cn": "74"
+  },
+  "5a680186-a84d-400f-9452-76f19bdfafa3": {
+    "id": "bb1beef2-788b-469b-883b-cf1cca04eeff",
+    "n": "Molten Blast",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/b/bb1beef2-788b-469b-883b-cf1cca04eeff.jpg?1604197442",
+    "cn": "149"
+  },
+  "78301998-fd9b-4cd5-afad-dbcb43cac2a7": {
+    "id": "bc7239ea-f8aa-4a6f-87bd-c35359635673",
+    "n": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg?1604197844",
+    "cn": "161"
+  },
+  "b545e26f-2034-409c-80cc-51b72e75e6e4": {
+    "id": "bd037e51-9088-4145-8289-00a86fb72ca1",
+    "n": "Thwart the Grave",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/d/bd037e51-9088-4145-8289-00a86fb72ca1.jpg?1604252055",
+    "cn": "130"
+  },
+  "9c93acf3-d3da-4b4b-947f-ec8fc99d0d34": {
+    "id": "bd227384-e0e3-40ce-98bb-8b7cf1900ad7",
+    "n": "Grakmaw, Skyclave Ravager",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/d/bd227384-e0e3-40ce-98bb-8b7cf1900ad7.jpg?1604200053",
+    "cn": "223"
+  },
+  "843c9962-dee1-449d-8106-6383df32bcf6": {
+    "id": "bda5609a-ab22-4f03-988b-8056c97fdc9e",
+    "n": "Legion Angel",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/d/bda5609a-ab22-4f03-988b-8056c97fdc9e.jpg?1604192509",
+    "cn": "23"
+  },
+  "42aa599f-de2f-411a-8cf3-f5cfb40568b3": {
+    "id": "c06cc03f-da73-4ba5-96c9-618b497a7ea3",
+    "n": "Angelheart Protector",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/0/c06cc03f-da73-4ba5-96c9-618b497a7ea3.jpg?1604195388",
+    "cn": "3"
+  },
+  "5e316864-d55c-496f-8f46-773567896864": {
+    "id": "c0fc2dfd-85b0-4add-be18-b39549235921",
+    "n": "Broken Wings",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/0/c0fc2dfd-85b0-4add-be18-b39549235921.jpg?1604198611",
+    "cn": "181"
+  },
+  "4a3cc4f6-037f-461d-a3b7-9f9e24c4b8cf": {
+    "id": "c15852d4-2c79-4841-bb65-6661d88fdfab",
+    "n": "Vanquish the Weak",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/1/c15852d4-2c79-4841-bb65-6661d88fdfab.jpg?1604196688",
+    "cn": "131"
+  },
+  "11f21b50-b4b6-449e-a66a-eedd2920ed93": {
+    "id": "c2ce186d-c9cd-41e9-bac2-ad9d36c4939f",
+    "n": "Squad Commander",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/2/c2ce186d-c9cd-41e9-bac2-ad9d36c4939f.jpg?1604193386",
+    "cn": "41"
+  },
+  "362fc643-ab76-4160-a73e-73397464db40": {
+    "id": "c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442",
+    "n": "Deliberate",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/4/c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442.jpg?1604194005",
+    "cn": "56"
+  },
+  "6ec2a242-9068-4ee2-8ac8-8341cc570f56": {
+    "id": "c470539a-9cc7-4175-8f7c-c982b6072b6d",
+    "n": "Emeria's Call // Emeria, Shattered Skyclave",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/4/c470539a-9cc7-4175-8f7c-c982b6072b6d.jpg?1604195709",
+    "cn": "12"
+  },
+  "d2075f58-b0e9-4e85-b7e6-0523a27a1d5b": {
+    "id": "c5cb3052-358d-44a7-8cfd-cd31b236494a",
+    "n": "Bala Ged Recovery // Bala Ged Sanctuary",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635",
+    "cn": "180"
+  },
+  "78e65286-204d-43ab-8929-b8e2191b1fce": {
+    "id": "c790a86d-db91-4a87-aa3a-3f9fc4d4b662",
+    "n": "Windrider Wizard",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/7/c790a86d-db91-4a87-aa3a-3f9fc4d4b662.jpg?1604195132",
+    "cn": "87"
+  },
+  "fdac480b-03b5-4ece-b42a-e6928b609419": {
+    "id": "c9944393-348f-4f0e-a0c7-9adcc5a30749",
+    "n": "Lullmage's Domination",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/9/c9944393-348f-4f0e-a0c7-9adcc5a30749.jpg?1604194383",
+    "cn": "66"
+  },
+  "4d83ad77-dbac-4a03-8034-43d950d0a18c": {
+    "id": "ca657846-f352-4ac4-b2b3-d0ced6607163",
+    "n": "Fireblade Charger",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/a/ca657846-f352-4ac4-b2b3-d0ced6607163.jpg?1604259130",
+    "cn": "139"
+  },
+  "58254569-0ba6-4ac1-9403-dc21a1b5c2e8": {
+    "id": "ca6f8996-bf72-4e55-944f-5b8202b6068c",
+    "n": "Taunting Arbormage",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/a/ca6f8996-bf72-4e55-944f-5b8202b6068c.jpg?1604199668",
+    "cn": "212"
+  },
+  "d851312f-8b4e-4d8e-bfee-c470853be930": {
+    "id": "ca8705e3-0e44-45c9-bcdf-c24507b038fe",
+    "n": "Relic Axe",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/a/ca8705e3-0e44-45c9-bcdf-c24507b038fe.jpg?1604200848",
+    "cn": "248"
+  },
+  "6288c0cb-cf32-4ae9-abf0-104ec71654fa": {
+    "id": "cc5eacd7-aaa7-4720-9794-52e7b098c82c",
+    "n": "Moraug, Fury of Akoum",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/c/cc5eacd7-aaa7-4720-9794-52e7b098c82c.jpg?1604197464",
+    "cn": "150"
+  },
+  "74027d31-6efb-471d-9499-cdb1cefc9eae": {
+    "id": "ce83962b-445a-4b44-ad8a-fada2c0a15b8",
+    "n": "Goma Fada Vanguard",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/e/ce83962b-445a-4b44-ad8a-fada2c0a15b8.jpg?1610393911",
+    "cn": "141"
+  },
+  "c752e001-56cc-46dc-acb3-3fca6c0bdd2e": {
+    "id": "d00f8ab0-61cd-4721-b974-a2516da77d39",
+    "n": "Wayward Guide-Beast",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/0/d00f8ab0-61cd-4721-b974-a2516da77d39.jpg?1604198443",
+    "cn": "176"
+  },
+  "50402103-14ea-49b0-8e66-d2b7f7a69a41": {
+    "id": "d0f62bdc-50a0-41a0-ac37-9b0eeb21b6aa",
+    "n": "Inordinate Rage",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/0/d0f62bdc-50a0-41a0-ac37-9b0eeb21b6aa.jpg?1604197186",
+    "cn": "144"
+  },
+  "1c633e02-95ef-445e-b4e0-fbfbc5ed9cc9": {
+    "id": "d24c3d51-795d-4c01-a34a-3280fccd2d78",
+    "n": "Brightclimb Pathway // Grimclimb Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1669839386",
+    "cn": "259"
+  },
+  "ce703e1d-b7b2-4b8b-a12c-714fc152d0a5": {
+    "id": "d4b79138-5728-4541-9ea5-dce1a5ae7e6a",
+    "n": "Tazri, Beacon of Unity",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/4/d4b79138-5728-4541-9ea5-dce1a5ae7e6a.jpg?1604193517",
+    "cn": "44"
+  },
+  "7e8198e9-0f3b-420b-ab09-74f13f4fd548": {
+    "id": "d5a0563e-c83b-40df-abf6-51c83bf6792d",
+    "n": "Throne of Makindi",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/5/d5a0563e-c83b-40df-abf6-51c83bf6792d.jpg?1604201723",
+    "cn": "265"
+  },
+  "bfdb13b9-7050-43a3-ac5f-d427942b1616": {
+    "id": "d87f4637-1ad3-4d61-98ff-98c0b0be46a1",
+    "n": "Synchronized Spellcraft",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/8/d87f4637-1ad3-4d61-98ff-98c0b0be46a1.jpg?1604198129",
+    "cn": "168"
+  },
+  "382267da-c63c-432e-8a11-f803cf0e3a3a": {
+    "id": "d8be6570-5b5f-4ffc-a5e5-67d7c41c8caa",
+    "n": "Magmatic Channeler",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/8/d8be6570-5b5f-4ffc-a5e5-67d7c41c8caa.jpg?1604197412",
+    "cn": "148"
+  },
+  "afedce7b-0e18-40ad-a26a-1933fddb560d": {
+    "id": "d8ed0335-daa6-4dbe-a94d-4d56c8cfd093",
+    "n": "Akoum Warrior // Akoum Teeth",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg?1604196854",
+    "cn": "134"
+  },
+  "727ca426-f4cc-4218-8ae5-8c427af2e816": {
+    "id": "da57eb54-5199-4a56-95f7-f6ac432876b1",
+    "n": "Cragcrown Pathway // Timbercrown Pathway",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1669839398",
+    "cn": "261"
+  },
+  "70235727-e330-46fa-b057-ddbb55cd1ac3": {
+    "id": "db50f988-da46-4b9b-9cc5-78497df2df8b",
+    "n": "Adventure Awaits",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/db50f988-da46-4b9b-9cc5-78497df2df8b.jpg?1604198469",
+    "cn": "177"
+  },
+  "e00d601f-ac73-47a6-8920-779d71b482c9": {
+    "id": "db9103c9-084f-4ad2-8b7b-ca52be97619d",
+    "n": "Skyclave Geopede",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/db9103c9-084f-4ad2-8b7b-ca52be97619d.jpg?1604197899",
+    "cn": "163"
+  },
+  "4728e320-d29b-4019-8ab5-e45319c77c40": {
+    "id": "db99b872-77c7-4471-9c44-a36d4ff5d33f",
+    "n": "Anticognition",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/db99b872-77c7-4471-9c44-a36d4ff5d33f.jpg?1604193539",
+    "cn": "45"
+  },
+  "f54111c8-9c20-4a73-a7c4-24d216e7de07": {
+    "id": "db9b1de4-9aba-4145-804d-2072f258af3b",
+    "n": "Myriad Construct",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790",
+    "cn": "246"
+  },
+  "bb4d9770-f230-4413-a7a4-bb1f1303661a": {
+    "id": "dc671707-4708-44d8-8ec8-d5332599adf9",
+    "n": "Thundering Rebuke",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/c/dc671707-4708-44d8-8ec8-d5332599adf9.jpg?1636491293",
+    "cn": "170"
+  },
+  "41fbf835-baee-4530-9155-e2c1b9045567": {
+    "id": "dc85412e-333d-4e7d-8c85-40618cf1b6c2",
+    "n": "Base Camp",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg?1604201149",
+    "cn": "257"
+  },
+  "93c6554f-096d-4556-81ca-e87e29265887": {
+    "id": "df14d32d-fe53-4370-8298-fab528ff12db",
+    "n": "Blood Price",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/f/df14d32d-fe53-4370-8298-fab528ff12db.jpg?1604195324",
+    "cn": "93"
+  },
+  "3bcf090c-e890-4a9f-a8aa-6079e4ec9947": {
+    "id": "dfe08e59-fdc4-436f-b05c-6ad386c46310",
+    "n": "Ancient Greenwarden",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/f/dfe08e59-fdc4-436f-b05c-6ad386c46310.jpg?1604198488",
+    "cn": "178"
+  },
+  "d8b7b78e-91b2-4ad5-aeb8-6ebdca363e71": {
+    "id": "e105c546-ce4f-49c7-97ba-ea5fbe70df82",
+    "n": "Rockslide Sorcerer",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/1/e105c546-ce4f-49c7-97ba-ea5fbe70df82.jpg?1767960026",
+    "cn": "154"
+  },
+  "2061fe08-0c7c-4d79-a144-996c3012952c": {
+    "id": "e1894cf9-7d53-4b7e-aaae-8db42bdd8e49",
+    "n": "Tajuru Snarecaster",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/1/e1894cf9-7d53-4b7e-aaae-8db42bdd8e49.jpg?1604199611",
+    "cn": "210"
+  },
+  "ea3401a9-76db-4f38-b973-2b7754087b97": {
+    "id": "e524ddf0-9a2f-4c1c-ae72-4b5b48f55645",
+    "n": "Veteran Adventurer",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/5/e524ddf0-9a2f-4c1c-ae72-4b5b48f55645.jpg?1604199897",
+    "cn": "218"
+  },
+  "b0fd6889-20b4-439b-aa97-2e90aca1675a": {
+    "id": "e63f8b20-f45b-4293-9aac-cdc021939be6",
+    "n": "Pelakka Predation // Pelakka Caverns",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1739661963",
+    "cn": "120"
+  },
+  "ca7964a1-b4ce-412b-bcae-e0dfbb95389a": {
+    "id": "e70b3b78-9bdc-449b-82a9-c2fc3dd7f120",
+    "n": "Murasa Rootgrazer",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/7/e70b3b78-9bdc-449b-82a9-c2fc3dd7f120.jpg?1604200243",
+    "cn": "229"
+  },
+  "27a66362-f2f5-4d46-9faf-a73752753304": {
+    "id": "e72eaa0f-cbec-45a1-b390-cbbedf5a02f2",
+    "n": "Nimana Skydancer",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/7/e72eaa0f-cbec-45a1-b390-cbbedf5a02f2.jpg?1604196242",
+    "cn": "117"
+  },
+  "13d5b664-db13-406e-9956-3d9fe4177d33": {
+    "id": "e781d6ad-950e-49bf-9645-e2354086ae49",
+    "n": "Scale the Heights",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/7/e781d6ad-950e-49bf-9645-e2354086ae49.jpg?1604199378",
+    "cn": "202"
+  },
+  "3d79cbe2-cf1b-4313-ab47-0118fcdbfc6c": {
+    "id": "e7af88c9-70ca-484c-bddf-b705e0ea7bc7",
+    "n": "Phylath, World Sculptor",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1639436741",
+    "cn": "234"
+  },
+  "c38cc5fe-936a-4d61-a816-9be773ae1d02": {
+    "id": "e83a6804-1e3c-428c-af5e-1d56ba11c108",
+    "n": "Charix, the Raging Isle",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/8/e83a6804-1e3c-428c-af5e-1d56ba11c108.jpg?1604193709",
+    "cn": "49"
+  },
+  "43827acb-70cf-44a3-8560-e9f7330c835e": {
+    "id": "e8685c8e-935f-49f2-acf2-8e3c41c5b330",
+    "n": "Ardent Electromancer",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/8/e8685c8e-935f-49f2-acf2-8e3c41c5b330.jpg?1604196868",
+    "cn": "135"
+  },
+  "3407fe41-fdd3-4119-8f70-4bc4590a379f": {
+    "id": "e92c7477-d453-4fa4-acf4-3835ab9eb55a",
+    "n": "Negate",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/9/e92c7477-d453-4fa4-acf4-3835ab9eb55a.jpg?1604194548",
+    "cn": "71"
+  },
+  "d3168d01-12ea-4a93-9519-82a3544b5bf6": {
+    "id": "ea080141-6262-4595-8058-b2969b3f016b",
+    "n": "Nimana Skitter-Sneak",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/a/ea080141-6262-4595-8058-b2969b3f016b.jpg?1604196156",
+    "cn": "116"
+  },
+  "379ed4ec-8f2e-448b-9ed2-a3181e2f877e": {
+    "id": "eb348f07-1d48-4877-8a56-60655d64a3f7",
+    "n": "Nighthawk Scavenger",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/b/eb348f07-1d48-4877-8a56-60655d64a3f7.jpg?1604231416",
+    "cn": "115"
+  },
+  "68fb8f21-4403-4829-8826-f2418664197e": {
+    "id": "eebf8f67-49d0-42de-a5cc-ad13d19d2c55",
+    "n": "Cliffhaven Kitesail",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/e/eebf8f67-49d0-42de-a5cc-ad13d19d2c55.jpg?1604200689",
+    "cn": "243"
+  },
+  "5f84a140-577f-4a1e-a900-793664332fd6": {
+    "id": "efe1c5b2-4356-41ae-ab7e-ad9fc835a911",
+    "n": "Murasa Brute",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/f/efe1c5b2-4356-41ae-ab7e-ad9fc835a911.jpg?1604199177",
+    "cn": "195"
+  },
+  "6d5dc34b-3eea-4b77-8db7-94bc30b14c4c": {
+    "id": "effe3fab-6d13-4603-8a21-8a3c2a0d9e08",
+    "n": "Rabid Bite",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/f/effe3fab-6d13-4603-8a21-8a3c2a0d9e08.jpg?1604199283",
+    "cn": "199"
+  },
+  "088a1f56-198c-41a1-b244-ec1c7a771041": {
+    "id": "f18f2608-0d44-442c-97a1-12ac94b7abac",
+    "n": "Maul of the Skyclaves",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/1/f18f2608-0d44-442c-97a1-12ac94b7abac.jpg?1604192639",
+    "cn": "27"
+  },
+  "d54e4e37-042b-44a5-918d-757308545d4d": {
+    "id": "f25d56f9-aa54-4657-9ac9-e93fbba3e715",
+    "n": "Sejiri Shelter // Sejiri Glacier",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1604193214",
+    "cn": "37"
+  },
+  "70ab65ff-724f-4126-b472-97fa03ca3a34": {
+    "id": "f272ac54-fea8-4044-83e2-f8fdc10f467d",
+    "n": "Ghastly Gloomhunter",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684",
+    "cn": "103"
+  },
+  "dfa8c557-f2f5-4763-85c7-e2ec14d9e6b6": {
+    "id": "f53472b7-53da-4833-b7f9-204706dfb721",
+    "n": "Murasa Sproutling",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/5/f53472b7-53da-4833-b7f9-204706dfb721.jpg?1604199192",
+    "cn": "196"
+  },
+  "e682ad51-001c-4465-951e-43df96b7d3b9": {
+    "id": "f6455009-030c-4a33-a60b-80863d8f8aaf",
+    "n": "Risen Riptide",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/6/f6455009-030c-4a33-a60b-80863d8f8aaf.jpg?1604194618",
+    "cn": "73"
+  },
+  "211add65-b63d-43ad-8d69-b0598e003fef": {
+    "id": "f65af09b-656f-4d81-b95d-b4f902e56bb7",
+    "n": "Mesa Lynx",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/6/f65af09b-656f-4d81-b95d-b4f902e56bb7.jpg?1604192681",
+    "cn": "28"
+  },
+  "5825997b-10d7-4a36-972c-a80ddd90b8ed": {
+    "id": "f6b2eba7-862a-4efd-9f65-065fb2070855",
+    "n": "Feed the Swarm",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/6/f6b2eba7-862a-4efd-9f65-065fb2070855.jpg?1604195649",
+    "cn": "102"
+  },
+  "a8730922-3f47-4c07-bdd5-4a0f557a3d3d": {
+    "id": "f7dc61e4-46e3-473b-90f8-27e71e1088e8",
+    "n": "Archpriest of Iona",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/7/f7dc61e4-46e3-473b-90f8-27e71e1088e8.jpg?1604195451",
+    "cn": "5"
+  },
+  "3282c7fb-b43d-4dd6-b5a3-cc7d93e01f19": {
+    "id": "f971b71a-af69-43a7-b06c-e80eaaaf4a5f",
+    "n": "Hagra Constrictor",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/9/f971b71a-af69-43a7-b06c-e80eaaaf4a5f.jpg?1604195731",
+    "cn": "105"
+  },
+  "65d63518-3261-40b5-87b8-19c152b29ee3": {
+    "id": "fa259096-b24f-414c-af59-301bed4b4627",
+    "n": "Roiling Regrowth",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/a/fa259096-b24f-414c-af59-301bed4b4627.jpg?1604263848",
+    "cn": "201"
+  },
+  "3b7b166b-4329-4194-a9a7-f1fec7a92cec": {
+    "id": "fac8809a-77cd-4090-8a89-12121a8da676",
+    "n": "Skyclave Sentinel",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/a/fac8809a-77cd-4090-8a89-12121a8da676.jpg?1604201000",
+    "cn": "253"
+  },
+  "517be4da-9aa0-4a83-a559-962df0450f2c": {
+    "id": "faf65512-8228-48f4-ba7b-d861b66d28c9",
+    "n": "Oblivion's Hunger",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/a/faf65512-8228-48f4-ba7b-d861b66d28c9.jpg?1604196298",
+    "cn": "119"
+  },
+  "e1c33cfe-1d48-463d-83bb-111374505194": {
+    "id": "fb979cfc-3e5b-42c9-b78d-584c274ed912",
+    "n": "Umara Mystic",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/b/fb979cfc-3e5b-42c9-b78d-584c274ed912.jpg?1604200545",
+    "cn": "238"
+  },
+  "194260af-aba5-4d18-a69b-eedb97ed4a4b": {
+    "id": "fc6d6049-5599-47eb-ae58-a8eb96927ece",
+    "n": "Kor Blademaster",
+    "s": "znr",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/c/fc6d6049-5599-47eb-ae58-a8eb96927ece.jpg?1604192436",
+    "cn": "21"
+  },
+  "a5e28749-18ea-4a2b-b7d9-905cf2913d4e": {
+    "id": "fcd2e01e-a143-4b62-8b01-d253fb35c590",
+    "n": "Inscription of Abundance",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/c/fcd2e01e-a143-4b62-8b01-d253fb35c590.jpg?1604198784",
+    "cn": "186"
+  },
+  "e4f0fa12-542b-485f-a792-3a8aba933522": {
+    "id": "fd0d164a-bce2-4474-abe0-b735eb6c9442",
+    "n": "Makindi Ox",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1723232353",
+    "cn": "25"
+  },
+  "94a7dcef-d1c1-4ffa-869e-b911e84ed66c": {
+    "id": "fd2ad967-dd77-4c3a-b53c-2929ecf7750f",
+    "n": "Oran-Rief Ooze",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/d/fd2ad967-dd77-4c3a-b53c-2929ecf7750f.jpg?1604199256",
+    "cn": "198"
+  },
+  "1b8c4cbe-b2fc-4d52-9382-1e03c40003be": {
+    "id": "fd37ea0e-ff72-4522-aa5b-d46bff832a34",
+    "n": "Nissa's Zendikon",
+    "s": "znr",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/d/fd37ea0e-ff72-4522-aa5b-d46bff832a34.jpg?1604199233",
+    "cn": "197"
+  },
+  "7ca99e2f-faf2-4301-a0ae-7cb880ba965b": {
+    "id": "fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a",
+    "n": "Jace, Mirror Mage",
+    "s": "znr",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/e/fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a.jpg?1604194202",
+    "cn": "63"
+  },
+  "cb9994b9-924b-4e10-9075-9cfbec88f2bf": {
+    "id": "fe964e7e-e2c5-4263-889d-0a531eb51442",
+    "n": "Luminarch Aspirant",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1639436761",
+    "cn": "24"
+  },
+  "f509ac02-f22e-4d1a-9fe1-afa96dd7806d": {
+    "id": "ff84ea71-e477-44f7-a3f8-77fef708efeb",
+    "n": "Thieving Skydiver",
+    "s": "znr",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/f/ff84ea71-e477-44f7-a3f8-77fef708efeb.jpg?1604195053",
+    "cn": "85"
+  }
+}
