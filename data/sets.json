@@ -1,0 +1,1595 @@
+{
+  "blb": {
+    "name": "Bloomburrow",
+    "total": 266,
+    "common_land": 7,
+    "common": 79,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "tsp": {
+    "name": "Time Spiral",
+    "total": 286,
+    "common_land": 6,
+    "common": 120,
+    "uncommon": 80,
+    "rare": 80,
+    "mythic": 0
+  },
+  "zen": {
+    "name": "Zendikar",
+    "total": 234,
+    "common_land": 10,
+    "common": 96,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "xln": {
+    "name": "Ixalan",
+    "total": 264,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 63,
+    "mythic": 15
+  },
+  "3ed": {
+    "name": "Revised Edition",
+    "total": 296,
+    "common_land": 5,
+    "common": 75,
+    "uncommon": 95,
+    "rare": 121,
+    "mythic": 0
+  },
+  "woe": {
+    "name": "Wilds of Eldraine",
+    "total": 266,
+    "common_land": 7,
+    "common": 99,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "eld": {
+    "name": "Throne of Eldraine",
+    "total": 254,
+    "common_land": 10,
+    "common": 96,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "ugin": {
+    "name": "Ugin's Fate",
+    "total": 26,
+    "common_land": 0,
+    "common": 10,
+    "uncommon": 8,
+    "rare": 7,
+    "mythic": 1
+  },
+  "jmp": {
+    "name": "Jumpstart",
+    "total": 460,
+    "common_land": 12,
+    "common": 189,
+    "uncommon": 155,
+    "rare": 87,
+    "mythic": 17
+  },
+  "tmp": {
+    "name": "Tempest",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "dmu": {
+    "name": "Dominaria United",
+    "total": 266,
+    "common_land": 16,
+    "common": 90,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "pcy": {
+    "name": "Prophecy",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "plst": {
+    "name": "The List",
+    "total": 4166,
+    "common_land": 45,
+    "common": 1687,
+    "uncommon": 1438,
+    "rare": 807,
+    "mythic": 189
+  },
+  "dsk": {
+    "name": "Duskmourn: House of Horror",
+    "total": 276,
+    "common_land": 16,
+    "common": 80,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "mom": {
+    "name": "March of the Machine",
+    "total": 281,
+    "common_land": 15,
+    "common": 106,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "grn": {
+    "name": "Guilds of Ravnica",
+    "total": 254,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "cns": {
+    "name": "Conspiracy",
+    "total": 210,
+    "common_land": 0,
+    "common": 89,
+    "uncommon": 68,
+    "rare": 43,
+    "mythic": 10
+  },
+  "nph": {
+    "name": "New Phyrexia",
+    "total": 170,
+    "common_land": 5,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 35,
+    "mythic": 10
+  },
+  "gtc": {
+    "name": "Gatecrash",
+    "total": 249,
+    "common_land": 5,
+    "common": 96,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "tsr": {
+    "name": "Time Spiral Remastered",
+    "total": 289,
+    "common_land": 1,
+    "common": 120,
+    "uncommon": 100,
+    "rare": 53,
+    "mythic": 15
+  },
+  "dom": {
+    "name": "Dominaria",
+    "total": 254,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "m19": {
+    "name": "Core Set 2019",
+    "total": 265,
+    "common_land": 15,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 16
+  },
+  "vis": {
+    "name": "Visions",
+    "total": 167,
+    "common_land": 0,
+    "common": 62,
+    "uncommon": 55,
+    "rare": 50,
+    "mythic": 0
+  },
+  "ody": {
+    "name": "Odyssey",
+    "total": 335,
+    "common_land": 10,
+    "common": 105,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "isd": {
+    "name": "Innistrad",
+    "total": 254,
+    "common_land": 6,
+    "common": 106,
+    "uncommon": 67,
+    "rare": 59,
+    "mythic": 16
+  },
+  "mh2": {
+    "name": "Modern Horizons 2",
+    "total": 308,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 100,
+    "rare": 78,
+    "mythic": 24
+  },
+  "arn": {
+    "name": "Arabian Nights",
+    "total": 78,
+    "common_land": 2,
+    "common": 25,
+    "uncommon": 18,
+    "rare": 33,
+    "mythic": 0
+  },
+  "aer": {
+    "name": "Aether Revolt",
+    "total": 184,
+    "common_land": 0,
+    "common": 70,
+    "uncommon": 60,
+    "rare": 42,
+    "mythic": 12
+  },
+  "mir": {
+    "name": "Mirage",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "mbs": {
+    "name": "Mirrodin Besieged",
+    "total": 150,
+    "common_land": 5,
+    "common": 60,
+    "uncommon": 40,
+    "rare": 35,
+    "mythic": 10
+  },
+  "clb": {
+    "name": "Commander Legends: Battle for Baldur's Gate",
+    "total": 360,
+    "common_land": 9,
+    "common": 132,
+    "uncommon": 120,
+    "rare": 77,
+    "mythic": 22
+  },
+  "dtk": {
+    "name": "Dragons of Tarkir",
+    "total": 254,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "fin": {
+    "name": "Final Fantasy",
+    "total": 300,
+    "common_land": 18,
+    "common": 78,
+    "uncommon": 110,
+    "rare": 74,
+    "mythic": 20
+  },
+  "ogw": {
+    "name": "Oath of the Gatewatch",
+    "total": 183,
+    "common_land": 4,
+    "common": 65,
+    "uncommon": 60,
+    "rare": 42,
+    "mythic": 12
+  },
+  "9ed": {
+    "name": "Ninth Edition",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "otj": {
+    "name": "Outlaws of Thunder Junction",
+    "total": 276,
+    "common_land": 17,
+    "common": 79,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "mh3": {
+    "name": "Modern Horizons 3",
+    "total": 308,
+    "common_land": 15,
+    "common": 70,
+    "uncommon": 121,
+    "rare": 78,
+    "mythic": 24
+  },
+  "mma": {
+    "name": "Modern Masters",
+    "total": 229,
+    "common_land": 1,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "p02": {
+    "name": "Portal Second Age",
+    "total": 155,
+    "common_land": 5,
+    "common": 70,
+    "uncommon": 45,
+    "rare": 35,
+    "mythic": 0
+  },
+  "uds": {
+    "name": "Urza's Destiny",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "ltr": {
+    "name": "The Lord of the Rings: Tales of Middle-earth",
+    "total": 266,
+    "common_land": 7,
+    "common": 99,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "2x2": {
+    "name": "Double Masters 2022",
+    "total": 332,
+    "common_land": 1,
+    "common": 91,
+    "uncommon": 80,
+    "rare": 120,
+    "mythic": 40
+  },
+  "7ed": {
+    "name": "Seventh Edition",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "rna": {
+    "name": "Ravnica Allegiance",
+    "total": 254,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "ema": {
+    "name": "Eternal Masters",
+    "total": 249,
+    "common_land": 10,
+    "common": 91,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "ugl": {
+    "name": "Unglued",
+    "total": 88,
+    "common_land": 5,
+    "common": 33,
+    "uncommon": 22,
+    "rare": 28,
+    "mythic": 0
+  },
+  "m13": {
+    "name": "Magic 2013",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "dmr": {
+    "name": "Dominaria Remastered",
+    "total": 261,
+    "common_land": 6,
+    "common": 95,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "mm3": {
+    "name": "Modern Masters 2017",
+    "total": 249,
+    "common_land": 11,
+    "common": 90,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "unh": {
+    "name": "Unhinged",
+    "total": 141,
+    "common_land": 5,
+    "common": 55,
+    "uncommon": 40,
+    "rare": 41,
+    "mythic": 0
+  },
+  "bfz": {
+    "name": "Battle for Zendikar",
+    "total": 254,
+    "common_land": 11,
+    "common": 95,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "mm2": {
+    "name": "Modern Masters 2015",
+    "total": 249,
+    "common_land": 1,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "sok": {
+    "name": "Saviors of Kamigawa",
+    "total": 165,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "5ed": {
+    "name": "Fifth Edition",
+    "total": 434,
+    "common_land": 8,
+    "common": 162,
+    "uncommon": 132,
+    "rare": 132,
+    "mythic": 0
+  },
+  "lci": {
+    "name": "The Lost Caverns of Ixalan",
+    "total": 291,
+    "common_land": 12,
+    "common": 101,
+    "uncommon": 92,
+    "rare": 64,
+    "mythic": 22
+  },
+  "akh": {
+    "name": "Amonkhet",
+    "total": 254,
+    "common_land": 9,
+    "common": 97,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "inv": {
+    "name": "Invasion",
+    "total": 335,
+    "common_land": 10,
+    "common": 105,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "mh1": {
+    "name": "Modern Horizons",
+    "total": 254,
+    "common_land": 1,
+    "common": 105,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "tla": {
+    "name": "Avatar: The Last Airbender",
+    "total": 286,
+    "common_land": 16,
+    "common": 80,
+    "uncommon": 110,
+    "rare": 60,
+    "mythic": 20
+  },
+  "j22": {
+    "name": "Jumpstart 2022",
+    "total": 819,
+    "common_land": 22,
+    "common": 387,
+    "uncommon": 260,
+    "rare": 118,
+    "mythic": 32
+  },
+  "snc": {
+    "name": "Streets of New Capenna",
+    "total": 266,
+    "common_land": 15,
+    "common": 91,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "nem": {
+    "name": "Nemesis",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "neo": {
+    "name": "Kamigawa: Neon Dynasty",
+    "total": 287,
+    "common_land": 16,
+    "common": 106,
+    "uncommon": 88,
+    "rare": 59,
+    "mythic": 18
+  },
+  "por": {
+    "name": "Portal",
+    "total": 200,
+    "common_land": 5,
+    "common": 85,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "cmm": {
+    "name": "Commander Masters",
+    "total": 440,
+    "common_land": 15,
+    "common": 120,
+    "uncommon": 135,
+    "rare": 135,
+    "mythic": 35
+  },
+  "bok": {
+    "name": "Betrayers of Kamigawa",
+    "total": 165,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "hou": {
+    "name": "Hour of Devastation",
+    "total": 189,
+    "common_land": 11,
+    "common": 64,
+    "uncommon": 60,
+    "rare": 42,
+    "mythic": 12
+  },
+  "2ed": {
+    "name": "Unlimited Edition",
+    "total": 292,
+    "common_land": 5,
+    "common": 75,
+    "uncommon": 95,
+    "rare": 117,
+    "mythic": 0
+  },
+  "ktk": {
+    "name": "Khans of Tarkir",
+    "total": 254,
+    "common_land": 15,
+    "common": 91,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "stx": {
+    "name": "Strixhaven: School of Mages",
+    "total": 280,
+    "common_land": 11,
+    "common": 99,
+    "uncommon": 80,
+    "rare": 69,
+    "mythic": 21
+  },
+  "8ed": {
+    "name": "Eighth Edition",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "leb": {
+    "name": "Limited Edition Beta",
+    "total": 292,
+    "common_land": 5,
+    "common": 75,
+    "uncommon": 95,
+    "rare": 117,
+    "mythic": 0
+  },
+  "mmq": {
+    "name": "Mercadian Masques",
+    "total": 335,
+    "common_land": 10,
+    "common": 105,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "con": {
+    "name": "Conflux",
+    "total": 145,
+    "common_land": 1,
+    "common": 59,
+    "uncommon": 40,
+    "rare": 35,
+    "mythic": 10
+  },
+  "tle": {
+    "name": "Avatar: The Last Airbender Eternal",
+    "total": 61,
+    "common_land": 0,
+    "common": 0,
+    "uncommon": 0,
+    "rare": 0,
+    "mythic": 61
+  },
+  "roe": {
+    "name": "Rise of the Eldrazi",
+    "total": 233,
+    "common_land": 6,
+    "common": 99,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "cn2": {
+    "name": "Conspiracy: Take the Crown",
+    "total": 221,
+    "common_land": 1,
+    "common": 89,
+    "uncommon": 67,
+    "rare": 50,
+    "mythic": 14
+  },
+  "frf": {
+    "name": "Fate Reforged",
+    "total": 180,
+    "common_land": 15,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 35,
+    "mythic": 10
+  },
+  "csp": {
+    "name": "Coldsnap",
+    "total": 155,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 55,
+    "rare": 40,
+    "mythic": 0
+  },
+  "znr": {
+    "name": "Zendikar Rising",
+    "total": 270,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 64,
+    "mythic": 20
+  },
+  "ori": {
+    "name": "Magic Origins",
+    "total": 257,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 55,
+    "mythic": 16
+  },
+  "fut": {
+    "name": "Future Sight",
+    "total": 180,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 60,
+    "mythic": 0
+  },
+  "ecl": {
+    "name": "Lorwyn Eclipsed",
+    "total": 278,
+    "common_land": 6,
+    "common": 80,
+    "uncommon": 100,
+    "rare": 68,
+    "mythic": 24
+  },
+  "dbl": {
+    "name": "Innistrad: Double Feature",
+    "total": 531,
+    "common_land": 1,
+    "common": 196,
+    "uncommon": 166,
+    "rare": 128,
+    "mythic": 40
+  },
+  "jud": {
+    "name": "Judgment",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "unf": {
+    "name": "Unfinity",
+    "total": 254,
+    "common_land": 6,
+    "common": 89,
+    "uncommon": 87,
+    "rare": 54,
+    "mythic": 18
+  },
+  "4ed": {
+    "name": "Fourth Edition",
+    "total": 368,
+    "common_land": 5,
+    "common": 121,
+    "uncommon": 121,
+    "rare": 121,
+    "mythic": 0
+  },
+  "cmr": {
+    "name": "Commander Legends",
+    "total": 360,
+    "common_land": 5,
+    "common": 136,
+    "uncommon": 120,
+    "rare": 77,
+    "mythic": 22
+  },
+  "eve": {
+    "name": "Eventide",
+    "total": 180,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 60,
+    "mythic": 0
+  },
+  "iko": {
+    "name": "Ikoria: Lair of Behemoths",
+    "total": 264,
+    "common_land": 16,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "ptk": {
+    "name": "Portal Three Kingdoms",
+    "total": 170,
+    "common_land": 5,
+    "common": 55,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "10e": {
+    "name": "Tenth Edition",
+    "total": 368,
+    "common_land": 6,
+    "common": 120,
+    "uncommon": 121,
+    "rare": 121,
+    "mythic": 0
+  },
+  "inr": {
+    "name": "Innistrad Remastered",
+    "total": 290,
+    "common_land": 1,
+    "common": 88,
+    "uncommon": 104,
+    "rare": 73,
+    "mythic": 24
+  },
+  "bro": {
+    "name": "The Brothers' War",
+    "total": 275,
+    "common_land": 7,
+    "common": 99,
+    "uncommon": 80,
+    "rare": 63,
+    "mythic": 26
+  },
+  "kld": {
+    "name": "Kaladesh",
+    "total": 254,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "rav": {
+    "name": "Ravnica: City of Guilds",
+    "total": 291,
+    "common_land": 9,
+    "common": 106,
+    "uncommon": 88,
+    "rare": 88,
+    "mythic": 0
+  },
+  "ice": {
+    "name": "Ice Age",
+    "total": 373,
+    "common_land": 5,
+    "common": 126,
+    "uncommon": 121,
+    "rare": 121,
+    "mythic": 0
+  },
+  "sum": {
+    "name": "Summer Magic / Edgar",
+    "total": 296,
+    "common_land": 5,
+    "common": 75,
+    "uncommon": 95,
+    "rare": 121,
+    "mythic": 0
+  },
+  "war": {
+    "name": "War of the Spark",
+    "total": 254,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "rvr": {
+    "name": "Ravnica Remastered",
+    "total": 291,
+    "common_land": 10,
+    "common": 100,
+    "uncommon": 90,
+    "rare": 71,
+    "mythic": 20
+  },
+  "rix": {
+    "name": "Rivals of Ixalan",
+    "total": 196,
+    "common_land": 6,
+    "common": 69,
+    "uncommon": 60,
+    "rare": 48,
+    "mythic": 13
+  },
+  "all": {
+    "name": "Alliances",
+    "total": 144,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 43,
+    "rare": 46,
+    "mythic": 0
+  },
+  "gpt": {
+    "name": "Guildpact",
+    "total": 165,
+    "common_land": 3,
+    "common": 52,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "2xm": {
+    "name": "Double Masters",
+    "total": 332,
+    "common_land": 3,
+    "common": 88,
+    "uncommon": 80,
+    "rare": 121,
+    "mythic": 40
+  },
+  "m14": {
+    "name": "Magic 2014",
+    "total": 234,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "dst": {
+    "name": "Darksteel",
+    "total": 165,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "som": {
+    "name": "Scars of Mirrodin",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "6ed": {
+    "name": "Classic Sixth Edition",
+    "total": 335,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "dis": {
+    "name": "Dissension",
+    "total": 180,
+    "common_land": 3,
+    "common": 57,
+    "uncommon": 60,
+    "rare": 60,
+    "mythic": 0
+  },
+  "m12": {
+    "name": "Magic 2012",
+    "total": 234,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "m11": {
+    "name": "Magic 2011",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "arb": {
+    "name": "Alara Reborn",
+    "total": 145,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 40,
+    "rare": 35,
+    "mythic": 10
+  },
+  "chk": {
+    "name": "Champions of Kamigawa",
+    "total": 291,
+    "common_land": 5,
+    "common": 110,
+    "uncommon": 88,
+    "rare": 88,
+    "mythic": 0
+  },
+  "hml": {
+    "name": "Homelands",
+    "total": 115,
+    "common_land": 0,
+    "common": 46,
+    "uncommon": 27,
+    "rare": 42,
+    "mythic": 0
+  },
+  "m20": {
+    "name": "Core Set 2020",
+    "total": 265,
+    "common_land": 16,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "mrd": {
+    "name": "Mirrodin",
+    "total": 291,
+    "common_land": 6,
+    "common": 109,
+    "uncommon": 88,
+    "rare": 88,
+    "mythic": 0
+  },
+  "mkm": {
+    "name": "Murders at Karlov Manor",
+    "total": 276,
+    "common_land": 7,
+    "common": 79,
+    "uncommon": 100,
+    "rare": 70,
+    "mythic": 20
+  },
+  "ust": {
+    "name": "Unstable",
+    "total": 249,
+    "common_land": 6,
+    "common": 77,
+    "uncommon": 90,
+    "rare": 61,
+    "mythic": 15
+  },
+  "fdn": {
+    "name": "Foundations",
+    "total": 276,
+    "common_land": 16,
+    "common": 79,
+    "uncommon": 101,
+    "rare": 60,
+    "mythic": 20
+  },
+  "5dn": {
+    "name": "Fifth Dawn",
+    "total": 165,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 55,
+    "rare": 55,
+    "mythic": 0
+  },
+  "ima": {
+    "name": "Iconic Masters",
+    "total": 249,
+    "common_land": 3,
+    "common": 98,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "uma": {
+    "name": "Ultimate Masters",
+    "total": 254,
+    "common_land": 1,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 20
+  },
+  "eoe": {
+    "name": "Edge of Eternities",
+    "total": 266,
+    "common_land": 6,
+    "common": 80,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "mor": {
+    "name": "Morningtide",
+    "total": 150,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 40,
+    "rare": 50,
+    "mythic": 0
+  },
+  "soi": {
+    "name": "Shadows over Innistrad",
+    "total": 287,
+    "common_land": 6,
+    "common": 104,
+    "uncommon": 100,
+    "rare": 59,
+    "mythic": 18
+  },
+  "ths": {
+    "name": "Theros",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "usg": {
+    "name": "Urza's Saga",
+    "total": 335,
+    "common_land": 10,
+    "common": 105,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "m15": {
+    "name": "Magic 2015",
+    "total": 254,
+    "common_land": 7,
+    "common": 99,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "exp": {
+    "name": "Zendikar Expeditions",
+    "total": 45,
+    "common_land": 0,
+    "common": 0,
+    "uncommon": 0,
+    "rare": 0,
+    "mythic": 45
+  },
+  "rtr": {
+    "name": "Return to Ravnica",
+    "total": 254,
+    "common_land": 11,
+    "common": 95,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "sth": {
+    "name": "Stronghold",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "tor": {
+    "name": "Torment",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "thb": {
+    "name": "Theros Beyond Death",
+    "total": 254,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "chr": {
+    "name": "Chronicles",
+    "total": 116,
+    "common_land": 0,
+    "common": 37,
+    "uncommon": 34,
+    "rare": 45,
+    "mythic": 0
+  },
+  "one": {
+    "name": "Phyrexia: All Will Be One",
+    "total": 266,
+    "common_land": 11,
+    "common": 95,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "bng": {
+    "name": "Born of the Gods",
+    "total": 165,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 35,
+    "mythic": 10
+  },
+  "m21": {
+    "name": "Core Set 2021",
+    "total": 264,
+    "common_land": 16,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "fem": {
+    "name": "Fallen Empires",
+    "total": 102,
+    "common_land": 0,
+    "common": 36,
+    "uncommon": 30,
+    "rare": 36,
+    "mythic": 0
+  },
+  "dka": {
+    "name": "Dark Ascension",
+    "total": 158,
+    "common_land": 2,
+    "common": 62,
+    "uncommon": 44,
+    "rare": 38,
+    "mythic": 12
+  },
+  "mat": {
+    "name": "March of the Machine: The Aftermath",
+    "total": 50,
+    "common_land": 0,
+    "common": 0,
+    "uncommon": 15,
+    "rare": 25,
+    "mythic": 10
+  },
+  "scg": {
+    "name": "Scourge",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "wth": {
+    "name": "Weatherlight",
+    "total": 167,
+    "common_land": 0,
+    "common": 62,
+    "uncommon": 55,
+    "rare": 50,
+    "mythic": 0
+  },
+  "spm": {
+    "name": "Marvel's Spider-Man",
+    "total": 193,
+    "common_land": 11,
+    "common": 59,
+    "uncommon": 55,
+    "rare": 53,
+    "mythic": 15
+  },
+  "apc": {
+    "name": "Apocalypse",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "wwk": {
+    "name": "Worldwake",
+    "total": 145,
+    "common_land": 6,
+    "common": 54,
+    "uncommon": 40,
+    "rare": 35,
+    "mythic": 10
+  },
+  "tdm": {
+    "name": "Tarkir: Dragonstorm",
+    "total": 271,
+    "common_land": 11,
+    "common": 80,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "pls": {
+    "name": "Planeshift",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "ala": {
+    "name": "Shards of Alara",
+    "total": 234,
+    "common_land": 10,
+    "common": 96,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "ulg": {
+    "name": "Urza's Legacy",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "avr": {
+    "name": "Avacyn Restored",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "emn": {
+    "name": "Eldritch Moon",
+    "total": 208,
+    "common_land": 0,
+    "common": 75,
+    "uncommon": 70,
+    "rare": 48,
+    "mythic": 15
+  },
+  "shm": {
+    "name": "Shadowmoor",
+    "total": 286,
+    "common_land": 5,
+    "common": 121,
+    "uncommon": 80,
+    "rare": 80,
+    "mythic": 0
+  },
+  "dgm": {
+    "name": "Dragon's Maze",
+    "total": 156,
+    "common_land": 10,
+    "common": 60,
+    "uncommon": 40,
+    "rare": 35,
+    "mythic": 11
+  },
+  "exo": {
+    "name": "Exodus",
+    "total": 143,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 44,
+    "rare": 44,
+    "mythic": 0
+  },
+  "a25": {
+    "name": "Masters 25",
+    "total": 249,
+    "common_land": 1,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "plc": {
+    "name": "Planar Chaos",
+    "total": 165,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 55,
+    "rare": 50,
+    "mythic": 0
+  },
+  "afr": {
+    "name": "Adventures in the Forgotten Realms",
+    "total": 266,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 80,
+    "rare": 60,
+    "mythic": 20
+  },
+  "s99": {
+    "name": "Starter 1999",
+    "total": 158,
+    "common_land": 5,
+    "common": 63,
+    "uncommon": 55,
+    "rare": 35,
+    "mythic": 0
+  },
+  "dft": {
+    "name": "Aetherdrift",
+    "total": 276,
+    "common_land": 17,
+    "common": 79,
+    "uncommon": 100,
+    "rare": 60,
+    "mythic": 20
+  },
+  "vow": {
+    "name": "Innistrad: Crimson Vow",
+    "total": 272,
+    "common_land": 6,
+    "common": 99,
+    "uncommon": 83,
+    "rare": 64,
+    "mythic": 20
+  },
+  "khm": {
+    "name": "Kaldheim",
+    "total": 280,
+    "common_land": 0,
+    "common": 116,
+    "uncommon": 80,
+    "rare": 64,
+    "mythic": 20
+  },
+  "m10": {
+    "name": "Magic 2010",
+    "total": 234,
+    "common_land": 6,
+    "common": 100,
+    "uncommon": 60,
+    "rare": 53,
+    "mythic": 15
+  },
+  "leg": {
+    "name": "Legends",
+    "total": 310,
+    "common_land": 0,
+    "common": 75,
+    "uncommon": 114,
+    "rare": 121,
+    "mythic": 0
+  },
+  "lea": {
+    "name": "Limited Edition Alpha",
+    "total": 290,
+    "common_land": 5,
+    "common": 74,
+    "uncommon": 95,
+    "rare": 116,
+    "mythic": 0
+  },
+  "ons": {
+    "name": "Onslaught",
+    "total": 335,
+    "common_land": 10,
+    "common": 105,
+    "uncommon": 110,
+    "rare": 110,
+    "mythic": 0
+  },
+  "bbd": {
+    "name": "Battlebond",
+    "total": 254,
+    "common_land": 5,
+    "common": 101,
+    "uncommon": 80,
+    "rare": 53,
+    "mythic": 15
+  },
+  "mid": {
+    "name": "Innistrad: Midnight Hunt",
+    "total": 272,
+    "common_land": 6,
+    "common": 99,
+    "uncommon": 83,
+    "rare": 64,
+    "mythic": 20
+  },
+  "jou": {
+    "name": "Journey into Nyx",
+    "total": 165,
+    "common_land": 0,
+    "common": 60,
+    "uncommon": 60,
+    "rare": 35,
+    "mythic": 10
+  },
+  "lrw": {
+    "name": "Lorwyn",
+    "total": 286,
+    "common_land": 6,
+    "common": 120,
+    "uncommon": 80,
+    "rare": 80,
+    "mythic": 0
+  },
+  "lgn": {
+    "name": "Legions",
+    "total": 145,
+    "common_land": 0,
+    "common": 55,
+    "uncommon": 45,
+    "rare": 45,
+    "mythic": 0
+  },
+  "atq": {
+    "name": "Antiquities",
+    "total": 85,
+    "common_land": 1,
+    "common": 25,
+    "uncommon": 37,
+    "rare": 22,
+    "mythic": 0
+  },
+  "drk": {
+    "name": "The Dark",
+    "total": 119,
+    "common_land": 0,
+    "common": 40,
+    "uncommon": 44,
+    "rare": 35,
+    "mythic": 0
+  },
+  "acr": {
+    "name": "Assassin's Creed",
+    "total": 105,
+    "common_land": 5,
+    "common": 0,
+    "uncommon": 54,
+    "rare": 32,
+    "mythic": 14
+  },
+  "ulst": {
+    "name": "The List (Unfinity Foil Edition)",
+    "total": 2,
+    "common_land": 0,
+    "common": 0,
+    "uncommon": 0,
+    "rare": 2,
+    "mythic": 0
+  },
+  "tnph": {
+    "name": "New Phyrexia Tokens",
+    "total": 1,
+    "common_land": 0,
+    "common": 1,
+    "uncommon": 0,
+    "rare": 0,
+    "mythic": 0
+  },
+  "tsom": {
+    "name": "Scars of Mirrodin Tokens",
+    "total": 1,
+    "common_land": 0,
+    "common": 1,
+    "uncommon": 0,
+    "rare": 0,
+    "mythic": 0
+  },
+  "tmbs": {
+    "name": "Mirrodin Besieged Tokens",
+    "total": 1,
+    "common_land": 0,
+    "common": 1,
+    "uncommon": 0,
+    "rare": 0,
+    "mythic": 0
+  }
+}
