@@ -12,7 +12,8 @@ const __dirname = dirname(__filename);
 const INPUT_FILE = "bulk/default-cards.json";
 const OUTPUT_FILE = "bulk/processed-cards.ndjson";
 const SETS_FILE = "public/sets.json";
-const SETS_DIR = "public/sets";
+// const SETS_DIR = "public/sets";
+const CARD_NAMES_FILE = "public/card-names.json";
 
 type Rarity = "common" | "uncommon" | "rare" | "mythic";
 const ALLOWED_RARITIES = new Set<Rarity>(["common", "uncommon", "rare", "mythic"]);
@@ -28,6 +29,14 @@ type SetStats = {
   uncommon: number;
   rare: number;
   mythic: number;
+};
+
+type CardData = {
+  n: string;
+  s: string;
+  r: Rarity;
+  i: string;
+  p?: { eur?: string; usd?: string; }
 };
 
 function transformCard(card: any) {
@@ -70,7 +79,7 @@ async function processCards() {
   const setsPath = path.join(__dirname, "..", SETS_FILE);
 
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.mkdirSync(path.join(__dirname, "..", SETS_DIR), { recursive: true });
+  // fs.mkdirSync(path.join(__dirname, "..", SETS_DIR), { recursive: true });
 
   console.log(`Reading:  ${inputPath}`);
   console.log(`Writing:  ${outputPath}`);
@@ -79,6 +88,7 @@ async function processCards() {
   const outStream = fs.createWriteStream(outputPath, { encoding: "utf8" });
   const setsMap = new Map<string, SetStats>();
   const setCards = new Map<string, Map<string, any>>(); // Track cards per set: set -> (id -> card)
+  const cardNamesIndex: Array<CardData> = []; // All unique cards across sets
 
   let read = 0, kept = 0, skipped = 0;
 
@@ -123,6 +133,15 @@ async function processCards() {
             const stats = setsMap.get(card.set)!;
             stats.total++;
             
+            // Add to card names index
+            cardNamesIndex.push({
+              n: card.name,
+              s: card.set,
+              r: card.rarity,
+              i: card.img,
+              p: card.prices ? { eur: card.prices.eur, usd: card.prices.usd } : undefined
+            });
+            
             // Check if it's a basic land
             const isBasicLand = card.rarity === "common" && (card.type_line?.startsWith("Basic Land") || card.type_line?.startsWith("Land"));
             
@@ -151,28 +170,35 @@ async function processCards() {
       const setsObject = Object.fromEntries(setsMap);
       fs.writeFileSync(setsPath, JSON.stringify(setsObject, null, 2), 'utf8');
       
+      // Write card names index
+      const cardNamesPath = path.join(__dirname, "..", CARD_NAMES_FILE);
+      fs.writeFileSync(cardNamesPath, JSON.stringify(cardNamesIndex), 'utf8');
+      console.log(`\nCard names index written: ${cardNamesIndex.length.toLocaleString()} entries`);
+      
       // Write individual set files
       console.log(`\nWriting individual set files...`);
-      let setsWritten = 0;
-      for (const [setCode, cardsMap] of setCards) {
-        const setFilePath = path.join(__dirname, "..", SETS_DIR, `${setCode}.json`);
-        const cardsObject = Object.fromEntries(cardsMap);
-        fs.writeFileSync(setFilePath, JSON.stringify(cardsObject, null, 2), 'utf8');
-        setsWritten++;
+      // let setsWritten = 0;
+      // for (const [setCode, cardsMap] of setCards) {
+      //   const setFilePath = path.join(__dirname, "..", SETS_DIR, `${setCode}.json`);
+      //   const cardsObject = Object.fromEntries(cardsMap);
+      //   fs.writeFileSync(setFilePath, JSON.stringify(cardsObject, null, 2), 'utf8');
+      //   setsWritten++;
         
-        if (setsWritten % 100 === 0) {
-          console.log(`  Written ${setsWritten} set files...`);
-        }
-      }
+      //   if (setsWritten % 100 === 0) {
+      //     console.log(`  Written ${setsWritten} set files...`);
+      //   }
+      // }
       
       console.log("\n=== Done ===");
       console.log(`Total read:    ${read.toLocaleString()}`);
       console.log(`Total kept:    ${kept.toLocaleString()}`);
       console.log(`Total skipped: ${skipped.toLocaleString()}`);
       console.log(`Total sets:    ${setsMap.size.toLocaleString()}`);
-      console.log(`Set files:     ${setsWritten.toLocaleString()}`);
+      // console.log(`Set files:     ${setsWritten.toLocaleString()}`);
+      console.log(`Card names:    ${cardNamesIndex.length.toLocaleString()}`);
       console.log(`Output size:   ${(fs.statSync(outputPath).size / 1024 / 1024).toFixed(2)} MB`);
       console.log(`Sets size:     ${(fs.statSync(setsPath).size / 1024).toFixed(2)} KB`);
+      console.log(`Names size:    ${(fs.statSync(path.join(__dirname, "..", CARD_NAMES_FILE)).size / 1024 / 1024).toFixed(2)} MB`);
     })
     .on("error", (err: Error) => {
       outStream.end();
