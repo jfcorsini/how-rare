@@ -1,0 +1,2612 @@
+{
+  "f2126eb9-892c-4788-95cc-6f3e59f0375d": {
+    "id": "00e5a9be-bfb2-466b-b0fe-3b24694e9f84",
+    "n": "Gorger Wurm",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/0/00e5a9be-bfb2-466b-b0fe-3b24694e9f84.jpg?1562639363",
+    "p": {
+      "eur": "0.05",
+      "usd": "0.17",
+      "eur_foil": "0.22",
+      "usd_foil": "0.40"
+    },
+    "cn": "56"
+  },
+  "708b13ef-f297-4176-9d09-e633c4d600da": {
+    "id": "01072149-fe5e-4139-b3b2-3810fd220c8e",
+    "n": "Vedalken Ghoul",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/1/01072149-fe5e-4139-b3b2-3810fd220c8e.jpg?1562639369",
+    "p": {
+      "eur": "0.08",
+      "usd": "0.14",
+      "eur_foil": "0.37",
+      "usd_foil": "0.18"
+    },
+    "cn": "32"
+  },
+  "ccf8d919-1399-4bef-94ac-04c67f122828": {
+    "id": "07d8ae46-14ec-4878-ba8a-a47d4508c6d7",
+    "n": "Zealous Persecution",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/7/07d8ae46-14ec-4878-ba8a-a47d4508c6d7.jpg?1562639500",
+    "p": {
+      "eur": "0.27",
+      "usd": "0.18",
+      "eur_foil": "0.79",
+      "usd_foil": "0.62"
+    },
+    "cn": "85"
+  },
+  "b34a7a9e-d740-4ddc-9b3c-8c49555ee2aa": {
+    "id": "094a235d-a5b8-434e-b4b0-c982da45a54d",
+    "n": "Ethercaste Knight",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/9/094a235d-a5b8-434e-b4b0-c982da45a54d.jpg?1562639538",
+    "p": {
+      "eur": "0.09",
+      "usd": "0.13",
+      "eur_foil": "0.34",
+      "usd_foil": "0.82"
+    },
+    "cn": "3"
+  },
+  "7ef3f240-05a5-4fc9-a977-a729010a53c2": {
+    "id": "0b4a16be-ab3b-4020-9f26-631c0ee6730a",
+    "n": "Blitz Hellion",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/b/0b4a16be-ab3b-4020-9f26-631c0ee6730a.jpg?1562639575",
+    "p": {
+      "eur": "0.29",
+      "usd": "0.23",
+      "eur_foil": "0.59",
+      "usd_foil": "1.24"
+    },
+    "cn": "49"
+  },
+  "21f507fd-6a26-455c-879a-f838e0aa2a43": {
+    "id": "0cde5f43-0b91-45c9-9382-20ea6328266f",
+    "n": "Grixis Sojourners",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/c/0cde5f43-0b91-45c9-9382-20ea6328266f.jpg?1562639621",
+    "p": {
+      "eur": "0.04",
+      "usd": "0.06",
+      "eur_foil": "0.29",
+      "usd_foil": "0.20"
+    },
+    "cn": "112"
+  },
+  "170856f4-7c9d-494b-9bae-20e4d9eba0da": {
+    "id": "0d3fc235-d0d7-41f8-b35a-6e08761f7fa4",
+    "n": "Knight of New Alara",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/d/0d3fc235-d0d7-41f8-b35a-6e08761f7fa4.jpg?1562639637",
+    "p": {
+      "eur": "0.69",
+      "usd": "0.61",
+      "eur_foil": "2.19",
+      "usd_foil": "5.05"
+    },
+    "cn": "70"
+  },
+  "c2dbdf9d-3ac1-47d8-9ad8-57e7888e5cdd": {
+    "id": "0f6782d0-5399-4853-ae6f-0d05372dbf34",
+    "n": "Giant Ambush Beetle",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/0/f/0f6782d0-5399-4853-ae6f-0d05372dbf34.jpg?1562639689",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.15",
+      "eur_foil": "0.23",
+      "usd_foil": "0.24"
+    },
+    "cn": "137"
+  },
+  "b1d70845-869b-45f7-b4bf-1549bac51d58": {
+    "id": "105176cc-26b0-42a8-8913-5540f54656f7",
+    "n": "Nemesis of Reason",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/0/105176cc-26b0-42a8-8913-5540f54656f7.jpg?1562639710",
+    "p": {
+      "eur": "0.75",
+      "usd": "2.77",
+      "eur_foil": "5.61",
+      "usd_foil": "6.48"
+    },
+    "cn": "28"
+  },
+  "9103f01f-e60b-4cda-9102-edc4aef74cc3": {
+    "id": "10e39147-6261-4e49-b6f2-28584582489f",
+    "n": "Necromancer's Covenant",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/0/10e39147-6261-4e49-b6f2-28584582489f.jpg?1562639732",
+    "p": {
+      "eur": "0.61",
+      "usd": "0.97",
+      "eur_foil": "1.99",
+      "usd_foil": "3.26"
+    },
+    "cn": "82"
+  },
+  "4308a020-48cf-45fe-8074-dd5d0ac6d12d": {
+    "id": "11e22185-47d0-465b-8181-afe194af5cac",
+    "n": "Uril, the Miststalker",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/1/11e22185-47d0-465b-8181-afe194af5cac.jpg?1562639753",
+    "p": {
+      "eur": "1.35",
+      "usd": "1.64",
+      "eur_foil": "21.69",
+      "usd_foil": "15.59"
+    },
+    "cn": "124"
+  },
+  "488ca652-653b-4bb3-891c-874efdd418ff": {
+    "id": "13fad19c-fd45-45cf-b58c-82cdcdf49b06",
+    "n": "Pale Recluse",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/3/13fad19c-fd45-45cf-b58c-82cdcdf49b06.jpg?1562639779",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.07",
+      "eur_foil": "0.32",
+      "usd_foil": "0.26"
+    },
+    "cn": "74"
+  },
+  "40cc8ac6-114f-439d-816d-f65cd52bbbd2": {
+    "id": "14d3f7fd-f414-4c17-ad63-c8b39bde301d",
+    "n": "Jhessian Zombies",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/4/14d3f7fd-f414-4c17-ad63-c8b39bde301d.jpg?1562639811",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.20",
+      "eur_foil": "0.28",
+      "usd_foil": "0.38"
+    },
+    "cn": "22"
+  },
+  "28ebe75a-cddd-469b-be8a-286776b83388": {
+    "id": "15931d65-9b4e-4506-8f1d-714d06f9c2f3",
+    "n": "Stormcaller's Boon",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/5/15931d65-9b4e-4506-8f1d-714d06f9c2f3.jpg?1562639812",
+    "p": {
+      "eur": "0.17",
+      "usd": "0.07",
+      "eur_foil": "0.24",
+      "usd_foil": "0.36"
+    },
+    "cn": "13"
+  },
+  "610adb2b-9d52-4b70-92d1-0c7adeb93552": {
+    "id": "162feb2b-e641-4338-bcf1-1f7e7a11bb9d",
+    "n": "Bant Sureblade",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/6/162feb2b-e641-4338-bcf1-1f7e7a11bb9d.jpg?1562639838",
+    "p": {
+      "eur": "0.14",
+      "usd": "0.14",
+      "eur_foil": "0.31",
+      "usd_foil": "0.47"
+    },
+    "cn": "143"
+  },
+  "34894b92-7ebd-49be-9a67-7dc6428aaab9": {
+    "id": "16e8b418-04af-4b99-b8fd-deb1fe21a61c",
+    "n": "Defiler of Souls",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860",
+    "p": {
+      "eur": "1.34",
+      "usd": "2.21",
+      "eur_foil": "7.65",
+      "usd_foil": "6.47"
+    },
+    "cn": "37"
+  },
+  "3018c0ef-876a-4254-9513-42f351e1da3e": {
+    "id": "17e4fb54-9f31-4d75-b4ab-7b11f745b807",
+    "n": "Intimidation Bolt",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/7/17e4fb54-9f31-4d75-b4ab-7b11f745b807.jpg?1562639881",
+    "p": {
+      "eur": "0.39",
+      "usd": "0.48",
+      "eur_foil": "1.68",
+      "usd_foil": "1.89"
+    },
+    "cn": "99"
+  },
+  "a5d02339-9f6d-486e-87d8-5ec2274cf680": {
+    "id": "1a55308b-5772-430a-93e4-b65c416b86cf",
+    "n": "Meddling Mage",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/a/1a55308b-5772-430a-93e4-b65c416b86cf.jpg?1562639927",
+    "p": {
+      "eur": "1.62",
+      "usd": "1.08",
+      "eur_foil": "2.87",
+      "usd_foil": "3.15"
+    },
+    "cn": "8"
+  },
+  "c0f69063-9079-4e7a-98dc-c29da8171d33": {
+    "id": "1b58856a-f88e-4625-8636-62b5c717b956",
+    "n": "Violent Outburst",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/b/1b58856a-f88e-4625-8636-62b5c717b956.jpg?1710160894",
+    "p": {
+      "eur": "0.67",
+      "usd": "0.61",
+      "eur_foil": "3.72",
+      "usd_foil": "2.45"
+    },
+    "cn": "63"
+  },
+  "1ed63322-f877-4f1c-90bd-e1adb3668d6d": {
+    "id": "1cfb7589-a53e-4580-bd92-641fd4785934",
+    "n": "Vectis Dominator",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/1/c/1cfb7589-a53e-4580-bd92-641fd4785934.jpg?1562640010",
+    "p": {
+      "eur": "0.07",
+      "usd": "0.08",
+      "eur_foil": "0.26",
+      "usd_foil": "0.16"
+    },
+    "cn": "84"
+  },
+  "d0a3b261-3daf-4082-8bc5-e66326a6c382": {
+    "id": "2027335a-224b-411d-a59f-f4ad39b38a69",
+    "n": "Valley Rannet",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/0/2027335a-224b-411d-a59f-f4ad39b38a69.jpg?1562640043",
+    "p": {
+      "eur": "0.07",
+      "usd": "0.13",
+      "eur_foil": "0.36",
+      "usd_foil": "0.34"
+    },
+    "cn": "61"
+  },
+  "f45a2a66-04cc-4622-9c70-f2dfc1391bb1": {
+    "id": "21d4fd58-2052-4f97-b634-f89e2139d980",
+    "n": "Madrush Cyclops",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/1/21d4fd58-2052-4f97-b634-f89e2139d980.jpg?1562640089",
+    "p": {
+      "eur": "0.28",
+      "usd": "0.40",
+      "eur_foil": "1.10",
+      "usd_foil": "0.54"
+    },
+    "cn": "119"
+  },
+  "c497c4f2-62c5-44fc-b485-f8d40868d8dc": {
+    "id": "237de286-5bf0-4c8e-8504-2d01d3133b55",
+    "n": "Rhox Brute",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/3/237de286-5bf0-4c8e-8504-2d01d3133b55.jpg?1562640115",
+    "p": {
+      "eur": "0.06",
+      "usd": "0.04",
+      "eur_foil": "0.23",
+      "usd_foil": "0.19"
+    },
+    "cn": "59"
+  },
+  "687abe1c-b2fc-49e0-bd36-3db3dc3a5039": {
+    "id": "24a0860d-d3b9-4a00-a8cb-617bc317b93d",
+    "n": "Lightning Reaver",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/4/24a0860d-d3b9-4a00-a8cb-617bc317b93d.jpg?1562640145",
+    "p": {
+      "eur": "0.20",
+      "usd": "0.61",
+      "eur_foil": "1.18",
+      "usd_foil": "2.86"
+    },
+    "cn": "42"
+  },
+  "d061972e-6f4f-41a7-966a-88839f105f19": {
+    "id": "260fe443-ca03-42b1-bcee-86e5173c1aaf",
+    "n": "Offering to Asha",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/6/260fe443-ca03-42b1-bcee-86e5173c1aaf.jpg?1562640177",
+    "p": {
+      "eur": "0.09",
+      "usd": "0.14",
+      "eur_foil": "0.21",
+      "usd_foil": "0.19"
+    },
+    "cn": "9"
+  },
+  "518d0773-40fa-4b02-a89e-5711c19617cd": {
+    "id": "266a6a0d-5c56-47f5-92d0-f883f1bb7630",
+    "n": "Talon Trooper",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/6/266a6a0d-5c56-47f5-92d0-f883f1bb7630.jpg?1562640184",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.04",
+      "eur_foil": "0.15",
+      "usd_foil": null
+    },
+    "cn": "14"
+  },
+  "dd4b9e5a-b3ab-4b70-b200-228c8add9f52": {
+    "id": "289adeb9-952d-437e-aa66-358a780dc083",
+    "n": "Retaliator Griffin",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/8/289adeb9-952d-437e-aa66-358a780dc083.jpg?1562640239",
+    "p": {
+      "eur": "0.47",
+      "usd": "0.37",
+      "eur_foil": "1.19",
+      "usd_foil": "1.05"
+    },
+    "cn": "123"
+  },
+  "1d8e39c9-e04d-4328-af66-db6e1241ac06": {
+    "id": "294330bb-3e77-4524-be2c-3299cf6f841f",
+    "n": "Colossal Might",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/9/294330bb-3e77-4524-be2c-3299cf6f841f.jpg?1562640246",
+    "p": {
+      "eur": "0.25",
+      "usd": "0.15",
+      "eur_foil": "0.40",
+      "usd_foil": "0.55"
+    },
+    "cn": "51"
+  },
+  "59edd0e7-37c2-45f9-9f9d-8002be459662": {
+    "id": "2b388381-9e13-4ce7-b5b3-56a74cc23d93",
+    "n": "Grizzled Leotau",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/b/2b388381-9e13-4ce7-b5b3-56a74cc23d93.jpg?1562640292",
+    "p": {
+      "eur": "0.21",
+      "usd": "0.20",
+      "eur_foil": "0.55",
+      "usd_foil": "0.64"
+    },
+    "cn": "69"
+  },
+  "9fe57d74-0394-4263-a1b1-da9773b485a6": {
+    "id": "2c7e3c58-3cda-4891-8b3d-33bb21568cf5",
+    "n": "Double Negative",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/c/2c7e3c58-3cda-4891-8b3d-33bb21568cf5.jpg?1562640325",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.22",
+      "eur_foil": "0.57",
+      "usd_foil": "0.76"
+    },
+    "cn": "87"
+  },
+  "db444262-c40f-4c80-9d14-265c32f77cf1": {
+    "id": "2d0bfe8c-120c-4c4b-8709-efe40e26a35c",
+    "n": "Mage Slayer",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/d/2d0bfe8c-120c-4c4b-8709-efe40e26a35c.jpg?1562640336",
+    "p": {
+      "eur": "0.53",
+      "usd": "2.14",
+      "eur_foil": "3.95",
+      "usd_foil": "17.41"
+    },
+    "cn": "57"
+  },
+  "86e13e19-45df-4d73-8600-51b7caa3e6ab": {
+    "id": "2d2a9e7e-649f-457b-aba7-9c74c2704adf",
+    "n": "Sovereigns of Lost Alara",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/2/d/2d2a9e7e-649f-457b-aba7-9c74c2704adf.jpg?1562640353",
+    "p": {
+      "eur": "0.63",
+      "usd": "0.82",
+      "eur_foil": "2.41",
+      "usd_foil": "4.36"
+    },
+    "cn": "12"
+  },
+  "e1135564-ca93-4c5b-8686-cafdbaf0205e": {
+    "id": "312bbd63-d6ff-4da5-868f-ed68cbc12d43",
+    "n": "Etherium Abomination",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/1/312bbd63-d6ff-4da5-868f-ed68cbc12d43.jpg?1562640459",
+    "p": {
+      "eur": "0.06",
+      "usd": "0.12",
+      "eur_foil": "0.16",
+      "usd_foil": "0.34"
+    },
+    "cn": "20"
+  },
+  "cf5103c1-2590-4aed-b3ae-8a570f797738": {
+    "id": "335168b9-bc12-4459-9b7e-56f568a8887a",
+    "n": "Mind Funeral",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/3/335168b9-bc12-4459-9b7e-56f568a8887a.jpg?1562640495",
+    "p": {
+      "eur": "0.76",
+      "usd": "0.94",
+      "eur_foil": "2.47",
+      "usd_foil": "2.90"
+    },
+    "cn": "26"
+  },
+  "a1379c25-6daf-4efa-a517-6e6e25c31875": {
+    "id": "397e6ff5-f5ee-4963-9942-4aa25f5eb64a",
+    "n": "Glassdust Hulk",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/9/397e6ff5-f5ee-4963-9942-4aa25f5eb64a.jpg?1562640655",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.12",
+      "eur_foil": "0.30",
+      "usd_foil": "0.38"
+    },
+    "cn": "7"
+  },
+  "d3cb9b08-16d2-4574-afb5-068239dbd152": {
+    "id": "3bb8fb53-000a-4a04-afdf-38f2cd052c72",
+    "n": "Dragon Appeasement",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/b/3bb8fb53-000a-4a04-afdf-38f2cd052c72.jpg?1562640710",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.14",
+      "eur_foil": "0.37",
+      "usd_foil": "0.71"
+    },
+    "cn": "115"
+  },
+  "9e0e4217-fefe-48dd-9153-032460192b19": {
+    "id": "3c1a69e5-d099-4b13-8072-f341430f31a1",
+    "n": "Thraximundar",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/3/c/3c1a69e5-d099-4b13-8072-f341430f31a1.jpg?1562640727",
+    "p": {
+      "eur": "0.65",
+      "usd": "1.90",
+      "eur_foil": "9.48",
+      "usd_foil": "13.95"
+    },
+    "cn": "113"
+  },
+  "f0c5864f-83c3-4d99-8f97-0ab92608fff3": {
+    "id": "418f8ecb-544b-430c-8ae9-61aaaf2dfba6",
+    "n": "Sen Triplets",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/1/418f8ecb-544b-430c-8ae9-61aaaf2dfba6.jpg?1562640875",
+    "p": {
+      "eur": "3.77",
+      "usd": "7.05",
+      "eur_foil": "8.46",
+      "usd_foil": "41.57"
+    },
+    "cn": "109"
+  },
+  "b1c346a4-fc9b-474a-9d51-cac168e363fa": {
+    "id": "425b3c5b-de65-46b2-b26d-347cc31beb4c",
+    "n": "Maelstrom Nexus",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/2/425b3c5b-de65-46b2-b26d-347cc31beb4c.jpg?1562640901",
+    "p": {
+      "eur": "1.11",
+      "usd": "1.66",
+      "eur_foil": "3.14",
+      "usd_foil": "9.44"
+    },
+    "cn": "130"
+  },
+  "88bef744-550e-4f33-b1ff-a8ee990ec754": {
+    "id": "42b8d797-b01d-49cf-9818-d84bba17029d",
+    "n": "Thopter Foundry",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/2/42b8d797-b01d-49cf-9818-d84bba17029d.jpg?1562640917",
+    "p": {
+      "eur": "0.27",
+      "usd": "0.46",
+      "eur_foil": "3.91",
+      "usd_foil": "5.28"
+    },
+    "cn": "133"
+  },
+  "176c0ca2-0ca1-45e2-8412-86de5dbead48": {
+    "id": "49876185-e23d-4137-8612-1347da3a1df6",
+    "n": "Aven Mimeomancer",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/9/49876185-e23d-4137-8612-1347da3a1df6.jpg?1562641062",
+    "p": {
+      "eur": "0.43",
+      "usd": "0.34",
+      "eur_foil": "1.35",
+      "usd_foil": "2.25"
+    },
+    "cn": "2"
+  },
+  "0b9a477b-f2dd-47b2-8493-eb63f44a2688": {
+    "id": "4b3a7470-b93e-4c3a-ab1c-0a4dd401e95a",
+    "n": "Soulquake",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/4/b/4b3a7470-b93e-4c3a-ab1c-0a4dd401e95a.jpg?1562641103",
+    "p": {
+      "eur": "0.27",
+      "usd": "0.22",
+      "eur_foil": "0.60",
+      "usd_foil": "1.04"
+    },
+    "cn": "30"
+  },
+  "86b8a9ef-7cdf-47e9-accb-16fe1eab718f": {
+    "id": "551518b7-1b71-4fa6-8828-5ae08eab1887",
+    "n": "Spellbound Dragon",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/5/551518b7-1b71-4fa6-8828-5ae08eab1887.jpg?1562641348",
+    "p": {
+      "eur": "0.35",
+      "usd": "0.43",
+      "eur_foil": "1.65",
+      "usd_foil": "2.64"
+    },
+    "cn": "90"
+  },
+  "7f885ffc-7245-4f00-a903-6e088007c635": {
+    "id": "5552ca9b-0245-4f91-9646-a5b5443863a2",
+    "n": "Fight to the Death",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/5/5552ca9b-0245-4f91-9646-a5b5443863a2.jpg?1562641354",
+    "p": {
+      "eur": "1.43",
+      "usd": "4.26",
+      "eur_foil": "3.08",
+      "usd_foil": "5.75"
+    },
+    "cn": "97"
+  },
+  "f1c87913-9374-41d7-ae70-444d427290b4": {
+    "id": "568785f1-47c7-4011-926f-44693f7e0233",
+    "n": "Etherwrought Page",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/6/568785f1-47c7-4011-926f-44693f7e0233.jpg?1665819482",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.24",
+      "eur_foil": "0.36",
+      "usd_foil": "0.88"
+    },
+    "cn": "108"
+  },
+  "683d8deb-2ab4-4c65-9a23-f4e733f06ba2": {
+    "id": "59038868-6278-4d8c-a107-35aa85b5648f",
+    "n": "Reborn Hope",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/59038868-6278-4d8c-a107-35aa85b5648f.jpg?1562641427",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.29",
+      "eur_foil": "0.57",
+      "usd_foil": "0.53"
+    },
+    "cn": "76"
+  },
+  "24547885-2e2c-4118-9d5e-4058471f289b": {
+    "id": "595ae3af-cc28-407a-a045-a6d71cd6be60",
+    "n": "Predatory Advantage",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/9/595ae3af-cc28-407a-a045-a6d71cd6be60.jpg?1562641449",
+    "p": {
+      "eur": "0.21",
+      "usd": "0.32",
+      "eur_foil": "0.74",
+      "usd_foil": "1.17"
+    },
+    "cn": "58"
+  },
+  "001c6369-df13-427d-89df-718d5c09f382": {
+    "id": "5ab2ba75-e52e-46f5-8a34-3fe1e07446fd",
+    "n": "Vedalken Heretic",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/a/5ab2ba75-e52e-46f5-8a34-3fe1e07446fd.jpg?1562641484",
+    "p": {
+      "eur": "0.53",
+      "usd": "0.54",
+      "eur_foil": "1.28",
+      "usd_foil": "0.78"
+    },
+    "cn": "104"
+  },
+  "d1f986dc-e0f0-4cc6-9dc4-fe97608da332": {
+    "id": "5eed1b7f-0672-4066-9e21-c5252f6dc482",
+    "n": "Naya Hushblade",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/5/e/5eed1b7f-0672-4066-9e21-c5252f6dc482.jpg?1562641591",
+    "p": {
+      "eur": "0.14",
+      "usd": "0.17",
+      "eur_foil": "0.61",
+      "usd_foil": "0.49"
+    },
+    "cn": "141"
+  },
+  "530140f1-e992-4b5e-882c-c15bacc328fa": {
+    "id": "6151001a-cf4b-4f95-a986-7181313e2224",
+    "n": "Trace of Abundance",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/1/6151001a-cf4b-4f95-a986-7181313e2224.jpg?1562641622",
+    "p": {
+      "eur": "0.94",
+      "usd": "2.30",
+      "eur_foil": "2.93",
+      "usd_foil": "4.73"
+    },
+    "cn": "142"
+  },
+  "e0e2184e-d4e3-4620-89c4-8378ce3a59c3": {
+    "id": "61e3b73a-598b-4854-b811-2fd40fbce2d0",
+    "n": "Jund Hackblade",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/1/61e3b73a-598b-4854-b811-2fd40fbce2d0.jpg?1562641629",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.11",
+      "eur_foil": "0.57",
+      "usd_foil": "0.28"
+    },
+    "cn": "138"
+  },
+  "69191459-36ca-4e71-b4bb-0270c4cdaee9": {
+    "id": "66605149-3959-4a51-8400-350e6fac2ab2",
+    "n": "Enlisted Wurm",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/6/66605149-3959-4a51-8400-350e6fac2ab2.jpg?1710406406",
+    "p": {
+      "eur": "0.15",
+      "usd": "0.13",
+      "eur_foil": "0.59",
+      "usd_foil": null
+    },
+    "cn": "68"
+  },
+  "aacec73f-9c60-4c3f-b323-6261eab342af": {
+    "id": "684ebc3a-e3b4-4dee-92ff-4a85556e0571",
+    "n": "Morbid Bloom",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/8/684ebc3a-e3b4-4dee-92ff-4a85556e0571.jpg?1562641819",
+    "p": {
+      "eur": "0.21",
+      "usd": "0.25",
+      "eur_foil": "0.49",
+      "usd_foil": "0.39"
+    },
+    "cn": "94"
+  },
+  "cdc0a1a5-d9e4-4923-b472-2fa78212167f": {
+    "id": "6ac7672c-c75f-4ce4-8f28-2c5db623e752",
+    "n": "Unbender Tine",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/a/6ac7672c-c75f-4ce4-8f28-2c5db623e752.jpg?1562641885",
+    "p": {
+      "eur": "0.21",
+      "usd": "0.28",
+      "eur_foil": "0.98",
+      "usd_foil": "1.36"
+    },
+    "cn": "15"
+  },
+  "1ad39f85-799a-42ae-852c-9117d689fe65": {
+    "id": "6c0d4f83-6319-4d40-9fee-6a44b05c8e9e",
+    "n": "Kathari Bomber",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/c/6c0d4f83-6319-4d40-9fee-6a44b05c8e9e.jpg?1562641928",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.06",
+      "eur_foil": "0.14",
+      "usd_foil": "0.19"
+    },
+    "cn": "41"
+  },
+  "07190a8b-2a59-45b3-9fbf-505161698a9c": {
+    "id": "6fc177ec-dcd5-409d-a278-d84c3e6d28fa",
+    "n": "Slave of Bolas",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/6/f/6fc177ec-dcd5-409d-a278-d84c3e6d28fa.jpg?1562642014",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.32",
+      "eur_foil": "1.32",
+      "usd_foil": "7.97"
+    },
+    "cn": "136"
+  },
+  "ff3fae6e-d8a1-46b3-a6cc-fb4e8800ee68": {
+    "id": "73887514-7644-4b2b-8c67-4b7e64150478",
+    "n": "Sanctum Plowbeast",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/3/73887514-7644-4b2b-8c67-4b7e64150478.jpg?1562642111",
+    "p": {
+      "eur": "0.05",
+      "usd": "0.13",
+      "eur_foil": "0.35",
+      "usd_foil": "0.25"
+    },
+    "cn": "10"
+  },
+  "78fa248d-7f45-4d43-b3e3-c726db938b0f": {
+    "id": "7459a075-1a5d-4053-ab49-21bb696b6400",
+    "n": "Vithian Renegades",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/4/7459a075-1a5d-4053-ab49-21bb696b6400.jpg?1562642132",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.17",
+      "eur_foil": "0.41",
+      "usd_foil": "0.58"
+    },
+    "cn": "64"
+  },
+  "4475e9a7-4e94-4965-8e7e-211d40a98217": {
+    "id": "749981d6-78e7-4f53-80a8-f211e61bd532",
+    "n": "Lavalanche",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/4/749981d6-78e7-4f53-80a8-f211e61bd532.jpg?1562642149",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.37",
+      "eur_foil": "0.82",
+      "usd_foil": "2.18"
+    },
+    "cn": "118"
+  },
+  "10821e37-8a83-4d8e-a12f-249a10933a22": {
+    "id": "75256550-bbe0-499d-909e-af10691749c2",
+    "n": "Qasali Pridemage",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/5/75256550-bbe0-499d-909e-af10691749c2.jpg?1562642150",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.22",
+      "eur_foil": "0.78",
+      "usd_foil": "1.02"
+    },
+    "cn": "75"
+  },
+  "3f65d1f8-3e46-4e3d-b087-5496a4106e4e": {
+    "id": "75ad0cc1-66bd-43c3-a296-c36cf9a64e85",
+    "n": "Veinfire Borderpost",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/5/75ad0cc1-66bd-43c3-a296-c36cf9a64e85.jpg?1562642156",
+    "p": {
+      "eur": "0.17",
+      "usd": "0.23",
+      "eur_foil": "0.52",
+      "usd_foil": "1.04"
+    },
+    "cn": "48"
+  },
+  "242dfae4-504c-45d4-9a49-f7ab515fd23a": {
+    "id": "7956a90f-e27b-4d5a-bc23-70e878b2dfeb",
+    "n": "Karrthus, Tyrant of Jund",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/9/7956a90f-e27b-4d5a-bc23-70e878b2dfeb.jpg?1562642272",
+    "p": {
+      "eur": "3.27",
+      "usd": "5.84",
+      "eur_foil": "6.91",
+      "usd_foil": "16.96"
+    },
+    "cn": "117"
+  },
+  "1499af11-274f-4f8d-b0b6-20e1693ebab7": {
+    "id": "7974a0de-6c14-431d-bfdb-2e76a1778ad0",
+    "n": "Mistvein Borderpost",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/9/7974a0de-6c14-431d-bfdb-2e76a1778ad0.jpg?1562642274",
+    "p": {
+      "eur": "0.15",
+      "usd": "0.25",
+      "eur_foil": "1.08",
+      "usd_foil": "3.00"
+    },
+    "cn": "27"
+  },
+  "4a261c42-825d-4965-8ea7-80d50c43474e": {
+    "id": "7a0c7a2a-85c1-4b20-95b9-04aab0bd0d3b",
+    "n": "Filigree Angel",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/a/7a0c7a2a-85c1-4b20-95b9-04aab0bd0d3b.jpg?1562642285",
+    "p": {
+      "eur": "0.45",
+      "usd": "0.33",
+      "eur_foil": "0.56",
+      "usd_foil": "0.46"
+    },
+    "cn": "6"
+  },
+  "81e6ade9-a38f-4655-b09c-9ca41a11face": {
+    "id": "7a12e4d0-8471-46ac-85e4-a2ea5be8bf8f",
+    "n": "Breath of Malfegor",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/a/7a12e4d0-8471-46ac-85e4-a2ea5be8bf8f.jpg?1562642287",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.21",
+      "eur_foil": "0.39",
+      "usd_foil": "0.49"
+    },
+    "cn": "35"
+  },
+  "9be3e610-f6bf-4e79-87ca-79dde27945d0": {
+    "id": "7bd3fb7a-3eed-4b0a-9de0-ed8b7cf03533",
+    "n": "Godtracker of Jund",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/b/7bd3fb7a-3eed-4b0a-9de0-ed8b7cf03533.jpg?1562642343",
+    "p": {
+      "eur": "0.04",
+      "usd": "0.08",
+      "eur_foil": "0.25",
+      "usd_foil": "0.20"
+    },
+    "cn": "55"
+  },
+  "703215df-dee2-4b82-9f32-256e1410543c": {
+    "id": "7e2de336-8c61-45b1-affd-6322530b91ca",
+    "n": "Naya Sojourners",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/e/7e2de336-8c61-45b1-affd-6322530b91ca.jpg?1562642400",
+    "p": {
+      "eur": "0.03",
+      "usd": "0.07",
+      "eur_foil": "0.19",
+      "usd_foil": "0.35"
+    },
+    "cn": "122"
+  },
+  "3f0c9466-5ab9-4205-a84f-b4b27b5a678e": {
+    "id": "7ef67487-c8e5-49bb-b0f7-e073ff2e31f1",
+    "n": "Bloodbraid Elf",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/e/7ef67487-c8e5-49bb-b0f7-e073ff2e31f1.jpg?1562642427",
+    "p": {
+      "eur": "0.25",
+      "usd": "0.39",
+      "eur_foil": "1.21",
+      "usd_foil": "3.66"
+    },
+    "cn": "50"
+  },
+  "6fb84ecd-ab60-4c2c-987d-8a0749db5777": {
+    "id": "7fcfe9da-4c82-4476-8e83-24297fe5c176",
+    "n": "Enigma Sphinx",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/7/f/7fcfe9da-4c82-4476-8e83-24297fe5c176.jpg?1562642439",
+    "p": {
+      "eur": "0.26",
+      "usd": "0.32",
+      "eur_foil": "1.73",
+      "usd_foil": "3.00"
+    },
+    "cn": "106"
+  },
+  "522297b1-493a-4c62-a82a-3017c44183e8": {
+    "id": "80a504fb-b3ce-40f9-8fcb-86d5ad038e5d",
+    "n": "Vengeful Rebirth",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.19",
+      "eur_foil": "0.29",
+      "usd_foil": "0.49"
+    },
+    "cn": "62"
+  },
+  "c0516c2c-d7c9-4763-9180-980f60205a28": {
+    "id": "832309e0-c047-4c82-baa3-16f3c76e4b6f",
+    "n": "Dauntless Escort",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/3/832309e0-c047-4c82-baa3-16f3c76e4b6f.jpg?1562642501",
+    "p": {
+      "eur": "0.45",
+      "usd": "0.50",
+      "eur_foil": "0.49",
+      "usd_foil": "0.61"
+    },
+    "cn": "67"
+  },
+  "c4a4e607-7f37-4dc6-8fc0-f77bdafeb919": {
+    "id": "8331079e-0193-4243-9db9-ec7762a27633",
+    "n": "Mycoid Shepherd",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/3/8331079e-0193-4243-9db9-ec7762a27633.jpg?1562642503",
+    "p": {
+      "eur": "0.24",
+      "usd": "0.37",
+      "eur_foil": "0.60",
+      "usd_foil": "0.65"
+    },
+    "cn": "73"
+  },
+  "ee6f1ddb-6749-4394-b2b0-4d293376f1af": {
+    "id": "83d59b32-d47f-4b05-87eb-58ffb8006fa8",
+    "n": "Igneous Pouncer",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/3/83d59b32-d47f-4b05-87eb-58ffb8006fa8.jpg?1562642519",
+    "p": {
+      "eur": "0.14",
+      "usd": "0.07",
+      "eur_foil": "0.46",
+      "usd_foil": "0.41"
+    },
+    "cn": "40"
+  },
+  "00573e77-8ff6-4acb-8683-8827d965288f": {
+    "id": "84e4a224-2db7-47d0-ba8b-98aeb50ad5d3",
+    "n": "Behemoth Sledge",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/4/84e4a224-2db7-47d0-ba8b-98aeb50ad5d3.jpg?1562642540",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.26",
+      "eur_foil": "0.76",
+      "usd_foil": "1.47"
+    },
+    "cn": "65"
+  },
+  "84a3ebc2-5c38-40ef-b5f4-62a92cbca493": {
+    "id": "893c08b2-1391-4aaf-b79c-d1125b232f73",
+    "n": "Jund Sojourners",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/9/893c08b2-1391-4aaf-b79c-d1125b232f73.jpg?1562642683",
+    "p": {
+      "eur": "0.04",
+      "usd": "0.25",
+      "eur_foil": "0.25",
+      "usd_foil": "0.20"
+    },
+    "cn": "116"
+  },
+  "0c59db70-9cb4-4edf-ba6e-12ffa7c06b7b": {
+    "id": "896d502a-d9c3-4101-92af-a8c9d945f47b",
+    "n": "Esper Sojourners",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/9/896d502a-d9c3-4101-92af-a8c9d945f47b.jpg?1562642689",
+    "p": {
+      "eur": "0.07",
+      "usd": "0.12",
+      "eur_foil": "0.24",
+      "usd_foil": "0.69"
+    },
+    "cn": "107"
+  },
+  "9738f9b7-f281-44f6-a746-9c83380b35b7": {
+    "id": "8a57cdbd-3cd2-47c1-aec8-7f4fd7a7b804",
+    "n": "Leonin Armorguard",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/a/8a57cdbd-3cd2-47c1-aec8-7f4fd7a7b804.jpg?1562642726",
+    "p": {
+      "eur": "0.17",
+      "usd": "0.08",
+      "eur_foil": "0.34",
+      "usd_foil": "0.47"
+    },
+    "cn": "72"
+  },
+  "a50c55a7-4e7e-40f6-b76c-1e32598dc9b6": {
+    "id": "8cc0c40f-1d6c-4940-9c0a-566458a8ab04",
+    "n": "Mask of Riddles",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/c/8cc0c40f-1d6c-4940-9c0a-566458a8ab04.jpg?1562642787",
+    "p": {
+      "eur": "0.40",
+      "usd": "0.64",
+      "eur_foil": "1.23",
+      "usd_foil": "5.03"
+    },
+    "cn": "25"
+  },
+  "d94a6e12-0197-4125-9a8c-431e42edb1da": {
+    "id": "8e02e9e6-4cff-404a-94a3-e844ef7cadee",
+    "n": "Gloryscale Viashino",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/e/8e02e9e6-4cff-404a-94a3-e844ef7cadee.jpg?1562642818",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.08",
+      "eur_foil": "0.34",
+      "usd_foil": "0.46"
+    },
+    "cn": "120"
+  },
+  "26f39abe-ea0b-400d-b11c-03ee4cf50915": {
+    "id": "8f4fe11d-c404-489a-b17f-34f33b1597e8",
+    "n": "Wargate",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/8/f/8f4fe11d-c404-489a-b17f-34f33b1597e8.jpg?1562642865",
+    "p": {
+      "eur": "1.96",
+      "usd": "3.35",
+      "eur_foil": "17.51",
+      "usd_foil": "66.74"
+    },
+    "cn": "129"
+  },
+  "b8141489-00fa-4aba-85d0-4c883196fece": {
+    "id": "90a788e7-f3c8-41cc-9f1a-2e9f58aabc0e",
+    "n": "Wildfield Borderpost",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/0/90a788e7-f3c8-41cc-9f1a-2e9f58aabc0e.jpg?1562642892",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.18",
+      "eur_foil": "0.62",
+      "usd_foil": "0.52"
+    },
+    "cn": "80"
+  },
+  "cc519689-031c-48ba-9c79-3f5a435a0848": {
+    "id": "90f1f430-d6a5-4380-95f2-9e0fc9e81597",
+    "n": "Drastic Revelation",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/0/90f1f430-d6a5-4380-95f2-9e0fc9e81597.jpg?1562642898",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.09",
+      "eur_foil": "0.27",
+      "usd_foil": "0.27"
+    },
+    "cn": "111"
+  },
+  "fef94125-aa8d-4147-a609-1e990961bde2": {
+    "id": "925c08bd-120d-49a5-a258-bda3859c1d4c",
+    "n": "Brainbite",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/2/925c08bd-120d-49a5-a258-bda3859c1d4c.jpg?1562642934",
+    "p": {
+      "eur": "0.05",
+      "usd": "0.06",
+      "eur_foil": "0.15",
+      "usd_foil": "0.19"
+    },
+    "cn": "18"
+  },
+  "0abe0584-d876-4827-972b-589da53dbe96": {
+    "id": "930d0de1-39af-4b08-81a3-2cca8aae5d40",
+    "n": "Identity Crisis",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/3/930d0de1-39af-4b08-81a3-2cca8aae5d40.jpg?1562642941",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.24",
+      "eur_foil": "0.75",
+      "usd_foil": "2.40"
+    },
+    "cn": "81"
+  },
+  "a292ca5b-2472-4b02-a26b-d1b5b717a34b": {
+    "id": "9650a717-b1e4-4cd2-894d-766f6b311369",
+    "n": "Fieldmist Borderpost",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/6/9650a717-b1e4-4cd2-894d-766f6b311369.jpg?1562643032",
+    "p": {
+      "eur": "0.19",
+      "usd": "0.23",
+      "eur_foil": "1.06",
+      "usd_foil": "1.53"
+    },
+    "cn": "5"
+  },
+  "49a8ca54-30d3-42d3-b122-334d24805e1b": {
+    "id": "9d521737-ee07-4387-bc07-5ced53db374d",
+    "n": "Ardent Plea",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/d/9d521737-ee07-4387-bc07-5ced53db374d.jpg?1562643193",
+    "p": {
+      "eur": "2.78",
+      "usd": "1.57",
+      "eur_foil": "15.29",
+      "usd_foil": "16.29"
+    },
+    "cn": "1"
+  },
+  "04b1280a-b084-4f65-a3f4-2ba41d6c26fa": {
+    "id": "9dbcb812-15ad-4878-9968-cfa65a352703",
+    "n": "Grixis Grimblade",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/d/9dbcb812-15ad-4878-9968-cfa65a352703.jpg?1562643209",
+    "p": {
+      "eur": "0.07",
+      "usd": "0.20",
+      "eur_foil": "0.41",
+      "usd_foil": "0.29"
+    },
+    "cn": "134"
+  },
+  "6d9aaa70-b2cc-424c-8095-a0b2fa272db3": {
+    "id": "9e6474b6-1e1a-4c29-8f01-1cabf729b34f",
+    "n": "Shield of the Righteous",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/9/e/9e6474b6-1e1a-4c29-8f01-1cabf729b34f.jpg?1562643220",
+    "p": {
+      "eur": "0.15",
+      "usd": "0.18",
+      "eur_foil": "0.46",
+      "usd_foil": "0.30"
+    },
+    "cn": "11"
+  },
+  "cba07472-7212-4411-a9f9-38a48870ad69": {
+    "id": "a197e3f2-e69f-4716-9979-a304a87506c3",
+    "n": "Spellbreaker Behemoth",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/1/a197e3f2-e69f-4716-9979-a304a87506c3.jpg?1562643286",
+    "p": {
+      "eur": "0.59",
+      "usd": "0.92",
+      "eur_foil": "0.64",
+      "usd_foil": "1.31"
+    },
+    "cn": "60"
+  },
+  "acc74d59-f587-46a2-a90b-865f721d494d": {
+    "id": "a263f594-621e-46af-8561-f7eee565a19a",
+    "n": "Nulltread Gargantuan",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/2/a263f594-621e-46af-8561-f7eee565a19a.jpg?1562643297",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.19",
+      "eur_foil": "0.37",
+      "usd_foil": "0.23"
+    },
+    "cn": "102"
+  },
+  "a73757e5-3430-42ed-8d1a-922c414c7f21": {
+    "id": "a6117bf5-4084-45bd-82aa-81cf6d9b7eb4",
+    "n": "Glory of Warfare",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/6/a6117bf5-4084-45bd-82aa-81cf6d9b7eb4.jpg?1562643407",
+    "p": {
+      "eur": "0.93",
+      "usd": "0.63",
+      "eur_foil": "1.47",
+      "usd_foil": "1.08"
+    },
+    "cn": "98"
+  },
+  "75efff64-ea9b-4e3e-a729-fc003ee3db1e": {
+    "id": "a715673f-77f1-46d6-91ae-01fb3af54760",
+    "n": "Knotvine Paladin",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/7/a715673f-77f1-46d6-91ae-01fb3af54760.jpg?1562643413",
+    "p": {
+      "eur": "0.17",
+      "usd": "0.34",
+      "eur_foil": "0.81",
+      "usd_foil": "1.60"
+    },
+    "cn": "71"
+  },
+  "92017087-18f4-46ee-8808-5959d31d0011": {
+    "id": "a856dec4-fe4f-477c-9300-e9de86d3cc95",
+    "n": "Sigil of the Nayan Gods",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/8/a856dec4-fe4f-477c-9300-e9de86d3cc95.jpg?1562643439",
+    "p": {
+      "eur": "0.19",
+      "usd": "0.19",
+      "eur_foil": "0.64",
+      "usd_foil": "0.75"
+    },
+    "cn": "78"
+  },
+  "16b723bc-aab9-40f2-8e1b-b9c2bd2af3bc": {
+    "id": "aaa47568-5668-4a9f-ad1c-9a13010ffc2b",
+    "n": "Putrid Leech",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/a/aaa47568-5668-4a9f-ad1c-9a13010ffc2b.jpg?1562643504",
+    "p": {
+      "eur": "0.20",
+      "usd": "0.13",
+      "eur_foil": "0.36",
+      "usd_foil": "0.58"
+    },
+    "cn": "95"
+  },
+  "3992369a-2158-4cf8-b7e5-be517b91c1f5": {
+    "id": "aacb131b-74c9-4e6c-9466-27710bc9441f",
+    "n": "Deadshot Minotaur",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/a/aacb131b-74c9-4e6c-9466-27710bc9441f.jpg?1562643506",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.09",
+      "eur_foil": "0.57",
+      "usd_foil": "0.45"
+    },
+    "cn": "52"
+  },
+  "137b5708-50a9-4f4c-84e6-9043be9f1989": {
+    "id": "ab106855-bd85-4c00-b596-c46d34f8cdd0",
+    "n": "Anathemancer",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/b/ab106855-bd85-4c00-b596-c46d34f8cdd0.jpg?1562643508",
+    "p": {
+      "eur": "0.36",
+      "usd": "0.68",
+      "eur_foil": "0.73",
+      "usd_foil": "1.64"
+    },
+    "cn": "33"
+  },
+  "a0f26f84-9607-4411-bca5-681ba4e57756": {
+    "id": "ab1564d7-43fe-4072-91a6-622713848b7e",
+    "n": "Singe-Mind Ogre",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/b/ab1564d7-43fe-4072-91a6-622713848b7e.jpg?1562643514",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.07",
+      "eur_foil": "0.26",
+      "usd_foil": "0.33"
+    },
+    "cn": "45"
+  },
+  "f39fd4bd-3157-42da-9a39-94e094b5f681": {
+    "id": "abcf3694-d6b0-459d-8c3a-1532237b487a",
+    "n": "Tainted Sigil",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/a/b/abcf3694-d6b0-459d-8c3a-1532237b487a.jpg?1562643530",
+    "p": {
+      "eur": "1.19",
+      "usd": "1.38",
+      "eur_foil": "3.05",
+      "usd_foil": "4.30"
+    },
+    "cn": "83"
+  },
+  "2e29025e-6954-4fbd-933f-81c2309c704e": {
+    "id": "b09e668d-02ca-4164-88ee-c7ea6c665975",
+    "n": "Monstrous Carabid",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/0/b09e668d-02ca-4164-88ee-c7ea6c665975.jpg?1562643647",
+    "p": {
+      "eur": "0.23",
+      "usd": "0.18",
+      "eur_foil": "1.10",
+      "usd_foil": "1.10"
+    },
+    "cn": "43"
+  },
+  "5cc4ee18-675e-4707-b658-ec746a1c03d8": {
+    "id": "b2b38a7e-d7c4-40c2-ba54-ae5649589cc9",
+    "n": "Thought Hemorrhage",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/2/b2b38a7e-d7c4-40c2-ba54-ae5649589cc9.jpg?1562643708",
+    "p": {
+      "eur": "0.29",
+      "usd": "0.25",
+      "eur_foil": "0.50",
+      "usd_foil": "1.00"
+    },
+    "cn": "47"
+  },
+  "419c2ae1-fec7-4c27-a7a0-99f777abb4de": {
+    "id": "bcd3cb05-c6f9-435a-a0e7-1f85da4a36eb",
+    "n": "Soul Manipulation",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/c/bcd3cb05-c6f9-435a-a0e7-1f85da4a36eb.jpg?1562643969",
+    "p": {
+      "eur": "0.09",
+      "usd": "0.21",
+      "eur_foil": "0.90",
+      "usd_foil": "0.90"
+    },
+    "cn": "29"
+  },
+  "11369d8b-6443-43c3-a60f-dd920a4e8c08": {
+    "id": "bd23ae2b-9f69-4d8d-87f9-ebcbccd67342",
+    "n": "Winged Coatl",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/d/bd23ae2b-9f69-4d8d-87f9-ebcbccd67342.jpg?1562643980",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.16",
+      "eur_foil": "0.24",
+      "usd_foil": "0.47"
+    },
+    "cn": "105"
+  },
+  "ea8c4a7d-f7fb-4620-b3a4-ae8280dd60d9": {
+    "id": "be18c2d9-60c4-454b-b6c7-7c22ed2985fb",
+    "n": "Magefire Wings",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/e/be18c2d9-60c4-454b-b6c7-7c22ed2985fb.jpg?1562644002",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.07",
+      "eur_foil": "0.17",
+      "usd_foil": "0.25"
+    },
+    "cn": "88"
+  },
+  "6cb9ca93-e0bb-4758-bf0d-c9a8fce5f11f": {
+    "id": "bfd6f5dc-2fa6-450a-a1b1-6b6e31773365",
+    "n": "Mayael's Aria",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/b/f/bfd6f5dc-2fa6-450a-a1b1-6b6e31773365.jpg?1562644048",
+    "p": {
+      "eur": "0.91",
+      "usd": "1.71",
+      "eur_foil": "6.01",
+      "usd_foil": "9.75"
+    },
+    "cn": "121"
+  },
+  "e82308d5-29ee-48eb-9d1c-f24897ef191c": {
+    "id": "c088d28d-16c2-4dd2-b036-946dfdb8ec98",
+    "n": "Sanity Gnawers",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/0/c088d28d-16c2-4dd2-b036-946dfdb8ec98.jpg?1562644064",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.19",
+      "eur_foil": "0.38",
+      "usd_foil": "0.41"
+    },
+    "cn": "44"
+  },
+  "ee988017-fc7e-4d8a-8f5c-0a7e57a8d050": {
+    "id": "c5340e18-faed-4787-a42c-c12935bb0646",
+    "n": "Ethersworn Shieldmage",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/5/c5340e18-faed-4787-a42c-c12935bb0646.jpg?1562644150",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.08",
+      "eur_foil": "0.41",
+      "usd_foil": "0.27"
+    },
+    "cn": "4"
+  },
+  "3da5977a-36d4-4f32-ab9b-8b93809d818d": {
+    "id": "c620e565-f5e1-467c-a1d1-8d05228b2f37",
+    "n": "Time Sieve",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/6/c620e565-f5e1-467c-a1d1-8d05228b2f37.jpg?1562644152",
+    "p": {
+      "eur": "5.29",
+      "usd": "7.25",
+      "eur_foil": "14.16",
+      "usd_foil": "29.47"
+    },
+    "cn": "31"
+  },
+  "2b08e5f7-c771-4e03-8560-15de6a8bec71": {
+    "id": "c62ee3ea-8b85-4b14-87ae-7fca1d98b98b",
+    "n": "Cloven Casting",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/6/c62ee3ea-8b85-4b14-87ae-7fca1d98b98b.jpg?1562644154",
+    "p": {
+      "eur": "0.25",
+      "usd": "0.29",
+      "eur_foil": "0.78",
+      "usd_foil": "0.90"
+    },
+    "cn": "86"
+  },
+  "1c96772b-463c-4655-836b-cf6e9dc6319f": {
+    "id": "c860cf0f-ef68-455f-9c71-a6dd25b51d71",
+    "n": "Sphinx of the Steel Wind",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/8/c860cf0f-ef68-455f-9c71-a6dd25b51d71.jpg?1562644175",
+    "p": {
+      "eur": "0.82",
+      "usd": "1.60",
+      "eur_foil": "4.16",
+      "usd_foil": "12.87"
+    },
+    "cn": "110"
+  },
+  "1fa3839a-127e-4740-bd2e-97b18fdddedc": {
+    "id": "cadf8cc5-ea30-46b6-99b4-e6f19eb46306",
+    "n": "Marisi's Twinclaws",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/a/cadf8cc5-ea30-46b6-99b4-e6f19eb46306.jpg?1595438195",
+    "p": {
+      "eur": "0.15",
+      "usd": "0.14",
+      "eur_foil": "0.22",
+      "usd_foil": "2.99"
+    },
+    "cn": "140"
+  },
+  "d16976b8-4eda-4415-bc16-c20d958b6f59": {
+    "id": "cc647ef4-1f17-4b8b-a312-60d548347d12",
+    "n": "Unscythe, Killer of Kings",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/c/cc647ef4-1f17-4b8b-a312-60d548347d12.jpg?1562644243",
+    "p": {
+      "eur": "0.85",
+      "usd": "1.93",
+      "eur_foil": "4.01",
+      "usd_foil": "6.23"
+    },
+    "cn": "114"
+  },
+  "3e50d4c9-343b-42e7-b777-9d479e97e776": {
+    "id": "cd0e9e1b-bd37-43a7-abd3-4582315a268d",
+    "n": "Crystallization",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/c/d/cd0e9e1b-bd37-43a7-abd3-4582315a268d.jpg?1562644250",
+    "p": {
+      "eur": "0.13",
+      "usd": "0.18",
+      "eur_foil": "0.44",
+      "usd_foil": "0.66"
+    },
+    "cn": "144"
+  },
+  "96313465-6a97-4c0e-ae9a-91e95f247f5b": {
+    "id": "d31a32e7-e709-4524-8752-ad0ec8c77fde",
+    "n": "Marrow Chomper",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/3/d31a32e7-e709-4524-8752-ad0ec8c77fde.jpg?1562644395",
+    "p": {
+      "eur": "0.20",
+      "usd": "0.19",
+      "eur_foil": "0.32",
+      "usd_foil": "0.38"
+    },
+    "cn": "93"
+  },
+  "05678253-a40f-4c11-8ac4-335b3a02532e": {
+    "id": "d3bb726e-e561-4a14-913d-afde1964c64a",
+    "n": "Finest Hour",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/3/d3bb726e-e561-4a14-913d-afde1964c64a.jpg?1562644412",
+    "p": {
+      "eur": "0.61",
+      "usd": "0.99",
+      "eur_foil": "4.18",
+      "usd_foil": "7.92"
+    },
+    "cn": "126"
+  },
+  "d06cd670-7ffc-4295-97d1-0eff042fb6d5": {
+    "id": "d643c335-e3a7-461d-a024-095795ab6770",
+    "n": "Jenara, Asura of War",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/6/d643c335-e3a7-461d-a024-095795ab6770.jpg?1562644463",
+    "p": {
+      "eur": "0.64",
+      "usd": "1.41",
+      "eur_foil": "7.41",
+      "usd_foil": "4.90"
+    },
+    "cn": "128"
+  },
+  "259b3d11-02e2-43c6-9eed-4ffabb6f9fcf": {
+    "id": "dbabaf1d-0220-438d-8263-e23d8010fe24",
+    "n": "Flurry of Wings",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/dbabaf1d-0220-438d-8263-e23d8010fe24.jpg?1562644569",
+    "p": {
+      "eur": "1.50",
+      "usd": "5.20",
+      "eur_foil": "8.47",
+      "usd_foil": "15.48"
+    },
+    "cn": "127"
+  },
+  "994cf8bb-c900-448f-b055-ecc2ee6cf9e2": {
+    "id": "dbf97c08-e074-4353-b9fa-c79793622585",
+    "n": "Sewn-Eye Drake",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/b/dbf97c08-e074-4353-b9fa-c79793622585.jpg?1562644576",
+    "p": {
+      "eur": "0.03",
+      "usd": "0.06",
+      "eur_foil": "0.23",
+      "usd_foil": "0.25"
+    },
+    "cn": "135"
+  },
+  "6257c2fd-005f-41e3-8a72-af76df1eb134": {
+    "id": "dc8acab8-4469-4baa-af2f-a3f49b841a55",
+    "n": "Terminate",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/c/dc8acab8-4469-4baa-af2f-a3f49b841a55.jpg?1562644597",
+    "p": {
+      "eur": "0.41",
+      "usd": "0.55",
+      "eur_foil": "1.38",
+      "usd_foil": "1.42"
+    },
+    "cn": "46"
+  },
+  "9cc092f9-e8f0-40ea-847d-813b70f889db": {
+    "id": "dd66cb50-6ef5-4b1f-b6c3-ad1210d2d380",
+    "n": "Wall of Denial",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/d/dd66cb50-6ef5-4b1f-b6c3-ad1210d2d380.jpg?1562644603",
+    "p": {
+      "eur": "0.55",
+      "usd": "0.41",
+      "eur_foil": "2.00",
+      "usd_foil": "6.27"
+    },
+    "cn": "16"
+  },
+  "6643fc8e-548e-48db-9f67-ffbca9e57016": {
+    "id": "df38c422-7830-4f25-b74b-ed90b7047f53",
+    "n": "Lich Lord of Unx",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/d/f/df38c422-7830-4f25-b74b-ed90b7047f53.jpg?1562644645",
+    "p": {
+      "eur": "3.16",
+      "usd": "4.58",
+      "eur_foil": "3.91",
+      "usd_foil": "5.57"
+    },
+    "cn": "24"
+  },
+  "277ff122-2d6e-441e-9ec1-980cdb393982": {
+    "id": "e0195ee6-c5d9-402e-8339-2caa50c4e46b",
+    "n": "Sigiled Behemoth",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/0/e0195ee6-c5d9-402e-8339-2caa50c4e46b.jpg?1562644651",
+    "p": {
+      "eur": "0.05",
+      "usd": "0.06",
+      "eur_foil": "0.14",
+      "usd_foil": "0.18"
+    },
+    "cn": "79"
+  },
+  "bbf07946-33d0-48fe-85af-022e9b0b834c": {
+    "id": "e27c56c6-fd72-4917-96d1-d7f9f8236fa2",
+    "n": "Kathari Remnant",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/2/e27c56c6-fd72-4917-96d1-d7f9f8236fa2.jpg?1562644707",
+    "p": {
+      "eur": "0.14",
+      "usd": "0.14",
+      "eur_foil": "0.48",
+      "usd_foil": "0.66"
+    },
+    "cn": "23"
+  },
+  "186b2fbd-8a59-4447-bd54-45a7c3ff5af2": {
+    "id": "e60ac6f0-fdec-4e2c-86c6-02d36c7bbaf5",
+    "n": "Esper Stormblade",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/6/e60ac6f0-fdec-4e2c-86c6-02d36c7bbaf5.jpg?1562644772",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.11",
+      "eur_foil": "0.33",
+      "usd_foil": "0.44"
+    },
+    "cn": "132"
+  },
+  "c87440aa-4616-49ff-a211-ebdc37767f62": {
+    "id": "e81c31c9-d7d7-4b45-893e-7e36d26c645f",
+    "n": "Lorescale Coatl",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/8/e81c31c9-d7d7-4b45-893e-7e36d26c645f.jpg?1562644825",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.26",
+      "eur_foil": "0.78",
+      "usd_foil": "0.99"
+    },
+    "cn": "101"
+  },
+  "312a5a75-9b68-4e4b-97fe-3ab644e3e493": {
+    "id": "eb37a8bd-6b6c-47f3-b7a0-5a20fa2d507c",
+    "n": "Firewild Borderpost",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/b/eb37a8bd-6b6c-47f3-b7a0-5a20fa2d507c.jpg?1562644892",
+    "p": {
+      "eur": "0.14",
+      "usd": "0.24",
+      "eur_foil": "0.56",
+      "usd_foil": "0.90"
+    },
+    "cn": "54"
+  },
+  "95ce305f-34bc-4d6d-b7ba-ffd4b2a25336": {
+    "id": "eb651c3a-cb27-4b73-8eb6-b87d65211097",
+    "n": "Maelstrom Pulse",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/b/eb651c3a-cb27-4b73-8eb6-b87d65211097.jpg?1562644898",
+    "p": {
+      "eur": "0.81",
+      "usd": "1.59",
+      "eur_foil": "2.74",
+      "usd_foil": "4.21"
+    },
+    "cn": "92"
+  },
+  "79d290ea-c095-4135-9711-f3ce089dae43": {
+    "id": "edd69ea7-aab6-4f30-98f4-640cb0a6046c",
+    "n": "Architects of Will",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/d/edd69ea7-aab6-4f30-98f4-640cb0a6046c.jpg?1562644950",
+    "p": {
+      "eur": "0.58",
+      "usd": "0.22",
+      "eur_foil": "1.84",
+      "usd_foil": "0.90"
+    },
+    "cn": "17"
+  },
+  "67ceffa4-2fdb-499c-88cd-49fb5eb9be59": {
+    "id": "eff007af-0329-4872-8621-41e90d9f06e6",
+    "n": "Bant Sojourners",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/e/f/eff007af-0329-4872-8621-41e90d9f06e6.jpg?1562645006",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.05",
+      "eur_foil": "0.18",
+      "usd_foil": "0.12"
+    },
+    "cn": "125"
+  },
+  "01fda82a-227d-4e3d-8481-a13c3812392a": {
+    "id": "f088f625-9c72-4949-8e53-c2313397a197",
+    "n": "Messenger Falcons",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/0/f088f625-9c72-4949-8e53-c2313397a197.jpg?1562645018",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.17",
+      "eur_foil": "0.34",
+      "usd_foil": "0.41"
+    },
+    "cn": "145"
+  },
+  "2500a811-2435-4915-ac83-9bfe2887621a": {
+    "id": "f09f166f-dd3c-4cf5-b5f9-3989f46f050c",
+    "n": "Deathbringer Thoctar",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/0/f09f166f-dd3c-4cf5-b5f9-3989f46f050c.jpg?1562645019",
+    "p": {
+      "eur": "0.51",
+      "usd": "0.67",
+      "eur_foil": "0.33",
+      "usd_foil": "0.99"
+    },
+    "cn": "36"
+  },
+  "f9e31993-bfe1-46fb-8a32-418e97f9cfe1": {
+    "id": "f138fe9f-3cb9-4f16-adc4-76fcb0c7e064",
+    "n": "Deny Reality",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/1/f138fe9f-3cb9-4f16-adc4-76fcb0c7e064.jpg?1562645031",
+    "p": {
+      "eur": "0.12",
+      "usd": "0.13",
+      "eur_foil": "0.33",
+      "usd_foil": "0.26"
+    },
+    "cn": "19"
+  },
+  "f5bdf226-7a83-469b-bc49-87af388d9020": {
+    "id": "f413258e-2915-41e1-ba0d-98d9d0673ab2",
+    "n": "Stun Sniper",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/4/f413258e-2915-41e1-ba0d-98d9d0673ab2.jpg?1562645067",
+    "p": {
+      "eur": "0.07",
+      "usd": "0.20",
+      "eur_foil": "0.40",
+      "usd_foil": "0.49"
+    },
+    "cn": "100"
+  },
+  "91d0a557-7a80-46d5-b823-392a84a6be44": {
+    "id": "f4d69f7f-ac70-477b-9246-8d81fef7d335",
+    "n": "Illusory Demon",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/4/f4d69f7f-ac70-477b-9246-8d81fef7d335.jpg?1562645094",
+    "p": {
+      "eur": "0.08",
+      "usd": "0.07",
+      "eur_foil": "0.29",
+      "usd_foil": "0.25"
+    },
+    "cn": "21"
+  },
+  "76bdc626-f51b-420a-ac5c-5ab33772fabe": {
+    "id": "f63c72f4-fbce-41c5-a46f-bfe4d1833965",
+    "n": "Arsenal Thresher",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/6/f63c72f4-fbce-41c5-a46f-bfe4d1833965.jpg?1562645130",
+    "p": {
+      "eur": "0.02",
+      "usd": "0.04",
+      "eur_foil": "0.21",
+      "usd_foil": "0.21"
+    },
+    "cn": "131"
+  },
+  "6db09a0a-6c8e-4829-9b55-00745f0587b5": {
+    "id": "f6a85165-5aed-4e26-a314-1370d4638deb",
+    "n": "Cerodon Yearling",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/6/f6a85165-5aed-4e26-a314-1370d4638deb.jpg?1562645142",
+    "p": {
+      "eur": "0.09",
+      "usd": "0.09",
+      "eur_foil": "0.31",
+      "usd_foil": "0.45"
+    },
+    "cn": "96"
+  },
+  "7182e6f4-6caf-474a-8759-13c56f391bef": {
+    "id": "f767f262-57fd-4479-b719-189942ddfd9e",
+    "n": "Sigil Captain",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/7/f767f262-57fd-4479-b719-189942ddfd9e.jpg?1562645158",
+    "p": {
+      "eur": "0.17",
+      "usd": "0.19",
+      "eur_foil": "0.63",
+      "usd_foil": "0.82"
+    },
+    "cn": "77"
+  },
+  "a9a6c2ba-30ba-4e45-9ea0-ea9833342069": {
+    "id": "f7f99431-ae43-4b68-82f0-faf940216c91",
+    "n": "Dragon Broodmother",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/7/f7f99431-ae43-4b68-82f0-faf940216c91.jpg?1562645170",
+    "p": {
+      "eur": "4.34",
+      "usd": "5.68",
+      "eur_foil": "20.48",
+      "usd_foil": "28.80"
+    },
+    "cn": "53"
+  },
+  "d6c008c7-6c87-4677-ba0e-6d95f10d10bc": {
+    "id": "f98a21af-cd1a-4438-a4c2-0c92ad92efef",
+    "n": "Sages of the Anima",
+    "s": "arb",
+    "r": "rare",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/9/f98a21af-cd1a-4438-a4c2-0c92ad92efef.jpg?1562645201",
+    "p": {
+      "eur": "0.33",
+      "usd": "0.32",
+      "eur_foil": "0.99",
+      "usd_foil": "0.75"
+    },
+    "cn": "103"
+  },
+  "03220765-8a9d-4d4a-88d5-98df975ce13c": {
+    "id": "fa56b15e-d02d-4306-82a6-ced778fee90f",
+    "n": "Sangrite Backlash",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/a/fa56b15e-d02d-4306-82a6-ced778fee90f.jpg?1562645217",
+    "p": {
+      "eur": "0.04",
+      "usd": "0.13",
+      "eur_foil": "0.23",
+      "usd_foil": "0.16"
+    },
+    "cn": "139"
+  },
+  "5d11cdb2-5a44-4e0e-b357-bb1be59f68fb": {
+    "id": "fafde9c4-57c0-4ae5-a4db-38aae434ddcd",
+    "n": "Skyclaw Thrash",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/a/fafde9c4-57c0-4ae5-a4db-38aae434ddcd.jpg?1562645234",
+    "p": {
+      "eur": "0.21",
+      "usd": "0.23",
+      "eur_foil": "0.33",
+      "usd_foil": "0.45"
+    },
+    "cn": "89"
+  },
+  "b090f1e5-1f7e-4492-9928-c5911a8ef95b": {
+    "id": "fb81132e-ab33-435f-ade4-af4416d36044",
+    "n": "Demonic Dread",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/b/fb81132e-ab33-435f-ade4-af4416d36044.jpg?1562645255",
+    "p": {
+      "eur": "0.28",
+      "usd": "0.24",
+      "eur_foil": "1.44",
+      "usd_foil": "1.41"
+    },
+    "cn": "38"
+  },
+  "ea5e3401-bd6c-47bb-a52a-8eec5f09455d": {
+    "id": "fbf60d69-fc68-4b23-a9e8-9d310c00a865",
+    "n": "Lord of Extinction",
+    "s": "arb",
+    "r": "mythic",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/b/fbf60d69-fc68-4b23-a9e8-9d310c00a865.jpg?1562645267",
+    "p": {
+      "eur": "3.33",
+      "usd": "4.79",
+      "eur_foil": "5.84",
+      "usd_foil": "25.90"
+    },
+    "cn": "91"
+  },
+  "937cb494-7dcb-4a40-b1e0-6e6b31f5c8a6": {
+    "id": "fcafc9eb-efa3-4f6c-a2ca-aec8692fddc1",
+    "n": "Captured Sunlight",
+    "s": "arb",
+    "r": "common",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/c/fcafc9eb-efa3-4f6c-a2ca-aec8692fddc1.jpg?1562645284",
+    "p": {
+      "eur": "0.18",
+      "usd": "0.09",
+      "eur_foil": "0.32",
+      "usd_foil": "0.32"
+    },
+    "cn": "66"
+  },
+  "d291d8f7-bb67-470c-8794-cd553c91e5cc": {
+    "id": "fd6a3c48-b01e-4462-a4a1-8d5009a6a844",
+    "n": "Bituminous Blast",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/d/fd6a3c48-b01e-4462-a4a1-8d5009a6a844.jpg?1562645297",
+    "p": {
+      "eur": "0.11",
+      "usd": "0.17",
+      "eur_foil": "0.88",
+      "usd_foil": "0.56"
+    },
+    "cn": "34"
+  },
+  "a588f047-02b4-4c6b-bce2-6e4d564296ec": {
+    "id": "ff5a4434-0d5e-4ba8-8d10-cba9b4db5713",
+    "n": "Demonspine Whip",
+    "s": "arb",
+    "r": "uncommon",
+    "f": [
+      "nonfoil",
+      "foil"
+    ],
+    "img": "https://cards.scryfall.io/normal/front/f/f/ff5a4434-0d5e-4ba8-8d10-cba9b4db5713.jpg?1562645343",
+    "p": {
+      "eur": "0.16",
+      "usd": "0.23",
+      "eur_foil": "0.36",
+      "usd_foil": "0.57"
+    },
+    "cn": "39"
+  }
+}

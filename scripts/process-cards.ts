@@ -11,8 +11,8 @@ const __dirname = dirname(__filename);
 // Download bulk "Default Cards" file from https://scryfall.com/docs/api/bulk-data
 const INPUT_FILE = "bulk/default-cards.json";
 const OUTPUT_FILE = "bulk/processed-cards.ndjson";
-const SETS_FILE = "data/sets.json";
-const SETS_DIR = "data/sets";
+const SETS_FILE = "public/sets.json";
+const SETS_DIR = "public/sets";
 
 type Rarity = "common" | "uncommon" | "rare" | "mythic";
 const ALLOWED_RARITIES = new Set<Rarity>(["common", "uncommon", "rare", "mythic"]);
@@ -54,7 +54,7 @@ function transformCard(card: any) {
 
   if (img) out.img = img;
 
-  if (card. rices) {
+  if (card.prices) {
     const { eur, usd, eur_foil, usd_foil } = card.prices;
     if (eur || usd || eur_foil || usd_foil) out.p = { eur, usd, eur_foil, usd_foil };
   }
