@@ -1,0 +1,140 @@
+.card-selector {
+  position: relative;
+  width: 100%;
+}
+
+.card-selector label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #e0e0e0;
+}
+
+.card-input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.card-input:focus {
+  outline: none;
+  border-color: #646cff;
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 20px rgba(100, 108, 255, 0.3);
+}
+
+.card-input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.card-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 0.5rem;
+  background: rgba(20, 20, 30, 0.95);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  max-height: 500px;
+  overflow-y: auto;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+}
+
+.card-option {
+  padding: 0.75rem;
+  cursor: pointer;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card-option:last-child {
+  border-bottom: none;
+}
+
+.card-option:hover {
+  background: rgba(100, 108, 255, 0.2);
+}
+
+.card-thumbnail {
+  width: 60px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.card-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.card-name {
+  font-weight: 600;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.card-details {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.card-set {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: rgba(100, 108, 255, 0.3);
+  color: #a0a8ff;
+  border: 1px solid rgba(100, 108, 255, 0.5);
+}
+
+.card-rarity {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.rarity-common {
+  background: rgba(150, 150, 150, 0.3);
+  color: #c0c0c0;
+}
+
+.rarity-uncommon {
+  background: rgba(192, 192, 192, 0.3);
+  color: #d4d4d4;
+}
+
+.rarity-rare {
+  background: rgba(255, 215, 0, 0.3);
+  color: #ffd700;
+}
+
+.rarity-mythic {
+  background: rgba(255, 69, 0, 0.3);
+  color: #ff6347;
+}
+
+.card-price {
+  font-size: 0.9rem;
+  color: #4ade80;
+  font-weight: 600;
+}
