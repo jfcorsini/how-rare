@@ -4,12 +4,12 @@
 
 .app {
   min-height: 100vh;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   background: radial-gradient(circle at top, rgba(100, 108, 255, 0.2), transparent 40%),
     linear-gradient(135deg, #0b0d1a, #111433 45%, #1a1538 100%);
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .app-main {
