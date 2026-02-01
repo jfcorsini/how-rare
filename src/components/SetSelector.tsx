@@ -6,19 +6,20 @@ interface SetSelectorProps {
   sets: SetsData;
   onSelectSet: (setCode: string) => void;
   selectedSetCode: string | null;
+  compact?: boolean;
 }
 
-export default function SetSelector({ sets, onSelectSet, selectedSetCode }: SetSelectorProps) {
+export default function SetSelector({ sets, onSelectSet, selectedSetCode, compact }: SetSelectorProps) {
   const [input, setInput] = useState('');
   const [isOpen, setIsOpen] = useState(false);
 
   const filteredSets = useMemo(() => {
     if (!input.trim()) return [];
-    
+
     const searchTerm = input.toLowerCase();
     return Object.entries(sets)
-      .filter(([code, info]) => 
-        info.name.toLowerCase().includes(searchTerm) || 
+      .filter(([code, info]) =>
+        info.name.toLowerCase().includes(searchTerm) ||
         code.toLowerCase().includes(searchTerm)
       )
       .slice(0, 10);
@@ -36,8 +37,8 @@ export default function SetSelector({ sets, onSelectSet, selectedSetCode }: SetS
   };
 
   return (
-    <div className="set-selector">
-      <label htmlFor="set-input">Filter by Set (Optional)</label>
+    <div className={`set-selector ${compact ? 'is-compact' : ''}`}>
+      {!compact && <label htmlFor="set-input">Filter by Set (Optional)</label>}
       <div className="set-input-wrapper">
         <input
           id="set-input"
@@ -48,20 +49,21 @@ export default function SetSelector({ sets, onSelectSet, selectedSetCode }: SetS
             setIsOpen(true);
           }}
           onFocus={() => setIsOpen(true)}
-          placeholder="Any set..."
+          placeholder={compact ? 'Search a set…' : 'Any set...'}
           className="set-input"
         />
         {selectedSetCode && (
-          <button 
-            className="clear-button" 
+          <button
+            className="clear-button"
             onClick={handleClear}
             title="Clear set filter"
+            type="button"
           >
             ✕
           </button>
         )}
       </div>
-      
+
       {isOpen && filteredSets.length > 0 && (
         <div className="set-dropdown">
           {filteredSets.map(([code, info]) => (

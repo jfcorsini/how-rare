@@ -138,7 +138,7 @@ async function processCards() {
               n: card.name,
               s: card.set,
               r: card.rarity,
-              i: card.img,
+              i: mini.img,
               p: card.prices ? { eur: card.prices.eur, usd: card.prices.usd } : undefined
             });
             
