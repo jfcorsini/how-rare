@@ -1,18 +1,16 @@
 import { useState, useEffect, useRef } from 'react'
 import CardSelector from './components/CardSelector'
 import ProbabilityDisplay from './components/ProbabilityDisplay'
-import SetSelector from './components/SetSelector'
 import type { SetsData, Card, SetInfo, CardNamesData } from './types'
 import './App.css'
 
-type ChipKey = 'set' | 'packs' | 'price' | 'model'
+type ChipKey = 'packs' | 'price' | 'model'
 
 function App() {
   const [sets, setSets] = useState<SetsData | null>(null)
   const [cardNames, setCardNames] = useState<CardNamesData | null>(null)
   const [selectedSetInfo, setSelectedSetInfo] = useState<SetInfo | null>(null)
   const [selectedCard, setSelectedCard] = useState<Card | null>(null)
-  const [selectedSetCode, setSelectedSetCode] = useState<string | null>(null)
   const [packs, setPacks] = useState(36)
   const [packPrice, setPackPrice] = useState(6)
   const [model, setModel] = useState('Play Booster')
@@ -60,8 +58,9 @@ function App() {
     setQuery(card.n)
 
     if (card.s) {
-      setSelectedSetCode(card.s)
       setSelectedSetInfo(sets?.[card.s] || null)
+    } else {
+      setSelectedSetInfo(null)
     }
   }
 
@@ -72,22 +71,6 @@ function App() {
       setSelectedSetInfo(null)
     }
   }
-
-  const handleSetChange = (code: string) => {
-    const normalized = code || null
-    setSelectedSetCode(normalized)
-    setActiveChip(null)
-
-    if (!normalized) return
-    if (selectedCard && selectedCard.s !== normalized) {
-      setSelectedCard(null)
-      setSelectedSetInfo(null)
-    }
-  }
-
-  const setLabel = selectedSetCode && sets
-    ? sets[selectedSetCode]?.name ?? selectedSetCode.toUpperCase()
-    : 'Any set'
 
   return (
     <div className="app">
@@ -105,7 +88,6 @@ function App() {
             <div className="spotlight-input"> 
               <CardSelector
                 cardNames={cardNames}
-                setFilter={selectedSetCode}
                 onSelectCard={handleCardSelect}
                 onInputChange={handleQueryChange}
                 value={query}
@@ -113,25 +95,6 @@ function App() {
                 disabled={loading}
               />
               <div className="chips-bar">
-                <div className="chip-wrap">
-                  <button
-                    type="button"
-                    className="chip"
-                    onClick={() => setActiveChip(activeChip === 'set' ? null : 'set')}
-                  >
-                    Set: <span>{setLabel}</span>
-                  </button>
-                  {activeChip === 'set' && (
-                    <div className="chip-popover">
-                      <SetSelector
-                        sets={sets}
-                        onSelectSet={handleSetChange}
-                        selectedSetCode={selectedSetCode}
-                        compact
-                      />
-                    </div>
-                  )}
-                </div>
                 <div className="chip-wrap">
                   <button
                     type="button"

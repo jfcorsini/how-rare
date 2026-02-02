@@ -5,7 +5,6 @@ import './CardSelector.css';
 
 interface CardSelectorProps {
   cardNames: CardNamesData;
-  setFilter?: string | null;
   onSelectCard: (card: Card) => void;
   onInputChange: (value: string) => void;
   value: string;
@@ -15,7 +14,6 @@ interface CardSelectorProps {
 
 export default function CardSelector({
   cardNames,
-  setFilter,
   onSelectCard,
   onInputChange,
   value,
@@ -44,7 +42,6 @@ export default function CardSelector({
 
     return cardNames
       .filter(entry => entry.n.toLowerCase().includes(searchTerm))
-      .filter(entry => (setFilter ? entry.s === setFilter : true))
       .slice(0, 8)
       .map(entry => ({
         n: entry.n,
@@ -54,7 +51,7 @@ export default function CardSelector({
         i: entry.i,
         p: entry.p
       } as Card));
-  }, [value, cardNames, setFilter]);
+  }, [value, cardNames]);
 
   useEffect(() => {
     if (!value.trim()) {
